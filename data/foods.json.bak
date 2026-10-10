@@ -1,0 +1,104 @@
+{
+  "foods": [
+    {
+      "food": "Nasi Goreng",
+      "image": "https://takestwoeggs.com/wp-content/uploads/2025/03/Overhead-plate-Nasi-Goreng-Indonesian-Fried-Rice.jpg",
+      "data_id": null
+    },
+    {
+      "food": "Rendang",
+      "image": "https://thegourmandiseschool.com/wp-content/uploads/2025/05/rendang-spicy-and-tender-indonesian-beef-bowl_59519610.jpg",
+      "data_id": null
+    },
+    {
+      "food": "Sate",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Sate_Ponorogo.jpg",
+      "data_id": null
+    },
+    {
+      "food": "Gado-gado",
+      "image": "https://www.recipetineats.com/tachyon/2020/06/Indonesian-Gado-Gado-SQ.jpg",
+      "data_id": null
+    },
+    {
+      "food": "Bakso",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bakso_mi_bihun.jpg/250px-Bakso_mi_bihun.jpg",
+      "data_id": null
+    },
+    {
+      "food": "Soto",
+      "image": "https://glebekitchen.com/wp-content/uploads/2019/11/sotoayamtopbowl.jpg",
+      "data_id": null
+    },
+    {
+      "food": "Nasi Uduk",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Nasi_uduk_netherlands.jpg",
+      "data_id": null
+    },
+    {
+      "food": "Nasi Padang",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nasi_Padang_Pak_Nurdin.jpg/1200px-Nasi_Padang_Pak_Nurdin.jpg",
+      "data_id": null
+    },
+    {
+      "food": "Pempek",
+      "image": "https://whattocooktoday.com/wp-content/uploads/2024/05/pempek-dos-1-1.jpg",
+      "data_id": null
+    },
+    {
+      "food": "Nasi Campur",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Plate_of_nasi_campur_%28Mandarin_Oriental_Hotel_Mahapahit%2C_Surabaya%2C_Indonesia%29.png",
+      "data_id": null
+    },
+    {
+      "food": "Ayam Goreng",
+      "image": "https://tasteofnusa.com/wp-content/uploads/2021/08/ayam-ungkep-32.jpg",
+      "data_id": null
+    },
+    {
+      "food": "Mie Goreng",
+      "image": "https://static01.nyt.com/images/2024/11/21/multimedia/ML-Mie-Goreng-Mee-Goreng-Indonesian-Fried-Noodlesrex-mvhk/ML-Mie-Goreng-Mee-Goreng-Indonesian-Fried-Noodlesrex-mvhk-videoSixteenByNineJumbo1600.jpg",
+      "data_id": null
+    },
+    {
+      "food": "Martabak",
+      "image": "https://tarasmulticulturaltable.com/wp-content/uploads/2013/09/Martabak-Telur-Javanese-Savory-Stuffed-Pancakes-8-of-9.jpg",
+      "data_id": null
+    },
+    {
+      "food": "Sop Buntut",
+      "image": "https://soyummyrecipes.com/wp-content/uploads/2021/11/Sop-Buntut.jpg",
+      "data_id": null
+    },
+    {
+      "food": "Pecel",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sego_Pecel.jpg/250px-Sego_Pecel.jpg",
+      "data_id": null
+    },
+    {
+      "food": "Rawon",
+      "image": "https://delishglobe.com/wp-content/uploads/2025/07/Rawon-Black-Beef-Soup.png",
+      "data_id": null
+    },
+    {
+      "food": "Bika Ambon",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kue_bika_ambon.JPG/1200px-Kue_bika_ambon.JPG",
+      "data_id": null
+    },
+    {
+      "food": "Gudeg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nasi_Gudeg.jpg",
+      "data_id": null
+    },
+    {
+      "food": "Tahu Goreng",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Indonesia_Tahu_goreng.JPG",
+      "data_id": null
+    },
+    {
+      "food": "Es Cendol",
+      "image": "https://www.safarfriendly.com/wp-content/uploads/2025/02/640d6eac51567.jpg",
+      "data_id": null
+    }
+  ]
+}

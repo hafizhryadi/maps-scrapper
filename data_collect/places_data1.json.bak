@@ -1,0 +1,2509 @@
+{
+  "search_metadata": {
+    "id": "68db97250d0b294a780a6c81",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/22b04a8cf4c961e0/68db97250d0b294a780a6c81.json",
+    "created_at": "2025-09-30 08:39:01 UTC",
+    "processed_at": "2025-09-30 08:39:01 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/Wisata+kuliner+kota+palembang?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/22b04a8cf4c961e0/68db97250d0b294a780a6c81.html",
+    "total_time_taken": 1.01
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "Wisata kuliner kota palembang",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "Wisata kuliner kota palembang"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Rumah Makan Pindang Musi Rawas - Palembang",
+      "place_id": "ChIJudIIQLZ1Oy4RuhKh0js2Q4A",
+      "data_id": "0x2e3b75b64008d2b9:0x8043363bd2a112ba",
+      "data_cid": "9242290490859131578",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b75b64008d2b9%3A0x8043363bd2a112ba&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b75b64008d2b9%3A0x8043363bd2a112ba&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9697513,
+        "longitude": 104.7340804
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJudIIQLZ1Oy4RuhKh0js2Q4A",
+      "provider_id": "/g/1hm2tx87m",
+      "rating": 4.5,
+      "reviews": 5803,
+      "price": "$$",
+      "type": "Indonesian restaurant",
+      "types": [
+        "Indonesian restaurant"
+      ],
+      "type_id": "indonesian_restaurant",
+      "type_ids": [
+        "indonesian_restaurant"
+      ],
+      "address": "Jl. Angkatan 45 No.18, Lorok Pakjo, Kec. Ilir Bar. I, Kota Palembang, Sumatera Selatan 30137, Indonesia",
+      "open_state": "Open ⋅ Closes 9 PM",
+      "hours": "Open ⋅ Closes 9 PM",
+      "operating_hours": {
+        "tuesday": "9 AM–9 PM",
+        "wednesday": "9 AM–9 PM",
+        "thursday": "9 AM–9 PM",
+        "friday": "9 AM–9 PM",
+        "saturday": "9 AM–9 PM",
+        "sunday": "9 AM–9 PM",
+        "monday": "9 AM–9 PM"
+      },
+      "phone": "+62 711 370590",
+      "extensions": [
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great dessert",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Private dining room",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Dessert",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/1hm2tx87m&g2lbs=AO8LyOIgXUZbAZFwJtfrLLxMnqQvdMdaxwNLi9cAQyKWMBz1ktg3_SMHnVnWd8ePoxGbm_VQPPm2VQWTtBTPLqQy-R28nCA4iA%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JZfbaMGhJ8H9ptQPm9q-wAU&ei=JZfbaMGhJ8H9ptQPm9q-wAU&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq8eGDTAYl0JuX1COPUDDFQHGupKoUdeuhqXVsapIqaecYU8eSHjfibBYxo8xv54tLUMaHDgrpCT3ENglb7gdRrIFCZMj2y5vfmJdbb-vC-mMgVY78wLLaWyH0ET9KRXOSd3C3wWOrQvzc=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/UkmaVXicBcHdGoEwAADQJ5qwUL7PBQuh5KdS7mrNhmqrrcIzegFv45zflykl5FTTcgZ7lHOak0aSGvNSkVL1MC80KiTAEkhtjkyml5VB1pY_j_P-tokGyDsElrU62utG7HiQkYZVUSgTsakSguPAIGf7cbuni_jFjVc70pUTuIlt0VogHy73NE8nNDvVmxW6uo_he9Teim2WpqBFoHBpGE-MznGSy9vuL31zd4q8cwYR7C5efWw_eNYNxhAwcwieoOR_4YhHLw"
+    },
+    {
+      "position": 2,
+      "title": "Culinary Musi Riverside",
+      "place_id": "ChIJM_0ergR2Oy4R1CXsfIFzrYM",
+      "data_id": "0x2e3b7604ae1efd33:0x83ad73817cec25d4",
+      "data_cid": "9488366989923329492",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b7604ae1efd33%3A0x83ad73817cec25d4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b7604ae1efd33%3A0x83ad73817cec25d4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9894011,
+        "longitude": 104.76276759999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJM_0ergR2Oy4R1CXsfIFzrYM",
+      "provider_id": "/g/11c1cz24mr",
+      "rating": 4.4,
+      "reviews": 785,
+      "price": "Rp 25–50K",
+      "unclaimed_listing": true,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction",
+        "Food court"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "food_court"
+      ],
+      "address": "Jl. Ps. 16 Ilir No.23, 16 Ilir, Ilir Timur I, Palembang City, South Sumatra 30122, Indonesia",
+      "open_state": "Open ⋅ Closes 9 PM",
+      "hours": "Open ⋅ Closes 9 PM",
+      "operating_hours": {
+        "tuesday": "8 AM–9 PM",
+        "wednesday": "8 AM–9 PM",
+        "thursday": "8 AM–9 PM",
+        "friday": "8 AM–9 PM",
+        "saturday": "8 AM–9 PM",
+        "sunday": "8 AM–9 PM",
+        "monday": "8 AM–9 PM"
+      },
+      "extensions": [
+        {
+          "service_options": [
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Romantic",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "payments": [
+            "Cash-only"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqu1iZJ8r1ZOyDnlCcuBqOPJRv-_YpmM2V3gXFOqfiQ6_esffyAY8f2IxhdwGdj830fwM3eM1WzpG4OkaArKR0a_ymJBBstilNbB6StQV2nXS6qJyUAzrYvesO5I67KdSnxP0h-jQ=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/wZOAqXicBcH_EkIwAADgJ1qYkrrrD-rq0mnkUvrHFZv5tWGTeMGeobfp-35fKmUj1opSUX2WcZ5VuBe4SziTmMlZwmslawRIBBCKtV3ROWt7LX84Zqc90Lhj1Tbp7RZ5zuUN4qipXRjq2X2PWpL7RowFIaMVmQQePzQdDmlh6ioZXB272m1qDnNUPq3udFGf8Vg7ti1kXp1fthFIP4TsHhitM16tqYveWKDF0Vie0oB9PJWCwt8MGoSAriAoAeN_j_RFrA"
+    },
+    {
+      "position": 3,
+      "title": "RM Sri Melayu",
+      "place_id": "ChIJcdjfq8B1Oy4Rdi863HyQRQg",
+      "data_id": "0x2e3b75c0abdfd871:0x845907cdc3a2f76",
+      "data_cid": "596041391641603958",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b75c0abdfd871%3A0x845907cdc3a2f76&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b75c0abdfd871%3A0x845907cdc3a2f76&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9720161,
+        "longitude": 104.7289972
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJcdjfq8B1Oy4Rdi863HyQRQg",
+      "provider_id": "/g/1hm3705sx",
+      "rating": 4.4,
+      "reviews": 4693,
+      "price": "$$",
+      "type": "Indonesian restaurant",
+      "types": [
+        "Indonesian restaurant"
+      ],
+      "type_id": "indonesian_restaurant",
+      "type_ids": [
+        "indonesian_restaurant"
+      ],
+      "address": "Jl. Demang Lebar Daun No.1, Demang Lebar Daun, Ilir Barat I, Palembang City, South Sumatra 30137, Indonesia",
+      "open_state": "Open ⋅ Closes 10 PM",
+      "hours": "Open ⋅ Closes 10 PM",
+      "operating_hours": {
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM"
+      },
+      "phone": "+62 711 420468",
+      "website": "https://www.facebook.com/pages/R-M-Sri-Melayu/238201882979454",
+      "description": "Classic local fare in an open-air eatery. Relaxed restaurant with a covered terrace & an old-world ambiance serving traditional local dishes.",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great dessert",
+            "Great tea selection",
+            "Live music"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Halal food",
+            "Late-night food",
+            "Private dining room",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Quiet",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Brunch reservations recommended",
+            "Lunch reservations recommended",
+            "Dinner reservations recommended",
+            "Accepts reservations",
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Good for kids birthday",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot",
+            "Paid street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nowlUbPawMMAhw4GL8sHVbx3fHG_v2UGh9cEyjtpwSiDuhveRBFn9CxBKgEaZryBKOvMstSownXAAnE74SZ0XwCwJE3KfjMAanut-TgxHvtxBE44wfFwH_cuLRfd0ce0MMO0ikN=w189-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/OCP8d3icBcFhDsEwGADQE9XGmlCJH93UFlPEEPFHproW0y7a7ZsDOoTbeO_31d43bhoEtY4GylpVy9bJt7DGS-MHwr4C1TgkHHIBTYjGxkJ9uG5L4JxqwOlq4rLjtY-qLL10o0OqiWCfh2-guM9b3cldvDAk6eNcsfL8_sT5puPOFxbMiVLDxrg4hydIYMmivHpwWprWo73qs873McMYqgVkF9GudtUtFDLkfBPen-sZDCcEaTJCT2TsH1TqRdI"
+    },
+    {
+      "position": 4,
+      "title": "Sarinande Tempo Doeloe Restaurant",
+      "place_id": "ChIJp90L8Hl2Oy4R07vIjYGeES0",
+      "data_id": "0x2e3b7679f00bdda7:0x2d119e818dc8bbd3",
+      "data_cid": "3247551085577550803",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b7679f00bdda7%3A0x2d119e818dc8bbd3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b7679f00bdda7%3A0x2d119e818dc8bbd3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9738032,
+        "longitude": 104.75778199999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJp90L8Hl2Oy4R07vIjYGeES0",
+      "provider_id": "/g/1hm45k1h4",
+      "rating": 4.5,
+      "reviews": 2314,
+      "price": "$$",
+      "type": "Restaurant",
+      "types": [
+        "Restaurant",
+        "Family restaurant",
+        "Indonesian restaurant"
+      ],
+      "type_id": "restaurant",
+      "type_ids": [
+        "restaurant",
+        "family_restaurant",
+        "indonesian_restaurant"
+      ],
+      "address": "Jl. Mayor Ruslan No.966, 20 Ilir D. I, Ilir Timur I, Palembang City, South Sumatra 30114, Indonesia",
+      "open_state": "Open ⋅ Closes 9 PM",
+      "hours": "Open ⋅ Closes 9 PM",
+      "operating_hours": {
+        "tuesday": "10 AM–9 PM",
+        "wednesday": "10 AM–9 PM",
+        "thursday": "10 AM–9 PM",
+        "friday": "10 AM–9 PM",
+        "saturday": "10 AM–9 PM",
+        "sunday": "10 AM–5 PM",
+        "monday": "10 AM–9 PM"
+      },
+      "phone": "+62 711 313037",
+      "website": "https://m.facebook.com/pages/Sarinande-Tempo-Doeloe/331842117376359",
+      "description": "Classic dishes in relaxed surrounds. Traditional restaurant with an easygoing vibe plating fish soups & other local specialties.",
+      "extensions": [
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great dessert"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Halal food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Quiet",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Brunch reservations recommended",
+            "Lunch reservations recommended",
+            "Accepts reservations",
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot",
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqmSgQka4wT0KiAxnPzboJqzOCAlR18ITbxjcxB7onTsaRcGLc2SKiQD7Jn8f55RUfT1K5TfA-o8fh7GbpPrkHwSgElEZRBiWu3u_ol--p8FOjUoN9kMZIsufO9swlsme6SKlie=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/srjk_3icBcFZDoIwEADQE1VEQMDED9wVFYUaE3-MNF2Q0kEHAvF-HsLb-N7vq5qmxollaeUMJIDUvEX-ZmAabpoBg8qSNRKGBK1oHirXvKpMnsuH29FhXES9OX1y2L0-yTzSqR1sad4_WT_zwVB8pGy9Z6MsLs4Lf2cC4XnpRVA79qiICARC-eu8Pr3LTZfJpV7e0llxbZ32DpqQOlglzwscw_Jw22IrkhA7jRUfZ7Eu-LSzxw5R4YiUxMAfAEZFPg"
+    },
+    {
+      "position": 5,
+      "title": "River Side Restaurant",
+      "place_id": "ChIJFSJMywN2Oy4RzR7bly-Bt98",
+      "data_id": "0x2e3b7603cb4c2215:0xdfb7812f97db1ecd",
+      "data_cid": "16120495432607145677",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b7603cb4c2215%3A0xdfb7812f97db1ecd&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b7603cb4c2215%3A0xdfb7812f97db1ecd&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9930556,
+        "longitude": 104.7584519
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJFSJMywN2Oy4RzR7bly-Bt98",
+      "provider_id": "/g/1pzpqx7yd",
+      "rating": 4.4,
+      "reviews": 8671,
+      "price": "$$",
+      "type": "Seafood restaurant",
+      "types": [
+        "Seafood restaurant"
+      ],
+      "type_id": "seafood_restaurant",
+      "type_ids": [
+        "seafood_restaurant"
+      ],
+      "address": "Komplek Benteng Kuto Besar Jl. Rumah Bari, 19 Ilir, Bukit Kecil, Palembang City, South Sumatra 30113, Indonesia",
+      "open_state": "Open ⋅ Closes 10 PM",
+      "hours": "Open ⋅ Closes 10 PM",
+      "operating_hours": {
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM"
+      },
+      "phone": "+62 711 368222",
+      "website": "http://riversiderestaurant.id/",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great cocktails",
+            "Great coffee",
+            "Great dessert",
+            "Great tea selection",
+            "Live music"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Cocktails",
+            "Coffee",
+            "Halal food",
+            "Late-night food",
+            "Private dining room",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Quiet",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Brunch reservations recommended",
+            "Lunch reservations recommended",
+            "Dinner reservations recommended",
+            "Accepts reservations",
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Good for kids birthday",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrmMo_-nudNPRDGzx6L4cjMRt_4cc1Ryoe6-dqGxjFYPEbhU-eD5HkgnRzjtTbOzoxojN9H5-fP5Px0aNVcmfg_LbknlvySqZ2kT9YjX40PET0iGrmOovNun0eiOLt_bWenyQH9=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XLhOhHicBcFBcoIwFADQE31BBWbiTBedamGBECmttRumxJgY4H8lwQL36yF6m77396udu9mN57V6vVBEqpWDlb0gdBLdQlDnqZsFYcF6zy9MB9h3e6oAh3PGi208j1EaCLMvXBUIsSwmkhGc7_FoXk98V-t3kNswaRQWs3Flnc80kslYEsKFh3z0v7MP0V1UldYNto_p7f61akp2Mp-Bz3elf437LqdHNqAvr3nqqvoocTok7OlnGa1BsxU0gPQPRO5GHQ"
+    },
+    {
+      "position": 6,
+      "title": "Sentra Kuliner Palembang",
+      "place_id": "ChIJmxRTfAR2Oy4RfUTubhpeXlg",
+      "data_id": "0x2e3b76047c53149b:0x585e5e1a6eee447d",
+      "data_cid": "6367630390771729533",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b76047c53149b%3A0x585e5e1a6eee447d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b76047c53149b%3A0x585e5e1a6eee447d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9904777,
+        "longitude": 104.76064319999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmxRTfAR2Oy4RfUTubhpeXlg",
+      "provider_id": "/g/11f3wt3m1k",
+      "rating": 4.3,
+      "reviews": 71,
+      "unclaimed_listing": true,
+      "type": "Business center",
+      "types": [
+        "Business center",
+        "Ikan bakar restaurant"
+      ],
+      "type_id": "business_center",
+      "type_ids": [
+        "business_center",
+        "ikan_bakar_restaurant"
+      ],
+      "address": "2Q56+R72, 19 Ilir, Bukit Kecil, Palembang City, South Sumatra 30113, Indonesia",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq8-Gm5UfAtsTYXQFOaUYDU6Qp3AP6W94P01eOB7DXwc_rfNqlYTuNr16gOS-vo4AGuk62xf_K9oMigm5nr9Ki6_4-zC0vub7GiM5UYR5DnEk5uw9ANz32pHZcMAZYogrBNuHL7=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/wBlFPHicBcFJroIwAADQE1VkaPn9iYsqiokCTkTrhmgDhQAtdhDj_TyEt_G976c2ZtD_jtPV_oRLybvS6lIxKUwpzITJ3uGDBkwD7ZAFrgPx-ANxD_OKGH2il_0qu-U0ytF-8MkOnXGwm7plNg-jy8gKVaWPjp5sqlzEsyN4yoDEtkXeqyo2WCYN76FQeNOgIgDvxfRp72HcJDCnBxiJZQvtiEn69r1hfWUJuVLJ1Ty16204G13kgxp7oAVC_gAp8kLP"
+    },
+    {
+      "position": 7,
+      "title": "Pusat Kuliner Pasar 16 Palembang Warung Uda",
+      "place_id": "ChIJ809K0AR2Oy4Ryq_Nmen6dqw",
+      "data_id": "0x2e3b7604d04a4ff3:0xac76fae999cdafca",
+      "data_cid": "12427396102990180298",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b7604d04a4ff3%3A0xac76fae999cdafca&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b7604d04a4ff3%3A0xac76fae999cdafca&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9903394999999997,
+        "longitude": 104.7629944
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ809K0AR2Oy4Ryq_Nmen6dqw",
+      "provider_id": "/g/11c51_9hr0",
+      "rating": 4.4,
+      "reviews": 408,
+      "price": "$",
+      "unclaimed_listing": true,
+      "type": "Restaurant",
+      "types": [
+        "Restaurant"
+      ],
+      "type_id": "restaurant",
+      "type_ids": [
+        "restaurant"
+      ],
+      "address": "2Q57+V59, Jl. Ps. Baru, 16 Ilir, Ilir Timur I, Palembang City, South Sumatra 30111, Indonesia",
+      "open_state": "Open ⋅ Closes 9 PM",
+      "hours": "Open ⋅ Closes 9 PM",
+      "operating_hours": {
+        "tuesday": "8:30 AM–9 PM",
+        "wednesday": "8:30 AM–9 PM",
+        "thursday": "8:30 AM–9 PM",
+        "friday": "8:30 AM–9 PM",
+        "saturday": "8:30 AM–9 PM",
+        "sunday": "8:30 AM–9 PM",
+        "monday": "8:30 AM–9 PM"
+      },
+      "website": "http://www.survive-giezag.org/",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Halal food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Historic",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Cash-only"
+          ]
+        },
+        {
+          "children": [
+            "Kids' menu"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npyRxKYhOrupDPFbRlyJ0rSBcfJPtct3MtqAnhrm7eqPzjEOLP26t5o6Zn5605cV99SNLknzN2tmxIfetvXso9CtemoV5XJTKXMQxxkE95-cuj4ufdHJDTq6VJTXBQck_HQkM4p=w80-h106-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fszbHXicBcFbjoIwFADQFVVQabWT-IGvaBUFJQT9MbEWGgttoZcR3Z-LmN3MOX9fCWDdj-dVcjwojSkr0TnRcqNBaBhwU3uldYg75LxwQWWg7fvU7y7y2HZ2Ga_vp-rN_PY85wWLgcM4gibUsq0nook_z9VxH48IYEOuGhMf84zS82Gv9OcwgrrfFgJ-c2foAkRtMpyzdJdHSd-rFcWId8-gKx4btkwbkrE0nydc3TaJigI7e019JIc-QQpp8w9V8kWR"
+    },
+    {
+      "position": 8,
+      "title": "Martabak HAR Simpang Sekip",
+      "place_id": "ChIJlVjMuNh1Oy4RoclA6A0tRx4",
+      "data_id": "0x2e3b75d8b8cc5895:0x1e472d0de840c9a1",
+      "data_cid": "2181762082238679457",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b75d8b8cc5895%3A0x1e472d0de840c9a1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b75d8b8cc5895%3A0x1e472d0de840c9a1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9721184,
+        "longitude": 104.75132789999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJlVjMuNh1Oy4RoclA6A0tRx4",
+      "provider_id": "/g/1td81llx",
+      "rating": 4.5,
+      "reviews": 4703,
+      "price": "Rp 25–50K",
+      "type": "Murtabak restaurant",
+      "types": [
+        "Murtabak restaurant",
+        "Breakfast restaurant",
+        "Diner"
+      ],
+      "type_id": "murtabak_restaurant",
+      "type_ids": [
+        "murtabak_restaurant",
+        "breakfast_restaurant",
+        "diner"
+      ],
+      "address": "Jl. Jend. Sudirman No.1078, Sungai Pangeran, Ilir Timur I, Palembang City, South Sumatra 30114, Indonesia",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "tuesday": "Open 24 hours",
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours"
+      },
+      "phone": "+62 811-7887-878",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Halal food",
+            "Late-night food",
+            "Private dining room",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Historic",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations",
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/1td81llx&g2lbs=AO8LyOK4H-87SPpLpH4ECIUAIHJeEN_pdKwCd9XKxEFiumzcIwLA5UEHdvGUTXAuFfqiDHjCf3ChGQVYp9nzesW4wA2PzWfvVw%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JZfbaMGhJ8H9ptQPm9q-wAU&ei=JZfbaMGhJ8H9ptQPm9q-wAU&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrTB2GypwVJjYjE9AAq3d1fk_IdhBAWjQ9W0dDyFJxSap_72ggloit1djCzknPS9n7sVVmP36Y-4HV2SktoSIparg7Sb8f7y6QtY95t9QoyrF_R7LagWZvYZ1zfPxh-o-Rc1RZy=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/RxP7SHicBcFbcoIwFADQFQUMKDGd6Qe-dfoBpAMDPwzySOSRm5K0GvfXRbgbz3n9C2OU_nDdUfgOB-Bj-6vbuQZpWmmcGiaXK41qjbQbbqlYyvl74x2tuqeXPu_3NAx__AZ3Q3luxCbM-phmi2ZnD5cHq1RJPM5HuBnc9NvnICNGJdFpOkV-kKPlKfXYYICdVTVzwq7rjtggNjldGRqDnQ9lQr4qnhV_eYGfXfQQCFBS46Swn3cc-EhQDw1IwhvSckSy"
+    },
+    {
+      "position": 9,
+      "title": "Bakmi Babi Aloi Palembang",
+      "place_id": "ChIJ_7FwLAx2Oy4R3X-hcrvRNkk",
+      "data_id": "0x2e3b760c2c70b1ff:0x4936d1bb72a17fdd",
+      "data_cid": "5275634616523390941",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b760c2c70b1ff%3A0x4936d1bb72a17fdd&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b760c2c70b1ff%3A0x4936d1bb72a17fdd&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9811289999999997,
+        "longitude": 104.76190509999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_7FwLAx2Oy4R3X-hcrvRNkk",
+      "provider_id": "/g/1ptz8z8yb",
+      "rating": 4.6,
+      "reviews": 2962,
+      "price": "Rp 25–50K",
+      "type": "Noodle shop",
+      "types": [
+        "Noodle shop",
+        "Breakfast restaurant"
+      ],
+      "type_id": "noodle_shop",
+      "type_ids": [
+        "noodle_shop",
+        "breakfast_restaurant"
+      ],
+      "address": "Jl. Dempo Luar No.410A, 15 Ilir, Ilir Timur I, Palembang City, South Sumatra 30111, Indonesia",
+      "open_state": "Open ⋅ Closes 9:30 PM",
+      "hours": "Open ⋅ Closes 9:30 PM",
+      "operating_hours": {
+        "tuesday": "6 AM–9:30 PM",
+        "wednesday": "6 AM–9:30 PM",
+        "thursday": "6 AM–9:30 PM",
+        "friday": "6 AM–9:30 PM",
+        "saturday": "6 AM–9:30 PM",
+        "sunday": "6 AM–2:30 PM",
+        "monday": "6 AM–9:30 PM"
+      },
+      "phone": "+62 711 354934",
+      "description": "Unfussy mainstay for Chinese noodles. Cozy, colorful venue serving traditional Chinese-style noodles, soups & meatballs.",
+      "extensions": [
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "payments": [
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/1ptz8z8yb&g2lbs=AO8LyOKGLJ3s9hzzTOJZgJn6BXAAyIx1eUyPE2XjQIiAhk8tTbCIXlrLE3aPvwry7VkjH872QU7J9uym38R9YZsgtZgEANJczg%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JZfbaMGhJ8H9ptQPm9q-wAU&ei=JZfbaMGhJ8H9ptQPm9q-wAU&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noSjya2-ivm8e1VnTLR1zL436EMvtim4VGK_X75JyhPJ7d2pMIxvdJKdlj7DInrznG5LSvlnruMnVx9XJWP9bKXvh_GVgWbBrqbtDXp0adHRFvf8bW_GVufR0b8eKmTmWDplvXa=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/LHtqGXicDclbcoIwFADQFUXkoUBn-mGLUnnMOOhA_hwCkWiTm0hCqu6vi3A3en7P858Zo_SH43DmzwYpB04nTcdOgqFgZp0UzqA06jTSzuo7ZgHI_eXeeuhsRUTdGg5F5T6KwF-uS2vOIqjT_IjDRXZnuyzsPVVub7bP8p5fwmQL4wPSRbG3HMaphPoW46zZxSTHlh3TemjI13glJsFq3vY_1caeItK8YzpVcxLRXBxEkyhucfv55y59xGIP_SKQL_S0RZk"
+    },
+    {
+      "position": 10,
+      "title": "Kampoeng Kuliner Bingen Dapur Cinta",
+      "place_id": "ChIJs3sICZ13Oy4RvwuBkb5ViJ4",
+      "data_id": "0x2e3b779d09087bb3:0x9e8855be91810bbf",
+      "data_cid": "11423474731798563775",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b779d09087bb3%3A0x9e8855be91810bbf&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b779d09087bb3%3A0x9e8855be91810bbf&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9857174,
+        "longitude": 104.77418329999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJs3sICZ13Oy4RvwuBkb5ViJ4",
+      "provider_id": "/g/11qqsk_9lm",
+      "rating": 4.4,
+      "reviews": 71,
+      "unclaimed_listing": true,
+      "type": "Restaurant",
+      "types": [
+        "Restaurant"
+      ],
+      "type_id": "restaurant",
+      "type_ids": [
+        "restaurant"
+      ],
+      "address": "2Q7F+PM7, Lrg. Waspada, 13 Ulu, Kec. Seberang Ulu II, Kota Palembang, Sumatera Selatan 30118, Indonesia",
+      "open_state": "Open ⋅ Closes 5 PM",
+      "hours": "Open ⋅ Closes 5 PM",
+      "operating_hours": {
+        "tuesday": "9 AM–5 PM",
+        "wednesday": "9 AM–5 PM",
+        "thursday": "9 AM–5 PM",
+        "friday": "9 AM–5 PM",
+        "saturday": "9 AM–5 PM",
+        "sunday": "9 AM–5 PM",
+        "monday": "9 AM–5 PM"
+      },
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great dessert",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Halal food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Quiet",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kids' menu"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrKFO4Bx0caooKVNITxosDThfYrVXmghFzX1L2QLNRKQOQBCeKabYkOhGRYel5uO0HtcxwTvIeiD9rNCKdAVI2Dmvdppfd_qb29_ghh9wpbicighNme-nMoL1yWK70XIyhUXgGbyQ=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Q_itgHicBcHRboIwFADQL6pA57LUxAeF6EgZBMMYPBkptZcIvR2tAv6g37C_2Tl_L3DO2I3n9fC2Uoiql3crR4HaSe1WAgdPGUuEJdbbhQzWeuSHbL2ffXFB5GUaFzPaqIBrPZbVoODwrIKE5kl64nmW70PJL019y-B4qmX_fs_8TyfmqXjEsovYmIa83ZUxjYZHa8y1Pf82lJ0VAJtM04lOQTpIor8wCZYf_uFX8QLflTo2S76dAkoJMEpuROM_sttGkQ"
+    },
+    {
+      "position": 11,
+      "title": "Kuliner Kapal Terapung Cek Mery",
+      "place_id": "ChIJYwAFpAN2Oy4RwlMW-GEoIEo",
+      "data_id": "0x2e3b7603a4050063:0x4a202861f81653c2",
+      "data_cid": "5341313559300559810",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b7603a4050063%3A0x4a202861f81653c2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b7603a4050063%3A0x4a202861f81653c2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9923615,
+        "longitude": 104.7604453
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYwAFpAN2Oy4RwlMW-GEoIEo",
+      "provider_id": "/g/11g6bjgzhq",
+      "rating": 4.4,
+      "reviews": 59,
+      "price": "Rp 1–50,000",
+      "unclaimed_listing": true,
+      "type": "Pempek restaurant",
+      "types": [
+        "Pempek restaurant"
+      ],
+      "type_id": "pempek_restaurant",
+      "type_ids": [
+        "pempek_restaurant"
+      ],
+      "address": "2Q56+354, Sungai Musi, 19 Ilir, Kec. Bukit Kecil, Kota Palembang, Sumatera Selatan 30113, Indonesia",
+      "open_state": "Open ⋅ Closes 10 PM",
+      "hours": "Open ⋅ Closes 10 PM",
+      "operating_hours": {
+        "tuesday": "3–10 PM",
+        "wednesday": "3–10 PM",
+        "thursday": "3–10 PM",
+        "friday": "3–10 PM",
+        "saturday": "3–10 PM",
+        "sunday": "3–10 PM",
+        "monday": "3–10 PM"
+      },
+      "extensions": [
+        {
+          "service_options": [
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Halal food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Table service"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Cash-only"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np_BFye44qdfGdvQOkFBM0r60hx3gDYX0YxzBYCzZMBqm46ZmcZSctSkCOkMRgInK7C3iWzlR26B2DAWYkwMucYns5yrw83HX1aAntdC41IRzX2t6VAzc97nBi5RnPReQhH_3kBEQ=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2jix5HicBcFdboMgAADgE1EVqJ1L9iB0_cliOmmyii_NghQaFKzQ2XLBnWG32ff9_eoQRv-aJL1GC-Wc6uXdy0k4G6QNC-GGRI0eCA98UtJCYzueyeYpMb51l233Ux_MhlTplKf6gdSaNyl_RMJpbCtyG3DeDqI9inA09GAqpvb2Y0XR9RR7BnMC1-WJm7m6C2798jnNL2jXZN-lDR3F2Z7FBob8q4yiWFlyXTL7yWStd2dkyHv9NmcQAl1AYIB1_zr5RHk"
+    },
+    {
+      "position": 12,
+      "title": "Rumah Makan Khas Palembang Sate Wak Din",
+      "place_id": "ChIJ1dra9_edOy4Rs1fHC6VfcgY",
+      "data_id": "0x2e3b9df7f7dadad5:0x6725fa50bc757b3",
+      "data_cid": "464538874044438451",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b9df7f7dadad5%3A0x6725fa50bc757b3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b9df7f7dadad5%3A0x6725fa50bc757b3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9963319,
+        "longitude": 104.7638039
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1dra9_edOy4Rs1fHC6VfcgY",
+      "provider_id": "/g/11b7lp1brl",
+      "rating": 4.6,
+      "reviews": 522,
+      "price": "Rp 25–50K",
+      "type": "Satay restaurant",
+      "types": [
+        "Satay restaurant",
+        "Diner",
+        "Indonesian restaurant"
+      ],
+      "type_id": "satay_restaurant",
+      "type_ids": [
+        "satay_restaurant",
+        "diner",
+        "indonesian_restaurant"
+      ],
+      "address": "Jl. KH. Azhari, 7 Ulu, Kecamatan Seberang Ulu I, Kota Palembang, Sumatera Selatan 30111, Indonesia",
+      "open_state": "Open ⋅ Closes 9 PM",
+      "hours": "Open ⋅ Closes 9 PM",
+      "operating_hours": {
+        "tuesday": "9 AM–9 PM",
+        "wednesday": "9 AM–9 PM",
+        "thursday": "9 AM–9 PM",
+        "friday": "9 AM–9 PM",
+        "saturday": "9 AM–9 PM",
+        "sunday": "9 AM–9 PM",
+        "monday": "9 AM–9 PM"
+      },
+      "extensions": [
+        {
+          "service_options": [
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Halal food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Cash-only"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noirRYEKnXzevz7lkGzHS3VEJDqIK26K-GHBDHJNV08i6eHWCbMaWAuM0iT-hKpugJN9l9ys0IPOGjJ8CXEkIFqJURDTR9CrXly0pydmlEh7hagaZushDXkhrs5OU_xHYgo0VE=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/mKEVWHicBcFbcoIwFADQFUVSrI8444eFSAjjY1AB_elQzORSYoIEVFifm-hues7fG9q2tgvHUTAeSWOkEp0VTWF0K3Q7KszNkbVFhUXWWXkEPrUpm_hMI50N4jHMVBUM7DBOKPfvYeROIxSwL5_xbYLn5VSw1PvZ5Omq2-DyiCCqO8m3RJHe4nC_C3753MtoFa7v_BT7x5h4TaZ6XPfXm6Iwg1zml86Cn1XQ2Mnu9P1iZ2lwQpfPD9dFQFxUIW3-AT1PQ9k"
+    },
+    {
+      "position": 13,
+      "title": "Kampung Kecil Bukit",
+      "place_id": "ChIJNROWIvF1Oy4Rph9fSFK82_Q",
+      "data_id": "0x2e3b75f122961335:0xf4dbbc52485f1fa6",
+      "data_cid": "17643903026741583782",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b75f122961335%3A0xf4dbbc52485f1fa6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b75f122961335%3A0xf4dbbc52485f1fa6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9901782,
+        "longitude": 104.73759079999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNROWIvF1Oy4Rph9fSFK82_Q",
+      "provider_id": "/g/11b77l866t",
+      "rating": 4.8,
+      "reviews": 9634,
+      "price": "Rp 25–75K",
+      "type": "Sundanese restaurant",
+      "types": [
+        "Sundanese restaurant",
+        "Indonesian restaurant",
+        "Restaurant"
+      ],
+      "type_id": "sundanese_restaurant",
+      "type_ids": [
+        "sundanese_restaurant",
+        "indonesian_restaurant",
+        "restaurant"
+      ],
+      "address": "Jln KEMANG MANIS No 03 RT 01 RW 01. KEL. KEMANG MANIS KEC. ILIR BARAT II, BUKIT BESAR, PALEMBANG, Kota Palembang, Sumatera Selatan 30144, Indonesia",
+      "open_state": "Open ⋅ Closes 10 PM",
+      "hours": "Open ⋅ Closes 10 PM",
+      "operating_hours": {
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM"
+      },
+      "website": "https://kampungkecilbukit.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great dessert",
+            "Great tea selection",
+            "Live music",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Halal food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Quiet",
+            "Romantic",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations",
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Good for kids birthday",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking",
+            "Paid parking lot",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11b77l866t&g2lbs=AO8LyOITYe6cRDfMLfZNEKrwCqTE8gRCdLr5rgkq66vNZQ6A_eMw-XnPwebx2SvglrbQoHUuJ7vPst50Icfp5-gN1Td0KIvRGg%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JZfbaMGhJ8H9ptQPm9q-wAU&ei=JZfbaMGhJ8H9ptQPm9q-wAU&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noRu3zS8EjagB0kqXXngZrK8UGSwjUNwryNox6kbUp8JyDQo7MpoL08evCpT9eXHlkqKNVyRj8jjAVUTA7IKcwW6HugUWsp_V9ZzPCdjsIZyUwmjMmKPW_jMvw6iOr2tdmUcE_WAtITaQ=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/wyqbeXicBcHdboIwGADQJ6qoLFhMdsGYUUSYPxQIN8TVpligX6XFDl9xT7C32Tl_v40xSq8dp2vcGQfgHRs1GyhIw6SZUegdrjSiGmknCP3mTcJ5dF8XvBFX_jFvH2UpeTXEmGwvVpDUDlMKP177TRTeT58nWCUKDnPMnqHKfFbuuvYRp_l0FliIICdZsIpiagtvN3JSaFXnfvU6hjeho2oithdJHx-LWiRP692_hqW59YRu6iIwUXY9vduF56LGX6IWSfgHKdBIyg"
+    },
+    {
+      "position": 14,
+      "title": "Pempek Candy",
+      "place_id": "ChIJ43pbenV2Oy4RgftxfJCtONA",
+      "data_id": "0x2e3b76757a5b7ae3:0xd038ad907c71fb81",
+      "data_cid": "15003932994659548033",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b76757a5b7ae3%3A0xd038ad907c71fb81&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b76757a5b7ae3%3A0xd038ad907c71fb81&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9744124999999997,
+        "longitude": 104.75269879999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ43pbenV2Oy4RgftxfJCtONA",
+      "provider_id": "/g/1hm3mcp_j",
+      "rating": 4.5,
+      "reviews": 4427,
+      "price": "Rp 25–75K",
+      "type": "Pempek restaurant",
+      "types": [
+        "Pempek restaurant",
+        "Breakfast restaurant",
+        "Diner"
+      ],
+      "type_id": "pempek_restaurant",
+      "type_ids": [
+        "pempek_restaurant",
+        "breakfast_restaurant",
+        "diner"
+      ],
+      "address": "Jl. Jend. Sudirman No.149/8, Sungai Pangeran, Ilir Timur I, Palembang City, South Sumatra 30126, Indonesia",
+      "open_state": "Open ⋅ Closes 10 PM",
+      "hours": "Open ⋅ Closes 10 PM",
+      "operating_hours": {
+        "tuesday": "6:30 AM–10 PM",
+        "wednesday": "6:30 AM–10 PM",
+        "thursday": "6:30 AM–10 PM",
+        "friday": "6:30 AM–10 PM",
+        "saturday": "6:30 AM–10 PM",
+        "sunday": "6:30 AM–10 PM",
+        "monday": "6:30 AM–10 PM"
+      },
+      "phone": "+62 711 363222",
+      "extensions": [
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great dessert",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Halal food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Quiet",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations",
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/1hm3mcp_j&g2lbs=AO8LyOIYwbOkpfRiNVyYNyU0wvBE1lMgCbRC8eJjoFRzKNfS5HQhI-6K5_v0zzNiyoGiYrqsSoTYV7EJOTCYBNq6eqZCf4U43g%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JZfbaMGhJ8H9ptQPm9q-wAU&ei=JZfbaMGhJ8H9ptQPm9q-wAU&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npAIrhTTrfWK9jfl2OGYRYYeXb1gIyAQ5z1BeBpvMPtx3T8Kmw3Ze0JAhV-bfJN0Bh51AmcAhvC41GGOHOYgvZ9FRkdhkNGyN89OIDu1hv8YxUTpYAcgWMXSRUCLsv5sva7LCrZ=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/EhCCxXicBcFbcoIwFADQFUWMiCXO-BHoSPEBSrEa_jSG3CmPZEiM2v25CHfTc94vsFabuee14I-kUrIVNyMGrnorejviqvOkNogbZDwaE5j2mqYDlOVQH9fkt24necIKxsTpgmX6pPvgD0ci0m67sw-_DNfd3a_EeEXhB13qVTaOIMC04xRcPMVJkn_lTLqKLIvmCk2WPLOQ5OnnDYML2eNQaka5PG5P38Uh3hgXGHf-2MRDtbjjmY-ATFCDevUPiFRDvw"
+    },
+    {
+      "position": 15,
+      "title": "Pondok Kelapo",
+      "place_id": "ChIJPXfW6c51Oy4Rhmm0CcsVd4E",
+      "data_id": "0x2e3b75cee9d6773d:0x817715cb09b46986",
+      "data_cid": "9328949114906634630",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b75cee9d6773d%3A0x817715cb09b46986&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b75cee9d6773d%3A0x817715cb09b46986&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.963721,
+        "longitude": 104.735868
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJPXfW6c51Oy4Rhmm0CcsVd4E",
+      "provider_id": "/g/1hm68h_r6",
+      "rating": 4.4,
+      "reviews": 2313,
+      "price": "$$",
+      "type": "Restaurant",
+      "types": [
+        "Restaurant"
+      ],
+      "type_id": "restaurant",
+      "type_ids": [
+        "restaurant"
+      ],
+      "address": "Jl. Demang Lebar Daun No.184, Demang Lebar Daun, Ilir Barat I, Palembang City, South Sumatra 30151, Indonesia",
+      "open_state": "Open ⋅ Closes 10 PM",
+      "hours": "Open ⋅ Closes 10 PM",
+      "operating_hours": {
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM"
+      },
+      "phone": "+62 711 412011",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great dessert",
+            "Great tea selection",
+            "Live music"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Halal food",
+            "Late-night food",
+            "Private dining room"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Quiet",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Brunch reservations recommended",
+            "Lunch reservations recommended",
+            "Dinner reservations recommended",
+            "Accepts reservations",
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Good for kids birthday",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot",
+            "Paid street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noG2cqEfkkLzomx4_p0cX-xvvgnpH-tph3KFS4MSjBWCvFb-wSIhpm771fMte5VYacUrt-hfFVk1S9Hgaj6y8qBncTG5RujMZAn8A51M0F-o6B3TYBVFYScaWMBiTjOsYIwCVHP=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ECI05nicBcHdboIwGADQJ_pEfpUlXlBiwbhmy4o4vDHYQCtIW20F9f32EL7Nznn_CWu1-XCci_BnXCl-ae6muTElbSPtjKnB4doAM2CcJI1FIFXmseu67fvPlxoewVHP2S88xpFLnYPVwt9iGhDaoX064hNMdCP0sFi4LbFNWFY1290siBaXvUvjnNdd9FxekWRFFv7cO3JI5DIJXTLHoCLkFxUqcUVZvSfoXHRfptpMaZl_rybX80DEHvQg1T_tdEP2"
+    },
+    {
+      "position": 16,
+      "title": "Tempat Makan Pempek Palembang - Kerupuk Kemplang Pempek Hj. Eva Yunus",
+      "place_id": "ChIJY1AATPidOy4Rt9LUzEhK8Xw",
+      "data_id": "0x2e3b9df84c005063:0x7cf14a48ccd4d2b7",
+      "data_cid": "9003058806624932535",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b9df84c005063%3A0x7cf14a48ccd4d2b7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b9df84c005063%3A0x7cf14a48ccd4d2b7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9977652999999997,
+        "longitude": 104.7619201
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJY1AATPidOy4Rt9LUzEhK8Xw",
+      "provider_id": "/g/1pzt984x6",
+      "rating": 4.7,
+      "reviews": 211,
+      "price": "Rp 1–25,000",
+      "type": "Restaurant",
+      "types": [
+        "Restaurant",
+        "Pempek restaurant",
+        "Deli"
+      ],
+      "type_id": "restaurant",
+      "type_ids": [
+        "restaurant",
+        "pempek_restaurant",
+        "deli"
+      ],
+      "address": "Jalan KH. Azhari. 575 Lrg. Siliwangi, Pinggir jalan No.04Kel, RT.16, 5 Ulu, Kecamatan Seberang Ulu I, Kota Palembang, Sumatera Selatan 30256, Indonesia",
+      "open_state": "Open ⋅ Closes 6 PM",
+      "hours": "Open ⋅ Closes 6 PM",
+      "operating_hours": {
+        "tuesday": "9 AM–6 PM",
+        "wednesday": "9 AM–6 PM",
+        "thursday": "9 AM–6 PM",
+        "friday": "9 AM–6 PM",
+        "saturday": "9 AM–6 PM",
+        "sunday": "9 AM–6 PM",
+        "monday": "9 AM–6 PM"
+      },
+      "phone": "+62 813-6876-5684",
+      "website": "https://msha.ke/pempekheyid",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store pickup",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/1pzt984x6&g2lbs=AO8LyOJoE_92geaJTKu7utRTbhmNrREW04TEuD3wTUNpgXy7XicYuYJu2R_48G8gReoWe8Y1agWRuDV8XTu64qWPmy0XmWjAzg%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JZfbaMGhJ8H9ptQPm9q-wAU&ei=JZfbaMGhJ8H9ptQPm9q-wAU&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOKqVvQ-lSSoIvYh9_xrstu83Lvy7PVun2ST6Fg=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/41Nsu3icuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFng710YVhaomxMcnO9ZFplhGV9RVFxSamHsU1ZpHhBWmmcUHGLmlm5bbmhkpJthaaSbrZuXDwDAMiHN"
+    },
+    {
+      "position": 17,
+      "title": "Sentral Kampung Pempek Palembang",
+      "place_id": "ChIJ-1Zd1gB2Oy4RxnZmRvkaRs4",
+      "data_id": "0x2e3b7600d65d56fb:0xce461af9466676c6",
+      "data_cid": "14863597278113199814",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b7600d65d56fb%3A0xce461af9466676c6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b7600d65d56fb%3A0xce461af9466676c6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9911786,
+        "longitude": 104.7548624
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-1Zd1gB2Oy4RxnZmRvkaRs4",
+      "provider_id": "/g/11ggls0xsy",
+      "rating": 4.6,
+      "reviews": 1353,
+      "price": "Rp 1–50,000",
+      "unclaimed_listing": true,
+      "type": "Indonesian restaurant",
+      "types": [
+        "Indonesian restaurant"
+      ],
+      "type_id": "indonesian_restaurant",
+      "type_ids": [
+        "indonesian_restaurant"
+      ],
+      "address": "2Q53+GWH, Jl. Beringin Janggut, Talang Semut, Kec. Bukit Kecil, Kota Palembang, Sumatera Selatan 30135, Indonesia",
+      "open_state": "Open ⋅ Closes 10 PM",
+      "hours": "Open ⋅ Closes 10 PM",
+      "operating_hours": {
+        "tuesday": "7:30 AM–10 PM",
+        "wednesday": "7:30 AM–10 PM",
+        "thursday": "7:30 AM–10 PM",
+        "friday": "7:30 AM–10 PM",
+        "saturday": "7:30 AM–10 PM",
+        "sunday": "7:30 AM–10 PM",
+        "monday": "7:30 AM–10 PM"
+      },
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Halal food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Lunch",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations",
+            "Usually a wait"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqMhkWAdTTTejlXXxlFD4M4Nhkf16s9WZSyiNzYvMpNB9s57pIo4C3ynfPPtBjwNjCnMe23H3bcaEK37V6ntKzC922DHzXlmNI6Te90vdfI1L9ZLss-wy1dNJm-VwyOORoVIQDG=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/VJ99QnicBcFBUoMwFADQEwVKQmHiTBcFVJCSYmUodqcQiBAS9KdFuJ-H6G187_4njJngwbalIFandSf5FfhPrZXhyli1Hu1uAlQDAnsfUuGq70wM531TFAXvZVX9yqfIzVwmhtbxgJ4vb8sXW99v2cQCClt_SrQbkkW1eW6CfmZ9qDKOSUw-64_HlPilp0y6hhTjKF4rObLEKzjd3Jo2cQ70cgBA8-I07GVE5bwcjyddJq_R8252MEaCYjQgpf8Bu09DzA"
+    },
+    {
+      "position": 18,
+      "title": "Kedai Tiga Nyonya",
+      "place_id": "ChIJo8Iln_51Oy4RjYJwBoAmGjU",
+      "data_id": "0x2e3b75fe9f25c2a3:0x351a26800670828d",
+      "data_cid": "3826413164710363789",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b75fe9f25c2a3%3A0x351a26800670828d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b75fe9f25c2a3%3A0x351a26800670828d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9913167,
+        "longitude": 104.747928
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJo8Iln_51Oy4RjYJwBoAmGjU",
+      "provider_id": "/g/11ck3j2xbh",
+      "rating": 4.4,
+      "reviews": 792,
+      "price": "$$",
+      "unclaimed_listing": true,
+      "type": "Chinese restaurant",
+      "types": [
+        "Chinese restaurant",
+        "Indonesian restaurant",
+        "Western restaurant"
+      ],
+      "type_id": "chinese_restaurant",
+      "type_ids": [
+        "chinese_restaurant",
+        "indonesian_restaurant",
+        "western_restaurant"
+      ],
+      "address": "Jl. Supeno No.6A, Talang Semut, Kec. Bukit Kecil, Kota Palembang, Sumatera Selatan 30121, Indonesia",
+      "open_state": "Open ⋅ Closes 10 PM",
+      "hours": "Open ⋅ Closes 10 PM",
+      "operating_hours": {
+        "tuesday": "9 AM–10 PM",
+        "wednesday": "9 AM–10 PM",
+        "thursday": "9 AM–10 PM",
+        "friday": "9 AM–10 PM",
+        "saturday": "9 AM–10 PM",
+        "sunday": "9 AM–10 PM",
+        "monday": "9 AM–10 PM"
+      },
+      "phone": "+62 711 369299",
+      "description": "Vast venue serving rice & seafood. Sprawling establishment offering traditional rice & seafood dishes, plus hearty soups.",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great dessert",
+            "Great tea selection",
+            "Live music"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Halal food",
+            "Private dining room"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Quiet",
+            "Romantic",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Brunch reservations recommended",
+            "Lunch reservations recommended",
+            "Dinner reservations recommended",
+            "Accepts reservations",
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot",
+            "Paid street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrikDhaAgfFCGciC1wtTotac5FmPg0nzVMniK4UpWczrJI3zIzZ6hinulRJTGUnsdi-RNLi0l8Zl2-JdgudgJ17fu0vAffzyCq8eBD_tDfMslJgfjcoERHWbIuUHAlunIXJf5LN=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xu-NkXicBcFZEsEwGADgE6Ubtc14qNbSWMZ0FOPFkDYL8aeahJH7OYTb-L7flxvT6JHvS97xmFJM1lbXLVFgajAeUQ-fNRoRjbSfpEPehVbcM35JGJ2lcyLS8G12ylxIPHtsWQBuvwax7JbNgbgW5x2Xu1OPC7CywLt5CboSqNisRCAHJxkhXDFbMRz2qQ1eCaXukz4H9SQ7m4yutcSM3oiaFovDNbflIpEW8iOm8WozfodRhPgwQncE6g9k6UYY"
+    },
+    {
+      "position": 19,
+      "title": "Mie Terang Bulan",
+      "place_id": "ChIJI-jkSAV2Oy4RECv-3L3gk-Y",
+      "data_id": "0x2e3b760548e4e823:0xe693e0bddcfe2b10",
+      "data_cid": "16614870556360977168",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b760548e4e823%3A0xe693e0bddcfe2b10&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b760548e4e823%3A0xe693e0bddcfe2b10&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9866517999999997,
+        "longitude": 104.76344789999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJI-jkSAV2Oy4RECv-3L3gk-Y",
+      "provider_id": "/g/11ck8r8hf_",
+      "rating": 4.5,
+      "reviews": 611,
+      "price": "Rp 25–50K",
+      "unclaimed_listing": true,
+      "type": "Noodle shop",
+      "types": [
+        "Noodle shop"
+      ],
+      "type_id": "noodle_shop",
+      "type_ids": [
+        "noodle_shop"
+      ],
+      "address": "Jl. Mesjid Lama No.144, 17 Ilir, Ilir Timur I, Palembang City, South Sumatra 30122, Indonesia",
+      "open_state": "Open ⋅ Closes 7 PM",
+      "hours": "Open ⋅ Closes 7 PM",
+      "operating_hours": {
+        "tuesday": "3–7 PM",
+        "wednesday": "3–7 PM",
+        "thursday": "3–7 PM",
+        "friday": "3–7 PM",
+        "saturday": "3–7 PM",
+        "sunday": "3–7 PM",
+        "monday": "Closed"
+      },
+      "phone": "+62 711 366535",
+      "extensions": [
+        {
+          "service_options": [
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "payments": [
+            "Cash-only"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqhRgFPQ8Rpcpzae3pBl3oSAJ910iNmj_WgNB2Im7pBK3dtyGUdkqouFZ7KBoJQK6z80Nlwm10xlwKnwFQVHXKKmtN8yZeBkJMNtRD-zt4scmO3CQsm9d8OsEo2vdtLDPEbK4N_Tg=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/HB7203icBcFbUsIwFADQFYU-0oHWGT8IULXRQOtz-GE0zSTaJDeYi5Vu0DWwG8-5_BnEEK-SxBo60wDaqlNU3xI8Ko8zCS7RIRIZSUyWq8oU_mg6Xe_asgsyTO-KBmYpPC6bKks_hfs6vGrB8ju3CIzTHs83z_1whFO9X3AGTcvnU5kKO7os_bUj92Pdvty-ce5QlOe9YkPzILBbkwmLKN2Wrtroqr7cxg3kPz3er3ebD16Iw5O-HrM5JabKyUA8_ANoOkVN"
+    },
+    {
+      "position": 20,
+      "title": "Mie Celor 26 Ilir H. M. Syafei Z.",
+      "place_id": "ChIJHb7qywB2Oy4RlYpGlQgmDac",
+      "data_id": "0x2e3b7600cbeabe1d:0xa70d260895468a95",
+      "data_cid": "12037319197337225877",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b7600cbeabe1d%3A0xa70d260895468a95&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b7600cbeabe1d%3A0xa70d260895468a95&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9913168999999997,
+        "longitude": 104.7538283
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHb7qywB2Oy4RlYpGlQgmDac",
+      "provider_id": "/g/11b76twjpy",
+      "rating": 4.6,
+      "reviews": 2583,
+      "price": "Rp 25–50K",
+      "type": "Noodle shop",
+      "types": [
+        "Noodle shop"
+      ],
+      "type_id": "noodle_shop",
+      "type_ids": [
+        "noodle_shop"
+      ],
+      "address": "Jl. Merdeka No.54, Talang Semut, Ilir Barat I, Palembang City, South Sumatra 30135, Indonesia",
+      "open_state": "Open ⋅ Closes 9 PM",
+      "hours": "Open ⋅ Closes 9 PM",
+      "operating_hours": {
+        "tuesday": "6 AM–9 PM",
+        "wednesday": "6 AM–9 PM",
+        "thursday": "6 AM–9 PM",
+        "friday": "6 AM–9 PM",
+        "saturday": "6 AM–9 PM",
+        "sunday": "6 AM–9 PM",
+        "monday": "6 AM–9 PM"
+      },
+      "phone": "+62 711 5630501",
+      "extensions": [
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11b76twjpy&g2lbs=AO8LyOJO2BiizAcHvN_7xRrc7bF3NV-yAcNiBL_ZknseAL6saMzGmHCbTZHcJYmK3nFv81yL_bKyCofxLxvkDz7UxhMqGtZ8gA%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JZfbaMGhJ8H9ptQPm9q-wAU&ei=JZfbaMGhJ8H9ptQPm9q-wAU&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq1165jiKonuCRkvbRUcBRWTh2fAT0xa-o31c3WwKpSnCJ6TrxstMgL6K0GDQ1TL6A-hEY4RgOMXcQuFwf4aiJgUFlN8DniYSuYupNG74wfBxvVFhg827rJj47s-xyRRQSjufwKOg=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/kwlJUHicBcFtDoIgAADQE5GhhNXWD7Ns0z4mauXPYgqagQmEnbAzdJve-3251r1aOk7HvQmTknWVUdVApdCV0BMqnw7rFaAKKCcIFxyJF4R41jaJFCYkj_edFHRNLjl36yCfjjcgPUi9i036TIQxzodR6QPb42S626Qw3-MA8G2JCDsdrjQ1ka3RrYlZEXXH-UY0ZWZK0x93PrL1enyfI87mrj_ELfIVGD-EpFlrapuc2MpC7AG-cMEDCPkHApVEpw"
+    }
+  ]
+}

@@ -1,0 +1,1176 @@
+{
+  "search_metadata": {
+    "id": "68db97d39d26cf869fc416d5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d62710ba51fb7a2a/68db97d39d26cf869fc416d5.json",
+    "created_at": "2025-09-30 08:41:55 UTC",
+    "processed_at": "2025-09-30 08:41:55 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/Wisata+sejarah+kota+palembang?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/d62710ba51fb7a2a/68db97d39d26cf869fc416d5.html",
+    "total_time_taken": 5.72
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "Wisata sejarah kota palembang",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "Wisata sejarah kota palembang"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Taman Purbakala Kerajaan Sriwijaya",
+      "place_id": "ChIJUbOermyeOy4RnlaKDk5e94M",
+      "data_id": "0x2e3b9e6cae9eb351:0x83f75e4e0e8a569e",
+      "data_cid": "9509172827560498846",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b9e6cae9eb351%3A0x83f75e4e0e8a569e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b9e6cae9eb351%3A0x83f75e4e0e8a569e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -3.0150322,
+        "longitude": 104.7344182
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUbOermyeOy4RnlaKDk5e94M",
+      "provider_id": "/m/0hndjtq",
+      "rating": 4.4,
+      "reviews": 3436,
+      "unclaimed_listing": true,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction",
+        "Archaeological site",
+        "Archaeological museum"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "archaeological_site",
+        "archaeological_museum"
+      ],
+      "address": "XPMM+XQM, Jl. Syakyakirti, Karang Anyar, Gandus, Palembang City, South Sumatra, Indonesia",
+      "open_state": "Open ⋅ Closes 6 PM",
+      "hours": "Open ⋅ Closes 6 PM",
+      "operating_hours": {
+        "tuesday": "8 AM–6 PM",
+        "wednesday": "8 AM–6 PM",
+        "thursday": "8 AM–6 PM",
+        "friday": "8 AM–6 PM",
+        "saturday": "8 AM–6 PM",
+        "sunday": "8 AM–6 PM",
+        "monday": "8 AM–6 PM"
+      },
+      "description": "Artifacts from the Srivajaya empire. Archaeological site with the remains of ancient canals & a museum displaying ceramics & statues.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noIo8hgKeBwCtyOdT1nx-OQRV1qm7UBqcx6Gz_bG20pM5TG9yRA-yM5PKMzACrRVarbGUqCacMwuaLk1aSOxPgH_Xt00Q2ygYNSUJERLfB25ie5wY-kcj6sDwIY3U13sLZnRI2J5Q=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/TwnkQ3icBcFRboIwAADQE1VosTiW7APYgigMqWLGfgzW2iraAq0peMGdYbfxvf8_YUyn3x3nJrwZV4rf2EOzgSppmDQzqu4O7zSgGmgnjAMxlypVb4KvWWRjMxWnHZQjKEqyh_19UUU9Hf3keTgmyO1yvEuCiYRgyvFmnT_DeCD7ZjgmVR83NLePJmthsy3GDV8efozrlmji9fe2Wn2R7BwhfGHY1qClV19_2rT2Kujp7FeSFK1w-WGh7wERINACqV47jUQx"
+    },
+    {
+      "position": 2,
+      "title": "Sultan Mahmud Badaruddin II Museum",
+      "place_id": "ChIJ0WDifAN2Oy4RGFnTD-8BBM8",
+      "data_id": "0x2e3b76037ce260d1:0xcf0401ef0fd35918",
+      "data_cid": "14917049992032246040",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b76037ce260d1%3A0xcf0401ef0fd35918&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b76037ce260d1%3A0xcf0401ef0fd35918&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9901709,
+        "longitude": 104.7614097
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0WDifAN2Oy4RGFnTD-8BBM8",
+      "provider_id": "/g/11f2cl0_8s",
+      "rating": 4.6,
+      "reviews": 1151,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction",
+        "Museum"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "museum"
+      ],
+      "address": "Jl. Sultan Mahmud Badarudin, 19 Ilir, Bukit Kecil, Palembang City, South Sumatra 30113, Indonesia",
+      "open_state": "Closes soon ⋅ 4 PM ⋅ Opens 8 AM Wed",
+      "hours": "Closes soon ⋅ 4 PM ⋅ Opens 8 AM Wed",
+      "operating_hours": {
+        "tuesday": "8 AM–4 PM",
+        "wednesday": "8 AM–4 PM",
+        "thursday": "8 AM–4 PM",
+        "friday": "8 AM–4 PM",
+        "saturday": "9 AM–3 PM",
+        "sunday": "9 AM–3 PM",
+        "monday": "Closed"
+      },
+      "website": "http://www.palembang.go.id/",
+      "extensions": [
+        {
+          "amenities": [
+            "Restaurant",
+            "Restroom"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4notafv5YOqETRFQB07Wszf5hRCKhAW8qrgM_RueR9OCPry0EiVnZbij1DoxcX7zmqFYfKoVHg62zvqRjAieAApBK0vraawipQr6_Wo3Km16Njg30PZ-M6aSRaQbcAHX3Lt5XBhe=w146-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/rO0oDnicBcFRboIwGADgE1VApI4leyioMWFO6YygL6Y2pQWlP7QVlfvtELuN3_f_p5zr7Kfn3VQ4kQDyJu5WGA7aCe0mHFpPdhZxi6xH0ljNNDhWDdFx2y_3dJUn_rywYxUpmmaKFB-9kZszvQsab9OdefnL-qBPl7oJFvDk5Xxs-9WxyuCwlng6Dj1tSC0I6ZLMHwxjj7rLDT4XEGZtgH8aGfq7E9pg9ktZfuFkXYbfLioTJb4ewQwjFU_RFWl4Aw7MRMk"
+    },
+    {
+      "position": 3,
+      "title": "Benteng Kuto Besak",
+      "place_id": "ChIJqybWvgN2Oy4RsuP3QwCiJoI",
+      "data_id": "0x2e3b7603bed626ab:0x8226a20043f7e3b2",
+      "data_cid": "9378361396069655474",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b7603bed626ab%3A0x8226a20043f7e3b2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b7603bed626ab%3A0x8226a20043f7e3b2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9913138999999997,
+        "longitude": 104.7592019
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqybWvgN2Oy4RsuP3QwCiJoI",
+      "provider_id": "/g/122kc9x2",
+      "rating": 4.5,
+      "reviews": 15717,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction",
+        "Historical landmark",
+        "Fortress"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "historical_landmark",
+        "fortress"
+      ],
+      "address": "2Q55+CMW, 19 Ilir, Kec. Bukit Kecil, Kota Palembang, Sumatera Selatan, Indonesia",
+      "description": "Historic fort & park with bridge views. Fort, historical museum & hangout spot near the river, with palm trees & Ampera Bridge views.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqvF4B74Q-3gChX975ARp7r13svMz_kRzklao5vte8XU-2_stVEkab-0KIc0xtyn8TV5gC5JnRbaNQ9dEdpNWWD7p_OMcYHawvDKHsgJQs_GOYyQu23AIampGQYN9CJDlcDqQg=w138-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/PwjBrnicBcHdDoIgGADQJyJTdEpbF6aV2bTh-vPKETnYNKA-tJ_n6yV6m875faW1BmaO00s8EVqLvh2gfXCtbKvshOubIwwgDgicOCHSV_dx5S9CnyIsEnkmYRBXJny4GMbi03TVp-uZDkbbRucD8hqwx2XHLmi63fDpy75VtD8GIglyVV1YScl1eTXl6ZSGptkVvM7Yc0y3GYicQrPe1W86eDjesJtZ07okSZ72PL1TMX-6OEKSeKhDSv8BL3VDiQ"
+    },
+    {
+      "position": 4,
+      "title": "Sultan Mahmud Badaruddin I Jayo Wikramo Great Mosque",
+      "place_id": "ChIJ_____z92Oy4R9UeEDyg1TIo",
+      "data_id": "0x2e3b763fffffffff:0x8a4c35280f8447f5",
+      "data_cid": "9965398521639356405",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b763fffffffff%3A0x8a4c35280f8447f5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b763fffffffff%3A0x8a4c35280f8447f5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9879170999999998,
+        "longitude": 104.76020299999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_____z92Oy4R9UeEDyg1TIo",
+      "provider_id": "/g/11b6d_42bd",
+      "rating": 4.8,
+      "reviews": 16146,
+      "unclaimed_listing": true,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction",
+        "Place of worship",
+        "Mosque"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "place_of_worship",
+        "mosque"
+      ],
+      "address": "Jl. Jend. Sudirman, 19 Ilir, Bukit Kecil, Palembang City, South Sumatra 30111, Indonesia",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "tuesday": "Open 24 hours",
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours"
+      },
+      "phone": "+62 711 319767",
+      "description": "Huge place of worship with Chinese tower. Large 1700s mosque featuring a Chinese-style tower, carved timbers & a colorful domed ceiling.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nodNRElC3c0QxhYMIF4R62d0yCLeqolV2lyfOXjpJbn9nDJrHTNNLcAYR2a9Vi2njfo68y0Z7A_Y8a_C2hihec4b_CyvZs-ZJdn_6dGaudTXnEy4xFm0mouLmijCUeJ_FkEs9pb=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Zr8QrXicBcHRToMwFADQL-rAjuBq4gOpsEkQI5nL4KWBtqOwci-uoOsH-hH-jef8_Zplmd1TEFiz3fSIvdWr0zeJsGhYNhKnoJ8dkY64IOHMRICqrFLLtzL8uJv67TWLqpiq0PNCf6E9Uesv7-dxzjtg8JLfDseyLGRSV7Rlp4HCeMF458PmMRH1rhWcmsFoGXWC--_GkSZXIGK1b1d1PEPqo3s2hROuxTSM_FPnIrumjs3d888DpcQwSq4E8B-yzkTe"
+    },
+    {
+      "position": 5,
+      "title": "Balaputradewa Museum",
+      "place_id": "ChIJMc9dpt11Oy4RwNaerfFb3-M",
+      "data_id": "0x2e3b75dda65dcf31:0xe3df5bf1ad9ed6c0",
+      "data_cid": "16419943859974231744",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b75dda65dcf31%3A0xe3df5bf1ad9ed6c0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b75dda65dcf31%3A0xe3df5bf1ad9ed6c0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9509461,
+        "longitude": 104.7305835
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMc9dpt11Oy4RwNaerfFb3-M",
+      "provider_id": "/g/11fsw8lc8z",
+      "rating": 4.5,
+      "reviews": 2965,
+      "type": "Local history museum",
+      "types": [
+        "Local history museum"
+      ],
+      "type_id": "local_history_museum",
+      "type_ids": [
+        "local_history_museum"
+      ],
+      "address": "Sukaramai, Jl. Srijaya No.I, RW.5, Srijaya, Kec. Alang-Alang Lebar, Kota Palembang, Sumatera Selatan 30139, Indonesia",
+      "open_state": "Closes soon ⋅ 4 PM ⋅ Opens 8 AM Wed",
+      "hours": "Closes soon ⋅ 4 PM ⋅ Opens 8 AM Wed",
+      "operating_hours": {
+        "tuesday": "8 AM–4 PM",
+        "wednesday": "8 AM–4 PM",
+        "thursday": "8 AM–4 PM",
+        "friday": "8 AM–4 PM",
+        "saturday": "8 AM–4 PM",
+        "sunday": "8 AM–4 PM",
+        "monday": "Closed"
+      },
+      "phone": "+62 857-8826-9030",
+      "description": "Exhibits on local history, culture & art. Displays of regional history, culture & art in a high-ceilinged building with gilded accents.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np2yNz6LNsQ0lzib2usCz8Zv2xzK83USVOJXdmWeeXLpFUGfr5kwb_W66B4BDDqPgaEBqaddw_jHcAjfRnppnEcMajFknBIrP4Uk8Ol7LNwCDOa9Hez-ts3aLtFHSRFV4KBI-S1kQ=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Ma-iOnicBcFRkoIgAADQE5GFZtrMfoRmVqaVYzX9NISkiQEJrbtcsDN0m977vGutpZpaVlvbg0qIqqUvRTsiuKZcD4h4WJVUgCigrFng1w6X8D81bpKq3bA19yt8qcB451_4Z9aeXeSHbHUqH0dKT4mMisWtG7P-ejm6LnJQGD63FZ6jJy7L_tLEZNbc9lxKPicb3ESMo2W3dQrmZe0kSfsgzLAfUwO0snGiozjfRwdnjZYgH7HdTz-CENQ-BAxw8QWZ00Ux"
+    },
+    {
+      "position": 6,
+      "title": "Rumah Limas Palembang - Museum Adat",
+      "place_id": "ChIJG6xEDsZ1Oy4RDsW7DzBDI7E",
+      "data_id": "0x2e3b75c60e44ac1b:0xb12343300fbbc50e",
+      "data_cid": "12764119642599572750",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b75c60e44ac1b%3A0xb12343300fbbc50e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b75c60e44ac1b%3A0xb12343300fbbc50e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9676359,
+        "longitude": 104.7337077
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJG6xEDsZ1Oy4RDsW7DzBDI7E",
+      "provider_id": "/g/1hm5193g8",
+      "rating": 4.6,
+      "reviews": 682,
+      "unclaimed_listing": true,
+      "type": "Historical landmark",
+      "types": [
+        "Historical landmark",
+        "Heritage building",
+        "Wedding dress rental service",
+        "Wedding portrait studio"
+      ],
+      "type_id": "historical_landmark",
+      "type_ids": [
+        "historical_landmark",
+        "heritage_building",
+        "wedding_dress_rental_service",
+        "wedding_portrait_studio"
+      ],
+      "address": "Jl. Demang Lebar Daun No.51, Demang Lebar Daun, Kec. Ilir Bar. I, Kota Palembang, Sumatera Selatan 30131, Indonesia",
+      "open_state": "Open ⋅ Closes 5 PM",
+      "hours": "Open ⋅ Closes 5 PM",
+      "operating_hours": {
+        "tuesday": "9 AM–5 PM",
+        "wednesday": "9 AM–5 PM",
+        "thursday": "9 AM–5 PM",
+        "friday": "9 AM–5 PM",
+        "saturday": "9 AM–5 PM",
+        "sunday": "9 AM–5 PM",
+        "monday": "9 AM–5 PM"
+      },
+      "phone": "+62 711 410572",
+      "extensions": [
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrE9xtsP8HmthVyw-EoGODIvg9LYb8e63i6ALxBm-6o_DRd7JCP6rwRuU9nLQOiW5oetrN9SoUyyFHLVYhKHVITAt-VZlTKU1yefQTlQ3KUQ2Y7jqJT66rsvA1qx4qJaYQDiQhf=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/efX8R3icBcHxEoEwHADgJ5quYsydP1JIdRiVyz-OTIvaT9uoHtBDeBvf9_tyrV9qahgVtwcFQFGxt2IyB6GZ0IMcaqN4KZQrpAzHJXwo5IJ0Wu0mfq152rdoAautt_4UJMquE4btEjtRN68RhrO3v40Dd4dlu38nRER0Wx5HwLTckAMkfb_0ozTjoZ-uY0ej9FTFYWL27E7jitphQq1s_GiCGGOpPo7ZdMMmuGTUKym_z1rTshAnFnoiAX-2rkQ7"
+    },
+    {
+      "position": 7,
+      "title": "Oud Palêmbang , Lawang Borotan, de Westelijke Poort van het Sultanate Paleis",
+      "place_id": "ChIJnXp7RQB3Oy4RPYFhGNhuZ5E",
+      "data_id": "0x2e3b7700457b7a9d:0x91676ed81861813d",
+      "data_cid": "10477464932501782845",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b7700457b7a9d%3A0x91676ed81861813d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b7700457b7a9d%3A0x91676ed81861813d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9919219,
+        "longitude": 104.7580253
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJnXp7RQB3Oy4RPYFhGNhuZ5E",
+      "provider_id": "/g/11fnxhmc2c",
+      "rating": 4.8,
+      "reviews": 17,
+      "unclaimed_listing": true,
+      "type": "Historical landmark",
+      "types": [
+        "Historical landmark"
+      ],
+      "type_id": "historical_landmark",
+      "type_ids": [
+        "historical_landmark"
+      ],
+      "address": "2Q55+66J, 19 Ilir, Bukit Kecil, Palembang City, South Sumatra 30113, Indonesia",
+      "phone": "+62 813-6818-4211",
+      "extensions": [
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqW8bAGIzSdcZEvfEowec2GkQ5M9dDUQuFhHC7ejgr-3ZO9RuB0WGdSOOxFKA7JUBnbL14CTECvntKidYaYRLsQ6Fk772ER90cMPEmkpbupMtBTkiB3oFXxZOc8qSQngw51dzWN=w138-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/9nTaT3icBcFbsoIgAADQFZGpldLM_VBDe5lXrbH8SyAoCiwwm_bXItpN53w_3JhWTy3ryt0BU4pdaafpAytpqDQDrG4WazXAGmgriCAfyXvlN0GyeJcE1-h5Qqqn2ElEPk4hme3yLubzyKMX9gBuncGiC4dVQsose8WrwFvuQtms7VG0RdFTmtWZHI6HYq3zSSw8z0EFHOL0H91E23RtasKtOIeuivevOsP-vcwl68c2eVebv952fcChAwSQ6gdx4kOq"
+    },
+    {
+      "position": 8,
+      "title": "MONPERA",
+      "place_id": "ChIJg5LebgR2Oy4RnpgDppzEbSQ",
+      "data_id": "0x2e3b76046ede9283:0x246dc49ca603989e",
+      "data_cid": "2624970334906063006",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b76046ede9283%3A0x246dc49ca603989e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b76046ede9283%3A0x246dc49ca603989e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.989246,
+        "longitude": 104.7603628
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJg5LebgR2Oy4RnpgDppzEbSQ",
+      "provider_id": "/g/11f_c0692y",
+      "rating": 4.6,
+      "reviews": 457,
+      "unclaimed_listing": true,
+      "type": "Museum",
+      "types": [
+        "Museum"
+      ],
+      "type_id": "museum",
+      "type_ids": [
+        "museum"
+      ],
+      "address": "Jl. Merdeka No.1, 19 Ilir, Kec. Bukit Kecil, Kota Palembang, Sumatera Selatan 30113, Indonesia",
+      "open_state": "Closes soon ⋅ 4 PM ⋅ Opens 9 AM Wed",
+      "hours": "Closes soon ⋅ 4 PM ⋅ Opens 9 AM Wed",
+      "operating_hours": {
+        "tuesday": "9 AM–4 PM",
+        "wednesday": "9 AM–4 PM",
+        "thursday": "9 AM–4 PM",
+        "friday": "8 AM–5 PM",
+        "saturday": "8 AM–5 PM",
+        "sunday": "9 AM–4 PM",
+        "monday": "9 AM–4 PM"
+      },
+      "extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrpEb4yGvcQCcHpMUi2Ey-HlTOH7PHsnWrS2V5wMmMQTfnN9l9zefguFdjrBvdauYh0SM2SiFIg8pwcTt0_ZH8GbOnB0-RXqE157pWn4KS_984U63KOspxxkq3Bf96h6NASFDdFxw=w107-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/WVIalnicBcHtFoEwAADQJ5pSqeYcP0SZ4yQsn38cVm3INm2pvKBn8Dbu_X2Z1lINDaNkdo8KQcu8VnlFBNc51z0ingaVChAFlDGeQObwSoZXp5u9yXpCkIy3NyvsACrTBHkrpPi-wtZu0MTPeJ0WfAlL-MkLWkfZvQre2aU-MhPHFr5Fc-rLhqTaPJ-QP7smPDDB5vAK-wNP7rmzwGfoO1vXXiRKtu3jZQcFdJm7HONomkVtM2r6pgcYtMADcPEHVuxEfw"
+    },
+    {
+      "position": 9,
+      "title": "Monumen Ampera",
+      "place_id": "ChIJCQqLXgR2Oy4RM6uv6KG7Bes",
+      "data_id": "0x2e3b76045e8b0a09:0xeb05bba1e8afab33",
+      "data_cid": "16935148277864573747",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b76045e8b0a09%3A0xeb05bba1e8afab33&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b76045e8b0a09%3A0xeb05bba1e8afab33&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9897326,
+        "longitude": 104.7606893
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCQqLXgR2Oy4RM6uv6KG7Bes",
+      "provider_id": "/g/1pzrzmlhw",
+      "rating": 4.5,
+      "reviews": 785,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction",
+        "Local history museum",
+        "Monument"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "local_history_museum",
+        "monument"
+      ],
+      "address": "JL. Dr. AK. Gani, 9 Ilir, 30113 Palembang, Indonesia, 19 Ilir, Bukit Kecil, Palembang City, South Sumatra 30113, Indonesia",
+      "phone": "+62 711 358450",
+      "extensions": [
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npCrZ6Yhwk0PnMxux9j3ng_AVxWjN5CRYftgSj4gGTm0F9O3RLCB790lZ83U356wuy5D1dWXmU5ELQyjExtAt8BzpeA1lqOXuLPlkfOAY07g5QDjxgEO06BBxgGmjOLL1fW7XsugA=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/el9ldnicBcHRVoMgGADgJ2JiDB2d0wU62w3Ftlrqbrow_TmoYAOOrBfsGXqbvu_vV3m_uMckmRTZgLUw9cH1t84a3xu_6eycwOJQ55BLeMnU1izl7Zq1ah3x0bzEEJkmBj75R6z1Ky3P7eDhTW_h8D7jZybJWZRFzvB03ZELodka7nSfftXNfKGVON11FT33u-Jn6Xk6fcsmiOM0DpK3OAd62usIlcRZUUQ4zFoKkQ513rgA_GlNM4IUe0AjMvYfI-JETQ"
+    },
+    {
+      "position": 10,
+      "title": "Parameshsvara monument",
+      "place_id": "ChIJ6QLYr7udOy4Rzw4uEWpuMDg",
+      "data_id": "0x2e3b9dbbafd802e9:0x38306e6a112e0ecf",
+      "data_cid": "4048857466839895759",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b9dbbafd802e9%3A0x38306e6a112e0ecf&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b9dbbafd802e9%3A0x38306e6a112e0ecf&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -3.0214187999999997,
+        "longitude": 104.7834573
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ6QLYr7udOy4Rzw4uEWpuMDg",
+      "provider_id": "/g/11b7ky1dyb",
+      "rating": 4.5,
+      "reviews": 1324,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction",
+        "Monument"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "monument"
+      ],
+      "address": "XQHM+C9P, Jl. Gub H Bastari, 15 Ulu, Seberang Ulu I, Palembang City, South Sumatra 30257, Indonesia",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "tuesday": "Open 24 hours",
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours"
+      },
+      "phone": "+62 852-7337-5253",
+      "extensions": [
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqOEcnDzemxXMHn9FVsq-a2vrbSkoUGS9szeSjvF5r_6cLfAXLl9YNxhoWLwO5z4wC7tB0YlNdZYhWdetNT-zUV1TPZ4S_9QDe9Ia3pJyOXOKCydN-9TCJyJ6DQFuvOOi7OC-QY=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/pfZal3icBcHhFoEwGADQJ_pEwplz_GAJSdMplD8OaxqypU2p9_MQ3sa9vy_XulBjw8h5v5NJmeXsrVhJpdBM6A6VTyMrFFAFyphixC3xInMq7JY9P_FmKZCzVy84m1V5CR9ytwiRall4r5xBeRpS7zqNvRwl_ofLg1eTQWvVeKRn3ST302PCDynTfgTtbt-LtkcrPKHAZmh17hduQ2Kyxk3qA4qw27hDO3DeFSG3EcEQJJO6Z5rAkQkPEPIPHH5EVw"
+    },
+    {
+      "position": 11,
+      "title": "Bayt Al-Qur'an Palembang",
+      "place_id": "ChIJZ7gUuM2fOy4RB7V1LnkZMlk",
+      "data_id": "0x2e3b9fcdb814b867:0x593219792e75b507",
+      "data_cid": "6427227626472322311",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b9fcdb814b867%3A0x593219792e75b507&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b9fcdb814b867%3A0x593219792e75b507&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -3.011463,
+        "longitude": 104.704183
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ7gUuM2fOy4RB7V1LnkZMlk",
+      "provider_id": "/g/11b7ztqpqy",
+      "rating": 4.6,
+      "reviews": 5425,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction",
+        "Religious destination",
+        "Museum"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "religious_destination",
+        "museum"
+      ],
+      "address": "Jl. Moh. Amin, Gandus, Palembang City, South Sumatra 30149, Indonesia",
+      "open_state": "Open ⋅ Closes 5 PM",
+      "hours": "Open ⋅ Closes 5 PM",
+      "operating_hours": {
+        "tuesday": "9 AM–5 PM",
+        "wednesday": "9 AM–5 PM",
+        "thursday": "9 AM–5 PM",
+        "friday": "9 AM–5 PM",
+        "saturday": "9 AM–5 PM",
+        "sunday": "9 AM–5 PM",
+        "monday": "9 AM–5 PM"
+      },
+      "phone": "+62 813-6911-2292",
+      "description": "Koran tablets in a gilded hall. Lofty, gilded hall presenting the Koran on massive inscribed tablets, with a souvenir shop.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restaurant",
+            "Restroom"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrRFfmZM5khnJbY_nK4EwgGOuny5Tuc04jUG6irT6DRQJ6JLbEZVFmJcMdVOaXhOkgWHyYZLsGavmioUtxs5zbiJ_nVLK3s-08O7oLBs8GAK1CKid4uifq8-_5ifs5XPaDslQK2NUgKTu8=w80-h106-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ncGIcnicBcFbcoIwFADQFUWwEpp2ph_WB50EpTpAlR8GIiQpkCg3qbVrdAPupuc87tLaM7x6Xi9nE2GM6BsHzciNto22E24GT5wBcUDgzRcvMtDjft0OxQZ3UtP6WGoWrK4iSpy-4dRxP_jOolCNabjc72hI43pV5OuB8s0pT6qDTDrx9XE7FjFE1c-gTGZ_Af_VipY6j9kMkE-SZxO_A4nmbLpg6hQ41V4IKrFqAR8-qyX0O_a0zQRLHXm7Eh_JqR-iDmnzD-uXRug"
+    },
+    {
+      "position": 12,
+      "title": "Situs Purbakala Sriwijaya",
+      "place_id": "ChIJO9ucp2yeOy4RSLTqi_RCqx4",
+      "data_id": "0x2e3b9e6ca79cdb3b:0x1eab42f48beab448",
+      "data_cid": "2209933660242228296",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b9e6ca79cdb3b%3A0x1eab42f48beab448&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b9e6ca79cdb3b%3A0x1eab42f48beab448&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -3.0162781,
+        "longitude": 104.73445369999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJO9ucp2yeOy4RSLTqi_RCqx4",
+      "provider_id": "/g/11b6p8vmmz",
+      "rating": 4.4,
+      "reviews": 487,
+      "unclaimed_listing": true,
+      "type": "Archaeological museum",
+      "types": [
+        "Archaeological museum"
+      ],
+      "type_id": "archaeological_museum",
+      "type_ids": [
+        "archaeological_museum"
+      ],
+      "address": "XPMM+FQP, Jl. Syakyakirti, Karang Anyar, Gandus, Palembang City, South Sumatra 30139, Indonesia",
+      "open_state": "Open ⋅ Closes 6 PM",
+      "hours": "Open ⋅ Closes 6 PM",
+      "operating_hours": {
+        "tuesday": "7:30 AM–6 PM",
+        "wednesday": "7:30 AM–6 PM",
+        "thursday": "7:30 AM–6 PM",
+        "friday": "7:30 AM–6 PM",
+        "saturday": "7:30 AM–6 PM",
+        "sunday": "7:30 AM–4 PM",
+        "monday": "7:30 AM–6 PM"
+      },
+      "extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npQdFoOU9XU6JBu1lkLKuGFEDfxgfCLvqDp3O_RfIR1i-je_8iRwKSlxm0c8V99QxMtNWmLrJ8XF0n6vS6026i5PIHU1qO5rQopkFZna8QQmH-ZduZAyyORdO8u9rKEQ2DUrYED=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/a-zznXicBcFZcoIwAADQE0UgCpM40w9lqQo2DQ4u_DAOe4EkZlE8YA_R2_S9v99Oa6HWljV2y0XLeTvWRtWy5EzXTC9KPlmtUKBUQFkbH3crJmgVcZLha-YdtsYZhyQ2n1EYNHPb-MnzEYglKdJmnzo9-KkL1Kev-DTOk12iM8Z0Puqvy5TIA7pGNvOeJ8-GXu9-73eZ8yCupFwMUc7uiNJpB_LK5Jv3m6QVQQbLOKQwyOQtDD5eDoSgwxAMgPF_iBNDcg"
+    },
+    {
+      "position": 13,
+      "title": "Pagoda Pulo Kemaro",
+      "place_id": "ChIJfRjmhcd3Oy4RzLcLGDAxgWk",
+      "data_id": "0x2e3b77c785e6187d:0x69813130180bb7cc",
+      "data_cid": "7602411728609720268",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b77c785e6187d%3A0x69813130180bb7cc&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b77c785e6187d%3A0x69813130180bb7cc&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9804926999999997,
+        "longitude": 104.8134288
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfRjmhcd3Oy4RzLcLGDAxgWk",
+      "provider_id": "/g/11swqwq63l",
+      "rating": 4.7,
+      "reviews": 347,
+      "type": "Historical landmark",
+      "types": [
+        "Historical landmark"
+      ],
+      "type_id": "historical_landmark",
+      "type_ids": [
+        "historical_landmark"
+      ],
+      "address": "1 Ilir, Kec. Ilir Tim. II, Kota Palembang, Sumatera Selatan 30119, Indonesia",
+      "open_state": "Open ⋅ Closes 5 PM",
+      "hours": "Open ⋅ Closes 5 PM",
+      "operating_hours": {
+        "tuesday": "9 AM–5 PM",
+        "wednesday": "9 AM–5 PM",
+        "thursday": "9 AM–5 PM",
+        "friday": "9 AM–5 PM",
+        "saturday": "9 AM–5 PM",
+        "sunday": "Closed",
+        "monday": "9 AM–5 PM"
+      },
+      "phone": "+62 812-1830-8938",
+      "website": "https://wa.me/qr/JXZVML6RKDVQJ1",
+      "extensions": [
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrfalw0EzJ-C3JXx0mEaARnkQuE-fz2Puz4dY3GY6jWd3xNw7NC5DLrtsL3gLlNVVWCatEyGTBpl_Vvm4GvoIXNojbbZc3La8LATIQ5KKrVPYMcQOIR7Yi8KYlacMtnOlIV5VQ=w80-h106-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/imq-bXicBcHhEoEwAADgJ5piRdz5kXRdmljnxvxxMymsrWtL6fm8hLfxfb9vaUytF5YlSjgqlCpE3uq84UqaXJoRV5VV1BpwDbTlB_PSkc2dic4Ohw0I4ObU21XI_Ey-cBuC-zDZt4NzozCi0-fxBvu0m6WBu0aN0QgWSKSEHANmwk90WNXiQt6VE71VfErV83o9c4iYh_xDjN0kaciebjnexdmMPryECsa3Ru5ETFyCl51ng3JsT8ELSPUHdnVD4A"
+    },
+    {
+      "position": 14,
+      "title": "Al Islam Muhammad Cheng Hoo Sriwijaya Palembang Mosque",
+      "place_id": "ChIJ12Gf4rmdOy4Rw3zI_3upDbE",
+      "data_id": "0x2e3b9db9e29f61d7:0xb10da97bffc87cc3",
+      "data_cid": "12758039669447883971",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b9db9e29f61d7%3A0xb10da97bffc87cc3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b9db9e29f61d7%3A0xb10da97bffc87cc3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -3.0244912999999998,
+        "longitude": 104.78010929999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ12Gf4rmdOy4Rw3zI_3upDbE",
+      "provider_id": "/g/120z6zpw",
+      "rating": 4.8,
+      "reviews": 4642,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction",
+        "Mosque"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "mosque"
+      ],
+      "address": "XQGJ+J6P, 15 Ulu, Seberang Ulu I, Palembang City, South Sumatra 30267, Indonesia",
+      "open_state": "Open ⋅ Closes 9 PM",
+      "hours": "Open ⋅ Closes 9 PM",
+      "operating_hours": {
+        "tuesday": "4 AM–9 PM",
+        "wednesday": "4 AM–9 PM",
+        "thursday": "4 AM–9 PM",
+        "friday": "4 AM–9 PM",
+        "saturday": "4 AM–9 PM",
+        "sunday": "4 AM–9 PM",
+        "monday": "4 AM–9 PM"
+      },
+      "description": "Striking mosque with a colorful pagoda. Mosque with a green & red pagoda, plus architectural influences from many Asian cultures.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqQNLXlHF1mDNg--scwlPf7qlTLYoCBNzhM9vkv66Ynoo_2a5awEbcmzaHH_BmCmSJ6tg3fdMc5ObOo-1GEyH-vmm5nwLj-HSW-Q6qCGbi5zCSafMRjxyRDbch5YteDegMCPsMv=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/14ox4XicBcHdboIwGADQJ_okoMVgsotZ1Gah-IPJxpWBrrTTtp_YDibvt4fY2-ycv18dwt2vosjo-UwhKiO_vXwIdEG6MBNoI3X3IDz46JVmeuH6Y1l8GLaNbV4qAC9Gc-iWvTkXNdJ1OWmeDbchTWuHeEka0oybVtipYeyyttRWb2lQ8-6TC7Jv9wjxbvNkMFhL3FhcgVXvcEx7umu_yESrpuOn68_zlLdCkzrIXCpOD54PL2OcJKCzBG7g8B_lBkTy"
+    },
+    {
+      "position": 15,
+      "title": "Kampung Wisata \" Hadrami \" Al Munawar",
+      "place_id": "ChIJPVELUBh2Oy4RSbkC6jTsS7s",
+      "data_id": "0x2e3b7618500b513d:0xbb4bec34ea02b949",
+      "data_cid": "13496140420354324809",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b7618500b513d%3A0xbb4bec34ea02b949&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b7618500b513d%3A0xbb4bec34ea02b949&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.987663,
+        "longitude": 104.77307139999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJPVELUBh2Oy4RSbkC6jTsS7s",
+      "provider_id": "/g/11c6m3hmmg",
+      "rating": 4.6,
+      "reviews": 2366,
+      "unclaimed_listing": true,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "Munawar, Lrg. Al Haddad No.13, 13 Ulu, Seberang Ulu II, Palembang City, South Sumatra 30115, Indonesia",
+      "open_state": "Closes soon ⋅ 4:30 PM ⋅ Opens 4:30 AM Wed",
+      "hours": "Closes soon ⋅ 4:30 PM ⋅ Opens 4:30 AM Wed",
+      "operating_hours": {
+        "tuesday": "4:30 AM–4:30 PM",
+        "wednesday": "4:30 AM–4:30 PM",
+        "thursday": "4:30 AM–4:30 PM",
+        "friday": "4:30 AM–4:30 PM",
+        "saturday": "4:30 AM–4:30 PM",
+        "sunday": "4:30 AM–4:30 PM",
+        "monday": "4:30 AM–4:30 PM"
+      },
+      "extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Good for kids birthday"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npzK_CH0mt3vCkMa12sx4Ee1Vv8UW_gn-2ldpG0WslIlZmIk1H-wEyFMR2HDXPNdKyPGF2xDazQPMw0XGAIbjurVy3UnnLYNZq4bWnTdSyjm9MpRsWSndlEtQDC06KQ3DapLlU=w138-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Da37hHicBcFLDoIwFADAE1WgJQZMXBhAIHwCKqJuDL9AoLxWWkU8n5fwNs78vp2UXGwUhXZk1TLW0uYpmqliIBuQq4qNSssFqgQSys4yOx34J7hbnjpK8rKGqNCweOtOo51fRpbfW0CY1txVc0F9ehv9QfPQ7Cz76IA9-5LEdbAk7h6_7eKTJtGsXtydX_bP6byQDCC8xreHXuZwqo9LP5oRP4j8CDV1ZGpb6jpIiV3wkGbbWSMG6kyMBgTsD3B3RB0"
+    },
+    {
+      "position": 16,
+      "title": "Kompleks Makam Ki Gede Ing Suro",
+      "place_id": "ChIJ9xChezZ2Oy4RKoGPIU_zskQ",
+      "data_id": "0x2e3b76367ba110f7:0x44b2f34f218f812a",
+      "data_cid": "4950286461624615210",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b76367ba110f7%3A0x44b2f34f218f812a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b76367ba110f7%3A0x44b2f34f218f812a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9779393,
+        "longitude": 104.7920079
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9xChezZ2Oy4RKoGPIU_zskQ",
+      "provider_id": "/g/11dxbk3f_l",
+      "rating": 4.6,
+      "reviews": 94,
+      "unclaimed_listing": true,
+      "type": "Heritage preservation",
+      "types": [
+        "Heritage preservation"
+      ],
+      "type_id": "heritage_preservation",
+      "type_ids": [
+        "heritage_preservation"
+      ],
+      "address": "Lorong R.H.Umar No.694, 1 Ilir, Ilir Timur II, Palembang City, South Sumatra 30111, Indonesia",
+      "open_state": "Open ⋅ Closes 5 PM",
+      "hours": "Open ⋅ Closes 5 PM",
+      "operating_hours": {
+        "tuesday": "8 AM–5 PM",
+        "wednesday": "8 AM–5 PM",
+        "thursday": "8 AM–5 PM",
+        "friday": "8 AM–5 PM",
+        "saturday": "8 AM–5 PM",
+        "sunday": "8 AM–5 PM",
+        "monday": "8 AM–5 PM"
+      },
+      "extensions": [
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np9a__nkQmvdQZU-oAECUG319n2sE3SD9AOvdGQ6x_VYFrPdLdPKLc5cwS5PVdriX9s2ELsezzRSr7feyeNbfgRfrrPsIgPChwht2w_4NOflwfw6AHM526GYNf8oUWuqSL3nOtxfw=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/1H45aHicBcHdboIwGADQJ6rEImxdsgvCGDNDKBLc9Ia4_hqxZf2qdb6gz-Db7JzHXXs_wUsUjTqeKWvVKM4gHLPGC-NnzJ4iNQFigCDKcqIXZiL7YTDH9nTh7a5HNivyvoznxGAo4u6NZM2Fl216HTbbd0d5xelnxRIWuoRuuDt8E8BFBeJ2W3fuSYo_Uf9ItZbOUVgqmuugPQ7Dom7kGGRIs49VgtNyW8tn23-df7sqNo2_yvAa5hgjTTA6ImP_AWnkRgU"
+    },
+    {
+      "position": 17,
+      "title": "Palembang Fountain Circle",
+      "place_id": "ChIJN5LIBgV2Oy4R9J3hs9Nl88w",
+      "data_id": "0x2e3b760506c89237:0xccf365d3b3e19df4",
+      "data_cid": "14768259563008400884",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b760506c89237%3A0xccf365d3b3e19df4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b760506c89237%3A0xccf365d3b3e19df4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9880621,
+        "longitude": 104.7610344
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJN5LIBgV2Oy4R9J3hs9Nl88w",
+      "provider_id": "/g/11b7llz2c9",
+      "rating": 4.6,
+      "reviews": 1613,
+      "unclaimed_listing": true,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "16 Ilir, Ilir Timur I, Palembang City, South Sumatra 30111, Indonesia",
+      "open_state": "Open now",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noOzZzi7pTZJz5p5-geXJFLa7VQo9WmsFjmca2-Tg1fYZ9VTQVqenh3HJKZbZyegti4TM4OokcXpLLKrA7eWtRHDOMmVcJUKuL5LMgirbzfA9Am33H58zdzhralkPfSziEFf_Wi=w132-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xBRD7XicBcFdboMgAADgE1FT0Via7MF0NUYxrpvTjpfGUgSm_FRolnG_HWK36ff9_wnvrdtH0SLghhvDF_ZwbKVGe6b9hhoVcesAdcBF-QGJRJs2kCAz25EqpDYFnJ2rAo9ZfzJoUK74VnSMQce30xdBfXfq70wLWFY1uZJfxr1MuiZpzUzPFuN6zTM2-PfytW1UT6vP-oFT3HC5XsOUo1xBWKa7cAtiHZf5bfoI8lhMl0G-_GxhDASKwQy0eQL-60VX"
+    },
+    {
+      "position": 18,
+      "title": "Kapal Cheng Ho",
+      "place_id": "ChIJMTx3g2yeOy4RIMAgN5NKApA",
+      "data_id": "0x2e3b9e6c83773c31:0x90024a933720c020",
+      "data_cid": "10376938487560585248",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b9e6c83773c31%3A0x90024a933720c020&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b9e6c83773c31%3A0x90024a933720c020&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -3.0173699,
+        "longitude": 104.7349053
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMTx3g2yeOy4RIMAgN5NKApA",
+      "provider_id": "/g/11c2j2nr2c",
+      "rating": 3.9,
+      "reviews": 52,
+      "unclaimed_listing": true,
+      "type": "Museum",
+      "types": [
+        "Museum"
+      ],
+      "type_id": "museum",
+      "type_ids": [
+        "museum"
+      ],
+      "address": "XPMM+3X2, Karang Anyar, Gandus, Palembang City, South Sumatra 30139, Indonesia",
+      "open_state": "Closed ⋅ Opens 9 AM Wed",
+      "hours": "Closed ⋅ Opens 9 AM Wed",
+      "operating_hours": {
+        "tuesday": "9 AM–3 PM",
+        "wednesday": "9 AM–3 PM",
+        "thursday": "9 AM–3 PM",
+        "friday": "9 AM–3 PM",
+        "saturday": "Open 24 hours",
+        "sunday": "9 AM–3 PM",
+        "monday": "Open 24 hours"
+      },
+      "extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr1DF2f03AHTNbx2xkk2qaVH2xcrwa_tVRviQ_Ge6het02xjrGEwN48y75TH26YROdni_k3f7HBrJPy9Zjp6Mv-DEklgS3lc9KEd6Z-yjTG5fAlodMEeylgbhG1nt3xtVT0gSWp=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZX07HHicBcHdboIwGADQJ6rAV0Qx8YJNBpnR-UNY5g3RUlpp17K2k_KAewjfZuc8_7hzg10FgeR4xrRmkv5aaohWjio3I_o7YINFxCIbZK8pj5WJNm_QhTgrq_3NgxcCfq51CZ6Y8dq4-vS4H5uCJpy6EHxvinzcx8tpMa9KSL5OH626NwJ3i_LFvB-m9NIPye6BNrmQ7IwlSbd5m1zQ1FfFvMukbnc5nSS78SJSDntXVyE7fw7rMQJAPAUkkNL_ovlEYA"
+    },
+    {
+      "position": 19,
+      "title": "Museum Songket",
+      "place_id": "ChIJk6tpLgeeOy4Rqy8_mR1ED-8",
+      "data_id": "0x2e3b9e072e69ab93:0xef0f441d993f2fab",
+      "data_cid": "17226061993631231915",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b9e072e69ab93%3A0xef0f441d993f2fab&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b9e072e69ab93%3A0xef0f441d993f2fab&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -3.0008717999999996,
+        "longitude": 104.7497606
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJk6tpLgeeOy4Rqy8_mR1ED-8",
+      "provider_id": "/g/11b77pt3bq",
+      "rating": 4.6,
+      "reviews": 87,
+      "unclaimed_listing": true,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction",
+        "Museum"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "museum"
+      ],
+      "address": "XPXX+MW2, Jl. Ki Gede Ing Suro, 32 Ilir, Kec. Ilir Bar. II, Kota Palembang, Sumatera Selatan 30125, Indonesia",
+      "extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHcAy7umlBSMINIZfHWsyQeUdLeEpW02yRlfiCp6KCMosYLz3P_0DXN9t5iQkFg694kqhMZhCRLhs3BWRZ2huReEy-GXhxDT9GYFGOBMVDv7pi2c9kcN0hlBE_2f29135_b4dfVkbTrR_vvjCpx0s-ckwBlZ8aYH4JMMnHk0hCDlZDs5pkb58MQO4pDnJbDucE2140=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/wsdWN3icBcHddkMwAADgs4s9jtKgrZ2zixKlnehYV-XGmfiJJZVMUPaoe5p939_TMxkGIV9UlRF91XDesGqUVY95N1TdsML8rjZCKqLn86Lug9KAxMf7ZTvemf2BjuExq_1ELlH1WQaVKxINLDGrW0ds3hzEZRr86u-5Bm-hNZhtRA_NxjLoD0EZceKASN1O4gyQMa7cRfFuZIYXy0sP3tlGVzhtRQuwRXGoEWa7OaiBtdbNvDDK-kqLSx_n0_TtiFmTCqYPm2W7r9Q3Tgh1PtWIA1kGpSloYe5QdDYE7E4FHLEL1ob2-lgDoBALKFTp-D8Y7Vga"
+    },
+    {
+      "position": 20,
+      "title": "Sekanak Sidewalk",
+      "place_id": "ChIJn1gfkil3Oy4RwYXcspqjY7I",
+      "data_id": "0x2e3b7729921f589f:0xb263a39ab2dc85c1",
+      "data_cid": "12854297646266615233",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b7729921f589f%3A0xb263a39ab2dc85c1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b7729921f589f%3A0xb263a39ab2dc85c1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9915103999999997,
+        "longitude": 104.75607769999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJn1gfkil3Oy4RwYXcspqjY7I",
+      "provider_id": "/g/11fg5rnrd4",
+      "rating": 4.2,
+      "reviews": 44,
+      "unclaimed_listing": true,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "2Q54+9CW, Talang Semut, Bukit Kecil, Palembang City, South Sumatra 30113, Indonesia",
+      "open_state": "Closed ⋅ Opens 12 AM Sat",
+      "hours": "Closed ⋅ Opens 12 AM Sat",
+      "operating_hours": {
+        "tuesday": "Closed",
+        "wednesday": "Closed",
+        "thursday": "Closed",
+        "friday": "Closed",
+        "saturday": "Open 24 hours",
+        "sunday": "Closed",
+        "monday": "Open 24 hours"
+      },
+      "extensions": [
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrDMDf-bLhS9gCEkQ321hQ_aD8qsZVdoTb0v12esNc7-ISLuKYGqHAyOb93JhMM0K6T7GTSHdzHUIoS2EKFSkkT7MKrnHtJBT1xYGUi0nbVlNbsez33XI9xTRy-IlULBdYzu9mj3g=w80-h106-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/NI63r3icBcFRboIwAADQExUKNWKX7EOFAQIu2mLEn2WFrlWwVVqmckHP4G187_WU1l7Mh-t2EjlCa9HxwfC-1spyZZ1an11xMaA2wLjzJZYT1YdF-AdYLgkWy6jdIN-Tm5_fcHY1h12jKYP_ns_Nug5ASvIhq-JrMn98M4xWsihgNqVBTEnSjEmZauJH2RdpWxoUWa8Su1pQ717F5REqtuvWzPARoX2K73T7AGlX5oumGgd8PiHxeZtBID04BS1Q-g2r0EOv"
+    }
+  ]
+}

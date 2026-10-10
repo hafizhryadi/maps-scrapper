@@ -1,0 +1,952 @@
+{
+    "search_metadata": {
+        "id": "68db8a791fad36b0e873a68e",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/7bb5ef4392ea5ff0/68db8a791fad36b0e873a68e.json",
+        "created_at": "2025-09-30 07:44:57 UTC",
+        "processed_at": "2025-09-30 07:44:57 UTC",
+        "google_maps_url": "https://www.google.com/maps/search/Wisata+budaya+Kota+Padang?hl=en",
+        "raw_html_file": "https://serpapi.com/searches/7bb5ef4392ea5ff0/68db8a791fad36b0e873a68e.html",
+        "total_time_taken": 0.75
+    },
+    "search_parameters": {
+        "engine": "google_maps",
+        "type": "search",
+        "q": "Wisata budaya Kota Padang",
+        "google_domain": "google.com",
+        "hl": "en"
+    },
+    "search_information": {
+        "local_results_state": "Results for exact spelling",
+        "query_displayed": "Wisata budaya Kota Padang"
+    },
+    "local_results": [
+        {
+            "position": 1,
+            "title": "Cultural Park West Sumatra Province",
+            "place_id": "ChIJhVh8r0251C8R5PHPJ4koKyc",
+            "data_cid": "2822394161021317604",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b94daf7c5885%3A0x272b288927cff1e4&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9546231,
+                "longitude": 100.3531679
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhVh8r0251C8R5PHPJ4koKyc",
+            "provider_id": "/g/11bc7p8jgy",
+            "rating": 4.5,
+            "reviews": 1052,
+            "unclaimed_listing": true,
+            "type": "Cultural center",
+            "types": [
+                "Cultural center",
+                "Community garden"
+            ],
+            "type_id": "cultural_center",
+            "type_ids": [
+                "cultural_center",
+                "community_garden"
+            ],
+            "address": "JL. P Diponegoro 31, Belakang Tangsi, Padang Barat - West Sumatera, Belakang Tangsi, Kec. Padang Bar., Kota Padang, Sumatera Barat 25118, Indonesia",
+            "open_state": "Open ⋅ Closes 5 PM",
+            "hours": "Open ⋅ Closes 5 PM",
+            "operating_hours": {
+                "tuesday": "9 AM–5 PM",
+                "wednesday": "9 AM–5 PM",
+                "thursday": "9 AM–5 PM",
+                "friday": "9 AM–5 PM",
+                "saturday": "9 AM–12 PM",
+                "sunday": "Closed",
+                "monday": "9 AM–5 PM"
+            },
+            "phone": "+62 751 22752",
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nonOIOa-A4UDuwlFYEL_W6ENwAuV-YPokB3M7rqspF3PQyOgUsO9mjfCarhPdUR8jnw9Ms8PIh6JQ14k8N7qFig-gplwy8SEq0pvi6BcRe6nKSNHr43kqEJPrt2Tp1EGjhEAGbJ=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/9u-fAXicBcH_EoEwAADgJ5r041Lu_FFZCDUlrr8cyaayrW3ZeUAP4W183-9LlOJybhg9sSeYMdw3o2xEzahqqJrU7GVgLkEtgTSCyCcOZTTbZFcQOOVy1H1cwd3l7MJUB-MJVIh1ob2fiUHy2EaHT4ZLmfmv9hFdBUH3Mvdaqv299NCGuMnBdDovnQ3xEwPMe_3xCjhM-fvphnXeuHRbpGvh2N0AEySUdeQmXLUEBqtbstCmZQHiW6ADlP0Bp0dD6A"
+        },
+        {
+            "position": 2,
+            "title": "Kantor Pusat Informasi Desa Wisata Cagar Budaya Kota Tua Batang Arau",
+            "place_id": "ChIJo-gGfwC51C8RcW7p7dxMH7o",
+            "data_cid": "13411522727100640881",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b9007f06e8a3%3A0xba1f4cdcede96e71&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.962073,
+                "longitude": 100.364376
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJo-gGfwC51C8RcW7p7dxMH7o",
+            "provider_id": "/g/11xkdczth3",
+            "rating": 5,
+            "reviews": 1,
+            "unclaimed_listing": true,
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction"
+            ],
+            "type_id": "tourist_attraction",
+            "type_ids": [
+                "tourist_attraction"
+            ],
+            "address": "Jl. Pulau Air No.3b, Pasa Gadang, Kec. Padang Sel., Kota Padang, Sumatera Barat 25134, Indonesia",
+            "open_state": "Open ⋅ Closes 9:33 PM",
+            "hours": "Open ⋅ Closes 9:33 PM",
+            "operating_hours": {
+                "tuesday": "8 AM–9:33 PM",
+                "wednesday": "8 AM–9:33 PM",
+                "thursday": "8 AM–9:33 PM",
+                "friday": "8 AM–9:33 PM",
+                "saturday": "8 AM–9:33 PM",
+                "sunday": "8 AM–9:33 PM",
+                "monday": "8 AM–9:33 PM"
+            },
+            "phone": "+62 852-9293-9292",
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npPFOGuwHxWhwYEjkw4E2SEp6I5q75y-R_n7Skaqr-5nmeCQa6AkpHo2pF2Oy_5RivtOHuTTnVj-iFImxr7BFPt2cFs33tOmw-Vy0Xm5jbIJIQYL7L5T6JQTXIkjir4HGMFO7ufJubC0Sk=w204-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/bbwsvnicBcFdboIwAADgE1VIoTSa7MERKiWaihCnT0YJo1D7I21XueMusNvs-_5-uXPGbqLoyZPVoPXw7L3t504r1yu36rSMBmNBZ4GNtvmap8ocCdv5UL6_eLgWkwhpAZvCZBS9MFrA6aZwI-6vGSAl-7y-Z1thSg0NgWy5odP441jp21adJzASKt8z_iRHBztik8QxGcB5iS8STQ9a0fq6x3vUZlXdXqiYxjktdwfCsP-u_COPG_ERYJwCvoZAAKX_Aa_XRjg"
+        },
+        {
+            "position": 3,
+            "title": "Museum Adityawarman",
+            "place_id": "ChIJcRVmd0651C8Re8cvlAEemYE",
+            "data_cid": "9338528294459393915",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b94e77661571%3A0x81991e01942fc77b&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9556749,
+                "longitude": 100.355865
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJcRVmd0651C8Re8cvlAEemYE",
+            "provider_id": "/g/120wl3xb",
+            "rating": 4.5,
+            "reviews": 3499,
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction",
+                "Museum"
+            ],
+            "type_id": "tourist_attraction",
+            "type_ids": [
+                "tourist_attraction",
+                "museum"
+            ],
+            "address": "Jl. Diponegoro No.10, Belakang Tangsi, Kec. Padang Bar., Kota Padang, Sumatera Barat 25114, Indonesia",
+            "open_state": "Open ⋅ Closes 4 PM",
+            "hours": "Open ⋅ Closes 4 PM",
+            "operating_hours": {
+                "tuesday": "8:30 AM–4 PM",
+                "wednesday": "8:30 AM–4 PM",
+                "thursday": "8:30 AM–4 PM",
+                "friday": "8:30–11:30 AM, 1:30–4:30 PM",
+                "saturday": "8 AM–5 PM",
+                "sunday": "8 AM–5 PM",
+                "monday": "Closed"
+            },
+            "phone": "+62 821-7100-3088",
+            "website": "https://museumadityawarman.sumbarprov.go.id/",
+            "description": "State museum of history & culture. State-run museum exploring regional history & culture in a traditional spire-roofed building.",
+            "extensions": [
+                {
+                    "highlights": [
+                        "Live performances"
+                    ]
+                },
+                {
+                    "accessibility": [
+                        "Wheelchair accessible restroom"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                },
+                {
+                    "crowd": [
+                        "Family-friendly"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                },
+                {
+                    "parking": [
+                        "Paid parking lot"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Assistive hearing loop",
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot",
+                        "Wheelchair accessible seating"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restaurant"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np7i3DkAR1DGQuhFtga6GIyNiZrScUHp_sGwH1JIv4lD7HgB-KcQ66uptDWgag0-eqvlSAD2stkyYi7RBPI-PexxTHjH2fgFynM_77QVHFQwm8ANMBzHy0rGiqagv-q1mPtXG7H=w138-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/ElEulHicBcHdToMwGADQJ_rGgIVuJl6ADS2aLbD5f7OQpn5FoC20wPD9fAjfxnP-fpX31t0FQafiDRqDnZycHIXRXmq_EaYP0DoQDlyQPhzUTlvSxLRNzyFl1aRyj3XCivXUfI4X8cLt1bGFh4_FvOso4ZjBk6iSZLKevmGNW5DD3F1SGjnfrh8NOWdlAaW83Z75N4--MF_18UpI9crzaun36emY_fB1O7JmqHGGIexL_84Iv1_CeA_qEEEL2vwDoaNEJg"
+        },
+        {
+            "position": 4,
+            "title": "Wilayah Desa Wisata Cagar Budaya Kota Tua Batang Arau",
+            "place_id": "ChIJJwHPFgC51C8RU3XB35gs6T0",
+            "data_cid": "4461145940987835731",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b90016cf0127%3A0x3de92c98dfc17553&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9625646,
+                "longitude": 100.36364449999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJwHPFgC51C8RU3XB35gs6T0",
+            "provider_id": "/g/11wp_8ff_6",
+            "rating": 5,
+            "reviews": 1,
+            "unclaimed_listing": true,
+            "type": "Historical landmark",
+            "types": [
+                "Historical landmark"
+            ],
+            "type_id": "historical_landmark",
+            "type_ids": [
+                "historical_landmark"
+            ],
+            "address": "Jl. Batang Arau No.5Kampung, Teleng, Batang Arau, Kec. Padang Sel., Sumatera Barat 25134, Indonesia",
+            "extensions": [
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrtUw-GyZkRsInNUyai53DvDTPWMzrE_eO1HKiMuKRlBZn3XEDarZnvBTC5niIdazkupMrtIaOkbDjd_Q2x5VuempV_buzK_kdjdJ9vFbXuWHuDlox-FBgQZdoEBaAzOc2pmBVv-A=w204-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/_pNcTHicBcFdDoIgAADgE5Gl-WBbDxJW5sxqZc0Xh8LUUGD8WHnBztBt-r7ftzVG6pXj9K03a4Roemo1VbXghnIzq8XgNFKDWgPthJugXXJlbi-w-xTsomN-vH1w53toRNfTPZ1UVNJssU-61CaXHhbce0QIq4KP8LrxeRcTPDErU2VinLEKPUl5dt9-bukg87KyU1Iy8iSHYNxWD3vfW9SLN9jC5lwQEUEcTlntygHmIwjXL3e-BG3gAga4-AMYDEdm"
+        },
+        {
+            "position": 5,
+            "title": "Gebouw van Javasche Bank - Old Bank Indonesia Building, Padang",
+            "place_id": "ChIJg4elTla51C8RTjN8T2JM9ig",
+            "data_cid": "2951630590911984462",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b9564ea58783%3A0x28f64c624f7c334e&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9644851,
+                "longitude": 100.35834229999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJg4elTla51C8RTjN8T2JM9ig",
+            "provider_id": "/g/12lngpvfp",
+            "rating": 4.4,
+            "reviews": 79,
+            "unclaimed_listing": true,
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction",
+                "Museum"
+            ],
+            "type_id": "tourist_attraction",
+            "type_ids": [
+                "tourist_attraction",
+                "museum"
+            ],
+            "address": "Jl. Batang Arau No.66, Berok Nipah, Padang Barat, Padang City, West Sumatra 25118, Indonesia",
+            "open_state": "Open ⋅ Closes 5 PM",
+            "hours": "Open ⋅ Closes 5 PM",
+            "operating_hours": {
+                "tuesday": "8 AM–5 PM",
+                "wednesday": "8 AM–5 PM",
+                "thursday": "8 AM–5 PM",
+                "friday": "8 AM–5 PM",
+                "saturday": "Closed",
+                "sunday": "Closed",
+                "monday": "8 AM–5 PM"
+            },
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible restroom"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restaurant"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq546EULGQxmPTtYBmmoJ_y2X6EoulFHU85A9WQXhL6oscisUy-Repj2B5I78HGQcVZOR6Jb8r6ppNLLTeXLbCvuP3gs8oAb_Q-hbagn0HUqlFwxvbS0E1hyfXNt0sa0HZ7ghJy=w199-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/KsGx73icBcHRboIwFADQL6ogSqVL9oAGRdI4ceKYL8Y2tdVBb_UWlQ_cR_g3nvP6N947_AiCxowGGkA3qkN1k2C9sn4goQ20QyKRYJDOmBnbazymWcUX5bNdb_3vtG2hOPRRTTPomnleJXHKfsracAooz1j1ZKPcJZrGy0mSL0q5239taCGSG3VuxflW1VzM7t16pDGBVBxKYsRR2zCvrs388byL7zAbmv5Ur3yIxzDfT7Qp-s_HkDFiWET-iIU3ihJEMw"
+        },
+        {
+            "position": 6,
+            "title": "Taman Desa Wisata Cagar Budaya Kota Tua Batang Arau",
+            "place_id": "ChIJfZ8wLQC51C8RwXVDi_RlY9Q",
+            "data_cid": "15304188059717957057",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b9002d309f7d%3A0xd46365f48b4375c1&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9631508999999999,
+                "longitude": 100.36283809999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfZ8wLQC51C8RwXVDi_RlY9Q",
+            "provider_id": "/g/11y8qfz1ny",
+            "rating": 5,
+            "reviews": 1,
+            "unclaimed_listing": true,
+            "type": "Playground",
+            "types": [
+                "Playground"
+            ],
+            "type_id": "playground",
+            "type_ids": [
+                "playground"
+            ],
+            "address": "Jl. Batang Arau Jl. Kp. Teleng No.33, Batang Arau, Kec. Padang Sel., Kota Padang, Sumatera Barat, Indonesia",
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no5LzczVyXqxlMjJxzWQVjLEewkD-mIBTHLbbXqpkBz9tmAUcNflDSmtvul0WGh4yRetvSJlpKbWuqUrw1uKw5y0UanZpDLWidik4Yxai2Sy_WCUYGoOSODyQjuIXa8fN55gIlFzA=w80-h177-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/UWv3onicBcFdkoIgAADgE5HW6vQz04PlbllW07qG7cuOEomKgAEpXHDP0G36vtc_UUrIheNQ8jEqOS8p1hI_EGcKMzVCvHVKIQGSQDrBek48xv3YInsxWTfQQ70bLDxf6vgT900I2mj1s42LIutEs7Jz1QYpOt5pmLTqqakLN8Qz31g9kx0V-wLqLn30Y73vfeOmOfsVYQyrW9V41yGvJon5g-v0uuGn5BSac62jLJ_dj75fRvTLBst-5gIynk5BAxh_A4FaSBQ"
+        },
+        {
+            "position": 7,
+            "title": "Taman Siti Nurbaya",
+            "place_id": "ChIJHWMIEgC81C8R80L9kSJvNQc",
+            "data_cid": "519443526300025587",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4bc001208631d%3A0x7356f2291fd42f3&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9653256,
+                "longitude": 100.35963199999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHWMIEgC81C8R80L9kSJvNQc",
+            "provider_id": "/g/11r80v_qz",
+            "rating": 4.6,
+            "reviews": 512,
+            "unclaimed_listing": true,
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction",
+                "City park"
+            ],
+            "type_id": "tourist_attraction",
+            "type_ids": [
+                "tourist_attraction",
+                "city_park"
+            ],
+            "address": "29M5+VV6, Batang Arau, Padang Selatan, Padang City, West Sumatra, Indonesia",
+            "extensions": [
+                {
+                    "amenities": [
+                        "Public restroom"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqUfQ6VLA1Tpoh-_K3IJ1SAMTeZ1vNNQrBZjs8yAVVgFVO2RkbL80YcY6WX_F8ffn6kg6Zjt2HYQCPAKCOzd7aG09UdKUEohIZp0EjDF6ldbIUDBluzb8vvDdR6-5VB6Ip4kNsS=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/31dga3icBcFdkoIgAADgE5FKRdrMPqBmma2tlZS-NPkHoy5QkE3dr0N0m77v82ZaSzU3jJ6NR1QI2td3Vd9KwXXN9agU_waVCpQKKAN7Dpvwa9okiGywdZCCgXM0DtfWHv8e6twa4ji5uXmr7CcmhAZkC3ddsbHNrMzQ8XQO7KbhqKMobzVcZYn3hyNv-6pml6XppFWULgQLc2kuWj9AfVWEqe_291dhD4Nf7RCYEheFctLFav_zsCAEzIGgA1x8ASEMQoQ"
+        },
+        {
+            "position": 8,
+            "title": "Monumen Merpati Perdamaian",
+            "place_id": "ChIJ6zf6rCq51C8RZW5YV49aSsI",
+            "data_cid": "14000101963326844517",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b92aacfa37eb%3A0xc24a5a8f57586e65&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9288757,
+                "longitude": 100.3499714
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ6zf6rCq51C8RZW5YV49aSsI",
+            "provider_id": "/g/11cnxyr5q_",
+            "rating": 4.4,
+            "reviews": 6695,
+            "type": "Historical landmark",
+            "types": [
+                "Historical landmark",
+                "Monument"
+            ],
+            "type_id": "historical_landmark",
+            "type_ids": [
+                "historical_landmark",
+                "monument"
+            ],
+            "address": "39C2+866, Pantai Muaro Lasak, Jl. Samudera, Rimbo Kaluang, Padang Barat, Padang City, West Sumatra, Indonesia",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours"
+            },
+            "extensions": [
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no18Z3o2I3MHFFt_MVJDtLRiCb_0ibltelBWYLPIZar8Bq4Ss5Uo-bTuNXjgEwFm6RSFo8tCv-XmK9sb3uwxt49GNOMdi1nhF2N0KcCFW-b5aYUl1LaQZwZvRMOuvqblbBSwBfs=w80-h106-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/rJnbyHicBcFLkoIwFADAE0VA0AKrXAgaf4AKw6hsLIJI0JCn5kG8oIeY20z335cjPtXEMAS3BzVALapOVe8SJFYSByW0Rv1UpFREGbPA444Ey81tGK7taEUpXqLfzRzDpAnYxWyYwEr4x3O4X-fF2_VfTqpGGRD208Wne73QtB0nKQUXg56c2q2nmN3pDzreMt5F18aSnA5jc1sG9EjYqDhnwgqLQ67zPol2Xf9igvmp9m9qql2TcMsckweR8A920UQi"
+        },
+        {
+            "position": 9,
+            "title": "Darah wisata cagar budaya kota tua batang arau",
+            "place_id": "ChIJ89_INwC51C8R8zjXn9Dk0Ro",
+            "data_cid": "1932577299804666099",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b90037c8dff3%3A0x1ad1e4d09fd738f3&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9619245,
+                "longitude": 100.36388009999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ89_INwC51C8R8zjXn9Dk0Ro",
+            "provider_id": "/g/11wq04ggh3",
+            "unclaimed_listing": true,
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction"
+            ],
+            "type_id": "tourist_attraction",
+            "type_ids": [
+                "tourist_attraction"
+            ],
+            "address": "Jl. Ps. Borong III Jl. Kp. Teleng No.7, Batang Arau, Kec. Padang Sel., Kota Padang, Sumatera Barat 25215, Indonesia",
+            "extensions": [
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                }
+            ],
+            "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1-QUreYuLWh_5NgtWPMXuw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=143.78088&pitch=0&thumbfov=100",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/WfL4BXicHc3bDcIgFADQbfgrDx-xmhAXUKMfpvrVUHoFEloI3BbdxrXcRuMC53zeFjHmHWMZEwDODkp0T_C5ioqaEIwHFV2mOgxsFgztNHSjcn4f1RhcL0V1uSa4T4fGtuuTweZ8vE2F6K7V3sGIMoNK2lJTfmIKPTUxkyJrTqzcLshLFSlWS7qpeV2T6FBbycl_eYRZCs6_g6Q5uA"
+        },
+        {
+            "position": 10,
+            "title": "Kota Tua Padang",
+            "place_id": "ChIJYV_lt1e51C8RrA3kEe5zqig",
+            "data_cid": "2930281973897498028",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b957b7e55f61%3A0x28aa73ee11e40dac&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9635311,
+                "longitude": 100.3618192
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYV_lt1e51C8RrA3kEe5zqig",
+            "provider_id": "/g/11c2pn0rgs",
+            "rating": 4.5,
+            "reviews": 160,
+            "unclaimed_listing": true,
+            "type": "Townhouse complex",
+            "types": [
+                "Townhouse complex"
+            ],
+            "type_id": "townhouse_complex",
+            "type_ids": [
+                "townhouse_complex"
+            ],
+            "address": "29P6+HPP, Kampung Pondok, Padang Barat, Padang City, West Sumatra, Indonesia",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours"
+            },
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr4jMLd4c13MCU-Su1EfAe7QAb2QtxTGsqewe_qYmmYtnjVvxEOxMMkgd9FqtRj_rcSTvbELhcD17g-49LbLThZcis5tzECxlQWviSVKD6Q4ec047_jwQyP4faLKluSaG0Qw89ArQ=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/UolUMnicBcFLEoIgAADQE5GfKKOZFo5Zi3CKtBrbOIkEmUIKfuqCnaHb9N7vK4x56aVlVWI64UrxinWatVRJw6SZUFVb_KUB1UBbfoAElC0sI1xA6kyj4ATizgnvPvOIn7vEjMlWN2xgWZPWdWpkee7HcD9G0ZMXaNOYY5m1NE76PMSCrh2PA4hwjhNxpQ89M58wGCty6R_xebeeE8ioDb2sHMj7AO83vKu6-La1ybBAfktWg-O6QCAXPIFUf4N_RZQ"
+        },
+        {
+            "position": 11,
+            "title": "Kampung Adat Rimbo Tarok",
+            "place_id": "ChIJL2LINrq51C8Rg-ZwzAPqHYE",
+            "data_cid": "9303849707253065347",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b9ba36c8622f%3A0x811dea03cc70e683&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.8952538,
+                "longitude": 100.4076103
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJL2LINrq51C8Rg-ZwzAPqHYE",
+            "provider_id": "/g/11snvs20x_",
+            "rating": 5,
+            "reviews": 8,
+            "unclaimed_listing": true,
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction"
+            ],
+            "type_id": "tourist_attraction",
+            "type_ids": [
+                "tourist_attraction"
+            ],
+            "address": "4C35+V5R, Gunung Sarik, Kuranji, Padang City, West Sumatra 25173, Indonesia",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours"
+            },
+            "phone": "+62 821-5844-0307",
+            "extensions": [
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nplCITEQ3AznYw3dPX8RScML1YXbg2WFx9B45iTlcxc65GXtRK750vp9Eep8QKCR4FC9p52vcSHqJXevhyMn9TujPlXoPHVT3D1XJGlBSmCRPlMw8TkssoCpBS4W2jlI_Ir9KDusg=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/nhxst3icBcFdkoIgAADgE5GJWtLMPiT9mTljyiQ9NRMxUBFQoLZ7wT1Dt-n7Pv_Se-tmQaBkNBLGCMU7x1_MaM-1HzHzCIR1gDnggjlGMtZW4Zws99H8Tx-H6FLRtG5YuQuP9Cxgu3qjLE6uRLE3myRr6utimox7i5bcpvsC1_EKI5vAnjWb55byXv6WGpHuVilqqs2BRIuQbtcqax64rlQ5pOTunME2a-IW3lR-yl-oWHRO_AwhhEAiCO5Amy_VwkQf"
+        },
+        {
+            "position": 12,
+            "title": "Gedung Tua.Desa Wisata Cagar Budaya Kota Tua Batang Arau",
+            "place_id": "ChIJIegMQAC51C8RY9atNZckDY4",
+            "data_cid": "10235877759942252131",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b900400ce821%3A0x8e0d249735add663&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9629616999999999,
+                "longitude": 100.3627913
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJIegMQAC51C8RY9atNZckDY4",
+            "provider_id": "/g/11whb82g5y",
+            "unclaimed_listing": true,
+            "type": "Historical landmark",
+            "types": [
+                "Historical landmark"
+            ],
+            "type_id": "historical_landmark",
+            "type_ids": [
+                "historical_landmark"
+            ],
+            "address": "I Jl. Kelenteng No.20, Batang Arau, Kec. Padang Sel., Kota Padang, Sumatera Barat, Indonesia",
+            "extensions": [
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                }
+            ],
+            "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xNPuDgiLNDd6v2EjL9IsCA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=310.99194&pitch=0&thumbfov=100",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/OrhIyXicHc1tCsIgGADg2_gvP1ZEBhKj9SMYoxuEc6ZvuCnT6bpN1-o2RRd4ns_bphTikZCYZq1TBl0CrNrFTZDYeG-clgEiVn4kmZFkl7GfJLhTkJOHQazdbWkMtF0z7HN1ebb8Gs81Uv1dOdBTElHLWVlsyk-c_YBNiKiIA0VW8Aq9ZBFbRjHnjO9QgKSsoOi_PHwWjNIvY705Pw"
+        },
+        {
+            "position": 13,
+            "title": "Gedung Tua Desa wisata Cagar Budaya Kota Tua Batang Arau",
+            "place_id": "ChIJbfvJAwC51C8RclmmqIhqdV8",
+            "data_cid": "6878521141055871346",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b90003c9fb6d%3A0x5f756a88a8a65972&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.965399,
+                "longitude": 100.35654199999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJbfvJAwC51C8RclmmqIhqdV8",
+            "provider_id": "/g/11y833y0_p",
+            "unclaimed_listing": true,
+            "type": "Historical landmark",
+            "types": [
+                "Historical landmark"
+            ],
+            "type_id": "historical_landmark",
+            "type_ids": [
+                "historical_landmark"
+            ],
+            "address": "Jl. Batang Arau Jl. Kp. Teleng No.58a, Batang Arau, Kec. Padang Sel., Kota Padang, Sumatera Barat 25215, Indonesia",
+            "extensions": [
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                }
+            ],
+            "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mO5CuTdOt95YcxVnGnvq9Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=345.54462&pitch=0&thumbfov=100",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/YXoIfXicHc1RCsIgGADg2_iWujWjBbKHHnocQQQ9hXOmglOb_3Tdpmt1m6ILfN_nbQBiOhCSYFYKslUl2lW5tIkC6xC0UyLahGWYSK4ImGUavLCui8IHO_KpZ8flMvbQsptcr_7k87M9IzncpbPKA09KzNJgXX7iHEasY0KF7ykyvK3RSxS-bRhmTbOrUbQgDafovzxC5hWlX4hRObk"
+        },
+        {
+            "position": 14,
+            "title": "Padangsche Spaarbank",
+            "place_id": "ChIJT2fusFm51C8RDpT_879cTPU",
+            "data_cid": "17675604617024476174",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b959b0ee674f%3A0xf54c5cbff3ff940e&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9632082999999999,
+                "longitude": 100.36289459999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJT2fusFm51C8RDpT_879cTPU",
+            "provider_id": "/g/11cp65s33g",
+            "rating": 4.4,
+            "reviews": 348,
+            "unclaimed_listing": true,
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction",
+                "Historical landmark"
+            ],
+            "type_id": "tourist_attraction",
+            "type_ids": [
+                "tourist_attraction",
+                "historical_landmark"
+            ],
+            "address": "Jl. Batang Arau No.5, Kampung Pondok, Padang Barat, Padang City, West Sumatra 25134, Indonesia",
+            "open_state": "Open now",
+            "extensions": [
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq2SosKKiT7pSaKRHog6iHMoCTHTJpqqIQPn5fqTvkYXQhk6EU5LC-xMzed_9wDwXhfx_QQxkVAm9Sz2-j-QnOjXHZiQLt6ZNkX0EnzWU8fjk1u-sZ5AuzwOgZ8Q6364ivshMI68A=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/2P_lJXicBcHxEoEwHADgJ_qJ0ZQ7f3RxFwlTkf5xLrXV2MqWul7QM3gb3_f7Mq1rtTCMJ5uOqJT0mbcqf2dS6FzoUSZfBq0VZAqU4bg2m4kGhVL5fhnN6_DunzxJcekF0o28aFs3zYYchVk00YdfE8I4XsfmzoU-GPLHze5WXcKK_kZIz8_Oyw4HBBUQcagSLy3JTuN0z5PxWgyX2CoqPmlBpabTDt2BphbBUzwrP4oFG2w5y26CEDAbAQch_5bVRWg"
+        },
+        {
+            "position": 15,
+            "title": "Gebouw Handelsonderneming \" Geo Wehry & Co \"",
+            "place_id": "ChIJg7ghvVe51C8REfPQorYpiBw",
+            "data_cid": "2055939094287020817",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b957bd21b883%3A0x1c8829b6a2d0f311&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9643668999999999,
+                "longitude": 100.3594533
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJg7ghvVe51C8REfPQorYpiBw",
+            "provider_id": "/g/11c45hrnjt",
+            "rating": 4.4,
+            "reviews": 34,
+            "unclaimed_listing": true,
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction",
+                "Historical landmark"
+            ],
+            "type_id": "tourist_attraction",
+            "type_ids": [
+                "tourist_attraction",
+                "historical_landmark"
+            ],
+            "address": "29P5+7Q4, Kampung Pondok, Padang Barat, Padang City, West Sumatra 25119, Indonesia",
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npGXbo551P5iFc3T-XmSQw-BvbkOvOyXPyPoSNTTPYwz7hgzpJJbZakTGKETcTLiqTByw4ioXc1avVdhhJS1NKWhe3p6hULdey4MihXv5kVhxZh_h3e_c4mI1ab8PHyoRYu4nps=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/7IU7EnicDc5bUoMwFADQFQUmPGrbGT-so1ToI0rEwA8DaYbLULipoWC6vy7C3ehZwfm9wzhqs3bdM_hOg9ic1dWob4nDqIbRkdi7jTZEGmLcp-cVBIOORI1hSFnYvkqfE9Gn7zPZTHV3nI5WMMswPXDO8vn2AM1Nx3FdVB2Pkhcu-a698I2dgxaFpNWUnQDilB6SL1C-XsDn7qRssG9BTGGXwU8BJfiqlEH_Rqt6ybYWP_Lr_8E8ztTzCKw80pEB_wAZ7UXy"
+        },
+        {
+            "position": 16,
+            "title": "Rumah Gadang Datuak Rajo Ibrahim",
+            "place_id": "ChIJ5wAk7bO51C8Raw2sAYH1phQ",
+            "data_cid": "1488146661320166763",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b9b3ed2400e7%3A0x14a6f58101ac0d6b&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9316489,
+                "longitude": 100.4106611
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5wAk7bO51C8Raw2sAYH1phQ",
+            "provider_id": "/g/11bc7phwp4",
+            "rating": 4.6,
+            "reviews": 72,
+            "unclaimed_listing": true,
+            "type": "Historical landmark",
+            "types": [
+                "Historical landmark"
+            ],
+            "type_id": "historical_landmark",
+            "type_ids": [
+                "historical_landmark"
+            ],
+            "address": "Jl. Dr. Moh. Hatta No.14, Ps. Ambacang, Kec. Kuranji, Kota Padang, Sumatera Barat 25176, Indonesia",
+            "open_state": "Open ⋅ Closes 6 PM",
+            "hours": "Open ⋅ Closes 6 PM",
+            "operating_hours": {
+                "tuesday": "8 AM–6 PM",
+                "wednesday": "8 AM–6 PM",
+                "thursday": "8 AM–6 PM",
+                "friday": "8 AM–6 PM",
+                "saturday": "8 AM–6 PM",
+                "sunday": "8 AM–6 PM",
+                "monday": "8 AM–6 PM"
+            },
+            "extensions": [
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npsIa6NrIu_GQS7-lBYBafu0MHSIS8lTmvbvG2bnxOzzivTfRyEfyPlaxvgcAQJY2XlhcVh-y6t65dgxUhJVrn8QO5eWFSsC6hOauKxIwfzOj4x77Mn8xuThtSNIKRjfYmP3Rmq=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/TpgeFXicBcFbcoIwFADQFUXaqICd6Yc6rUZHEYIPvjoYSW5tSChJMLC_LqK78Zz_P7C2MW9BIGE8EloLWTlTtUwrWyk7YroORGMQM8gE8-UMJqoxpAz3LXFfq5RGSC6KRcndy25NCY1lXnfXboWvyifD8N3lPOs_eH-Qpe8Em6ebAl8ksBOgPrTh9Cb8ETanVsVpMq3On9QsQ0hKt_XkwYfkPvFRtFOxdzlYuifb7M6L-jDO6t_3xyvGCGYY_SCln1lvRlw"
+        },
+        {
+            "position": 17,
+            "title": "The Padang Sign",
+            "place_id": "ChIJISi6QRm51C8RWUGjE9MQAIo",
+            "data_cid": "9943966475987665241",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b91941ba2821%3A0x8a0010d313a34159&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9362263,
+                "longitude": 100.35091279999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJISi6QRm51C8RWUGjE9MQAIo",
+            "provider_id": "/g/11h89906_f",
+            "rating": 4.5,
+            "reviews": 43,
+            "unclaimed_listing": true,
+            "type": "Historical landmark",
+            "types": [
+                "Historical landmark"
+            ],
+            "type_id": "historical_landmark",
+            "type_ids": [
+                "historical_landmark"
+            ],
+            "address": "3972+G93, Purus, Padang Barat, Padang City, West Sumatra 25115, Indonesia",
+            "extensions": [
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqhB-9X7ITEcS1uRhAzEHvKrpXsNDlqT8wzk322wi2k6xtAaSDgF8tOfmmtXY5w51Q3puw5ghvO1zxHfLtxsiIgmYTX26DSoF9nGr26u1mtdvELmn9n7_XuIQgjDZ_uC2JOOLE=w80-h99-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/j1xbhXicBcFBjoIwFADQE1WGIkhNXKCgokSisKizMRMGW4W2SH8p4Xqewtv43ufNATq9dJyWezOmFGtro-u-UhJqCbNKCYd1GlUaaSfaED6XL75GhC7SMqkK11x4NCX74dh3VJ_i9lWGdmo8jO0DN8EI0V8Rs20I-V0IoFff-u7Z64z1GR9ydxr39wxG_UiZuJYUB3GhtkTuehwYV8D_kGRCErm4UZOe2TP-vZkNPuR5lqxs-IM4IahBUn0Ba6lEiQ"
+        },
+        {
+            "position": 18,
+            "title": "Padang Beach",
+            "place_id": "ChIJvzH9GDO51C8RHwY5chxQ2xU",
+            "data_cid": "1574940577801766431",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b93318fd31bf%3A0x15db501c7239061f&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9295715999999999,
+                "longitude": 100.3499566
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvzH9GDO51C8RHwY5chxQ2xU",
+            "provider_id": "/g/11bzrg_ckn",
+            "rating": 4.5,
+            "reviews": 6430,
+            "type": "Beach",
+            "types": [
+                "Beach"
+            ],
+            "type_id": "beach",
+            "type_ids": [
+                "beach"
+            ],
+            "address": "Rimbo Kaluang, Padang Barat, Padang City, West Sumatra 25115, Indonesia",
+            "website": "http://pariwisata.padang.go.id/",
+            "description": "Public beach for strolls & water sports. Popular public beach offering a narrow shoreline & waves for surfing, plus a scenic promenade.",
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nphcKEMrnKnEz1pka_GygwGy9fuc1KnwnFRRMJiJhUQhvfXT05TBsmRvKhwdtwe8-2COGq6BCnwQf2CSe1VROHxNDY22ROmpbiMHwhJ-D_JlWrokuBcvkzg1LLB0b7Iwn1xk6E_=w138-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/CSvD6HicBcFbcoIwFADQFUVMbK10ph8FKRakjNG-vpiahlwncJOSQNT9dRHdTc_5-wXvrbuPog4WM2WM6uTo5CAMeol-JkwfKeuIcMRFj2kMN2hBlFk1YInZlVr91eQXFfJL3I6ClhjwifOqOBXwuoOp_TjMbw-J6_lUQvj2Qa4IS-v8Z5mkGHYtS_eSvvF6c35ZfzLG694eT9UmQEHWTdG9D0aPiZj0VdHtNpkf754D0rNeZs1DoIsVgZgRTdD8A0nxRXI"
+        },
+        {
+            "position": 19,
+            "title": "Danau Cimpago",
+            "place_id": "ChIJM03qlyy51C8R4-g6vxspOrY",
+            "data_cid": "13130852862701267171",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b92c97ea4d33%3A0xb63a291bbf3ae8e3&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9338367999999999,
+                "longitude": 100.3512528
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJM03qlyy51C8R4-g6vxspOrY",
+            "provider_id": "/g/11bzvb6b95",
+            "rating": 4.3,
+            "reviews": 727,
+            "unclaimed_listing": true,
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction"
+            ],
+            "type_id": "tourist_attraction",
+            "type_ids": [
+                "tourist_attraction"
+            ],
+            "address": "3982+FG6, Kelurahan Purus, Kecamatan Padang Barat, Purus, Padang, Kota Padang, Sumatera Barat 25115, Indonesia",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours"
+            },
+            "phone": "+62 751 93210",
+            "extensions": [
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                },
+                {
+                    "payments": [
+                        "Cash-only"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no1rTDt1WaLamFy5lBHpRXACVBz6eNea9AtlQqDrDns0t9tD6zfJ3nnngnmRyZMJzP8Au1_6ZbQAoBFV0FckYoRPXZ-vctUNSWm9BGaiJ31r2NhOqfkL9jMmIwN720yhzA4iXPG=w163-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/fauOwXicBcHRboIwFADQL6pQcGw12UOBwEYUETdlvCysqdRBb5FeZ-D__Aj_Zuc87gpxsCvH6ZW_aI1pe3m1chQGUAIuhNFOO1giLLEOj5hagqHjR4z02KwbnUxPffg2lBWPDuEcyFw2jGO_u8RjDNZFhnEwnzIfAFrQ5VRvsrl44Vf6HdQ_O27C5OAmovsyZVHV5E_gZ74_ahamzTnz6ejlans5dWv2u9Hvt_zZcyc18-W5KtLXGw18ophHOgLmH9pzRGA"
+        },
+        {
+            "position": 20,
+            "title": "Ekowisata Padang Janiah",
+            "place_id": "ChIJXRyb-TzJ1C8Rz4da6ugPsO0",
+            "data_cid": "17127206875928627151",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4c93cf99b1c5d%3A0xedb00fe8ea5a87cf&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9036504,
+                "longitude": 100.4565781
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXRyb-TzJ1C8Rz4da6ugPsO0",
+            "provider_id": "/g/11kjg1sl5r",
+            "rating": 5,
+            "reviews": 20,
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction"
+            ],
+            "type_id": "tourist_attraction",
+            "type_ids": [
+                "tourist_attraction"
+            ],
+            "address": "Lambung Bukit, Kec. Pauh, Kota Padang, Sumatera Barat, Indonesia",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours"
+            },
+            "phone": "+62 852-1186-5339",
+            "website": "https://www.ekowisatapadangjaniah.com/",
+            "extensions": [
+                {
+                    "service_options": [
+                        "Onsite services"
+                    ]
+                },
+                {
+                    "accessibility": [
+                        "Assistive hearing loop",
+                        "Auracast broadcast audio",
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot",
+                        "Wheelchair accessible restroom",
+                        "Wheelchair accessible seating"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Gender-neutral restroom",
+                        "Restroom"
+                    ]
+                },
+                {
+                    "planning": [
+                        "Appointment required"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                },
+                {
+                    "parking": [
+                        "Free parking garage",
+                        "Free parking lot",
+                        "Free street parking",
+                        "On-site parking"
+                    ]
+                }
+            ],
+            "service_options": {
+                "onsite_services": true
+            },
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZ1zI15T-eMU0IVVQ313-jltWQo1n8NbUJhcdz4G6E-rlIcw-RTD9RNFGWOJoP8IUK7h8n7reB_0gR25c6kRZfZW7FXNJOUgiRvHDqqvyTLKSLP4YaVscPOaYAgT9ySs7TQXQB=w163-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/5kNKwnicBcFb0sEwGADQFX0qWr2Y-R_ctegl0pa-GCISVEKTn2F_FmE3zvl-hDE33bOsWtgtrhSv2b9mDVXSMGlaVF0tftNANWirPwyEI1WF3iHqEmDLvB0WRWYjG861KTOFpB_v80jQw9uZumNo6pA-AZNRgOPJtEwilfphPveEL72GDbZtjjtd6l5wdaxKb7KOoyTnJ_yYje73x4ss5qtF6mx2haZpstv0OQleK-2RbJ0N_p7ItUEEHbiAVD_iH0Jk"
+        }
+    ]
+}

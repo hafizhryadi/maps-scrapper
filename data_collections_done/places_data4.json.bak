@@ -1,0 +1,678 @@
+{
+  "search_metadata": {
+    "id": "68db8936d3982c56f408e25a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/17a13ecfa275ab6e/68db8936d3982c56f408e25a.json",
+    "created_at": "2025-09-30 07:39:34 UTC",
+    "processed_at": "2025-09-30 07:39:34 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/Wisata+air+terjun+Kota+Padang?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/17a13ecfa275ab6e/68db8936d3982c56f408e25a.html",
+    "total_time_taken": 0.69
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "Wisata air terjun Kota Padang",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "Wisata air terjun Kota Padang"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Wisata Air terjun Lubuk Hitam Lestari",
+      "place_id": "ChIJ_1F_BJSl1C8RYZTvdosJUfg",
+      "data_id": "0x2fd4a594047f51ff:0xf851098b76ef9461",
+      "data_cid": "17893093289120207969",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4a594047f51ff%3A0xf851098b76ef9461&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2fd4a594047f51ff%3A0xf851098b76ef9461&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -1.0519847,
+        "longitude": 100.42236079999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_1F_BJSl1C8RYZTvdosJUfg",
+      "provider_id": "/g/11p07w_785",
+      "rating": 4.8,
+      "reviews": 150,
+      "unclaimed_listing": true,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "Tlk. Kabung Utara, Kec. Bungus Tlk. Kabung, Kota Padang, Sumatera Barat, Indonesia",
+      "open_state": "Open ⋅ Closes 6 PM",
+      "hours": "Open ⋅ Closes 6 PM",
+      "operating_hours": {
+        "tuesday": "8 AM–6 PM",
+        "wednesday": "8 AM–6 PM",
+        "thursday": "8 AM–6 PM",
+        "friday": "1:30–6 PM",
+        "saturday": "8 AM–6 PM",
+        "sunday": "8 AM–6 PM",
+        "monday": "8 AM–6 PM"
+      },
+      "phone": "+62 812-7034-9099",
+      "extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nojRJhrxwHK3qcTO_a5i_y8lEWc8SlDg3oBsIPDPHc9o150wm_ni6WrNQiQYpZB48yrOhX8XpafcSrpWe0LwkGOY273spuquvyx8GvCg2NxtUaYtj8YSxtUVz7Kd6szjPQQh1IK=w80-h106-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ddn0QHicDcbdFoEwAADgJ5pKZJzjQjgkRyUkN53OZOvHNtvSz_t5CG_Dd_V9P0QpLmeaVhFzgBnDVVbLTCBGVUbVALGnhrkESAKpLZZTMqKsOO6IaJuta77QyUvScZ50sFpHCIbVCpvMlo6_8rdoyoyx3jwTmluROAR5EPObPYKd8MgVXnn6QKHgUabvm3LjxcOJKXn9qt9dCzfvJR4eWnVOY1XAOPzv0k_cuyX7wg8CYjjuvIE6IIZugRJQ9gM6o0YH"
+    },
+    {
+      "position": 2,
+      "title": "Air Terjun Sarasah",
+      "place_id": "ChIJo0JWABq31C8R-s6nG2HFdpY",
+      "data_id": "0x2fd4b71a005642a3:0x9676c5611ba7cefa",
+      "data_cid": "10842070173807529722",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b71a005642a3%3A0x9676c5611ba7cefa&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2fd4b71a005642a3%3A0x9676c5611ba7cefa&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -0.9328628999999999,
+        "longitude": 100.4991464
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJo0JWABq31C8R-s6nG2HFdpY",
+      "provider_id": "/g/11b73v6dds",
+      "rating": 4.2,
+      "reviews": 161,
+      "unclaimed_listing": true,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "3F8X+VM2, Jl. Koto Baru, Indarung, Pauh, Padang City, West Sumatra 25157, Indonesia",
+      "extensions": [
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrdpeu31DQvJANnHkaNGZRI1Zham5SUfEwRkU7OwdIBlRM_ksLCjKOHNGOAgy9N9LfjRiAGnzFuGnJxcfezNrpmGcj3jWPfQBQ0gtN_l_hXg359-blmO-OrX46fF69UFImglpKKuA=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/DhNK3XicBcHbboIwAADQL6oIqEuX7KG6URHXDhYy4wvR2sugt9AyNn9w37C_2Tl_vypGHx6TRKt8IZ2Tmk-Bj8zZyG1cMGcS6QNgAYQE7aBa2fHm-ZSnz_XXARG7Hy4En5syPauLWb-34mVuhvaBzrdyq5vXbgjHXV_RPcEUyR9I4FH0zSfC9l5M2B6-meB3MnqDWZ_3H2-i3tZLGUmnO3WS-RqCqzYU0PG02ohiA9uiNFL7qprQ05xmGVAwAwOw7h-AhUVp"
+    },
+    {
+      "position": 3,
+      "title": "Air Terjun Lubuak Rantiang",
+      "place_id": "ChIJ7YOlRD_E1C8RFNJ-L-_7NvM",
+      "data_id": "0x2fd4c43f44a583ed:0xf336fbef2f7ed214",
+      "data_cid": "17525472004671459860",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4c43f44a583ed%3A0xf336fbef2f7ed214&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2fd4c43f44a583ed%3A0xf336fbef2f7ed214&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -0.797728,
+        "longitude": 100.376842
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7YOlRD_E1C8RFNJ-L-_7NvM",
+      "provider_id": "/g/11g6rjvp92",
+      "rating": 4.6,
+      "reviews": 9,
+      "unclaimed_listing": true,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "692G+WP4, Balai Gadang, Kec. Koto Tangah, Kota Padang, Sumatera Barat 25586, Indonesia",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqOC4G1EqN9gZfumI68GhmSKB329IHhkr3l1VprKt6iViPgC8dGsPSrxaakOg37UC6lBlaIrVd5NWXcLtk0hJYWj1-AxiQd-sVNM8xcUTX6WTVUcFJPcoUdGvz5CB84G3OltUk=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/QPBiWHicBcFRkoIgAADQE5EpZtrMfiRTZO2qOwVWfw4aGCgG1Dp7vr3E3qb3_v-Ec6NdeZ4ScMa15qp92tYwPbh2cDOme4-PFjALrLdGiQiHR4FC7G8eecKvt2efRTEW_fGQwiDJdkIaqHw6moOLOtqVHMUNtuXRTHUtCw6XBEUqVXVmaLPIqzP7dHIu9pfq7oP11H03wNL8K54YOZ2j6kQJ2-5LpkmDX78LlMYhhoVyRH78-EEARBIACQb9BiJBQx4"
+    },
+    {
+      "position": 4,
+      "title": "Air Terjun DPR",
+      "place_id": "ChIJv_6dSz3J1C8R_zrW9PnzHLk",
+      "data_id": "0x2fd4c93d4b9dfebf:0xb91cf3f9f4d63aff",
+      "data_cid": "13338804451244653311",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4c93d4b9dfebf%3A0xb91cf3f9f4d63aff&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2fd4c93d4b9dfebf%3A0xb91cf3f9f4d63aff&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -0.8636356,
+        "longitude": 100.4418766
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJv_6dSz3J1C8R_zrW9PnzHLk",
+      "provider_id": "/g/11m9_22r_9",
+      "rating": 4.9,
+      "reviews": 11,
+      "unclaimed_listing": true,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "4CPR+GQR, Unnamed Road, Gn. Sarik, Kec. Kuranji, Kota Padang, Sumatera Barat 25586, Indonesia",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "tuesday": "Open 24 hours",
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours"
+      },
+      "phone": "+62 831-8241-9591",
+      "extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npqWTkwS1N7a72UGYo_VwpgyFVFFbC57HF8Vv-Q0E7u5PaWLWUr85f4AQdF1D3Nu96ypUqQrcj0LM0tI4hjUyvnB-zvUaPF6Z6UzVdeqGZgFzus4eWVW3TumEasT1FNUmkjEVu9=w80-h106-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/8GtjaHicBcFdboMgAADgE1Gx_jfZQ9dK16Q1NRPI-rJYyyBaAQU0er8dYrfZ9_39Cmu12XneSwQbrhR_MWfY2ChpmbSbRvUe1wY0Bhhvf8hEKPVAq27-9IukTrb49KW-yaz5gghCj0OUfKCUTKCEeeKiW00vFI9p9BPuyyfyj0HhsnjReCjHpoWXK7TnULR4meQ7WCdc31B8j_FKnmw43TlanQkZJTSoXJ_XpvJRgfuuzYnL3uYUAuHDGHRAqn9iJEPT"
+    },
+    {
+      "position": 5,
+      "title": "Air Terjun Timbulun",
+      "place_id": "ChIJ_VykYZi61C8RLadodbNphDk",
+      "data_id": "0x2fd4ba9861a45cfd:0x398469b37568a72d",
+      "data_cid": "4144553776577554221",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4ba9861a45cfd%3A0x398469b37568a72d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2fd4ba9861a45cfd%3A0x398469b37568a72d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -1.0213086,
+        "longitude": 100.4310824
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_VykYZi61C8RLadodbNphDk",
+      "provider_id": "/g/11g022r6jq",
+      "rating": 4.6,
+      "reviews": 23,
+      "unclaimed_listing": true,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "XCHJ+FCG, Bungus Tim., Kec. Bungus Tlk. Kabung, Kota Padang, Sumatera Barat 25237, Indonesia",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "tuesday": "Open 24 hours",
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours"
+      },
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no9PegO9XmnZ55CDYcvau-o-O78ISCyHG0gwpxUV5bKgVv4CeV2s5ZkSJCt5EmmC1wjX3niAo2sPfCgvA5F-76_JX1QzY13YKj59hD9pVVPV3HS_OdelsN-gQ-5XrOhkoLF-L6VnA=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/A1U7PHicBcHdDsEwGADQJ_rMOkUlLpb6JzZZNJsbYaplW79Fa8MLegZv45zfVztX25HnlTroKERVyqeVjxyNk8Z1cqw8VVvILVgv5Ez3DLJYqoillTlQyidZ3pyegBANhsuEvxfzrmrr117Q81qJpselIJYeimTFHZ1WFffbexqYW4jExleumpDOYNA_rlJ_98n8IFvfKdMTVgsRi2CRHKOLLO0W1A5o-oh0gZsZbPrChOPWJwQ0I1CAwT_JcEMg"
+    },
+    {
+      "position": 6,
+      "title": "Ngungun Saok",
+      "place_id": "ChIJGd4hfFjP1C8RjL4WGI4nbTw",
+      "data_id": "0x2fd4cf587c21de19:0x3c6d278e1816be8c",
+      "data_cid": "4354179905980120716",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4cf587c21de19%3A0x3c6d278e1816be8c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2fd4cf587c21de19%3A0x3c6d278e1816be8c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -0.8040995,
+        "longitude": 100.4407142
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGd4hfFjP1C8RjL4WGI4nbTw",
+      "provider_id": "/g/11c51vrrt8",
+      "rating": 4.7,
+      "reviews": 147,
+      "unclaimed_listing": true,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "5CWR+978, Lubuk Minturun, Koto Tangah, Padang City, West Sumatra 25586, Indonesia",
+      "open_state": "Open ⋅ Closes 8 PM",
+      "hours": "Open ⋅ Closes 8 PM",
+      "operating_hours": {
+        "tuesday": "9 AM–8 PM",
+        "wednesday": "9 AM–8 PM",
+        "thursday": "9 AM–8 PM",
+        "friday": "9 AM–8 PM",
+        "saturday": "9 AM–8 PM",
+        "sunday": "9 AM–8 PM",
+        "monday": "9 AM–8 PM"
+      },
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noEEYGg_ip4PM7DGhyhmM3GHD6mrCBnGwH-UjmRBdnyINjXshMAWk-Ttwnca6yndlCgto2guckFb0qDbbQtWPvPIarysSVKtnwBYSGpniDMEIVMI-BYQvqdyUMPbhFGJkpYtbz1=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/x4M1pHicBcHrDsEwFADgJ6phMiHxwy5qpDJ3-yXaLS3bTms9LPV-HsLb-L7fVyEaO_W8Wvk9qbWsy5ctW6EBS8Ce0I0njSXCEuvNo4kagU6SnMrr3YwyNo6pcqphPl3GQdNGIdBuSY6PZhcW4NLN42IVm58rcsAOxC1wUNSRRD2UL1EteP8Zc77Fc_bO0lvr7P60RujCfE8N3GOWpCeWkjDfvp-FO7KMqwVdVSZH_hnMukHgEzUZkoqA_gM8eUZb"
+    },
+    {
+      "position": 7,
+      "title": "Air Terjun Ambun Suri",
+      "place_id": "ChIJk6UHkbS31C8R4oKb7INrmZg",
+      "data_id": "0x2fd4b7b49107a593:0x98996b83ec9b82e2",
+      "data_cid": "10995938179556279010",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b7b49107a593%3A0x98996b83ec9b82e2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2fd4b7b49107a593%3A0x98996b83ec9b82e2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -0.9132498,
+        "longitude": 100.4826981
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJk6UHkbS31C8R4oKb7INrmZg",
+      "provider_id": "/g/11clyh5jhp",
+      "rating": 4.6,
+      "reviews": 43,
+      "unclaimed_listing": true,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "3FPM+P34, Limau Manis Selatan, Pauh, Limau Manis Sel., Padang, Kota Padang, Sumatera Barat 25175, Indonesia",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npk0rkxIZdNibHZBLO2nkwJ0t7M2GFiRhWbGwMO9Wvc1XN3bzlVy4QCduhETZukMXobCZd0vw8_eMi3SawWXcVxEKoaWSEDrFjS3oSnMFqiXd1hh2ZN6qQEGFOCy0udiW6ket3pNw=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/CRTPZXicBcHhcoIgAADgJyIVusrd7cfm1NWGXnMXHn-6BE4YBiYYtRfcM_Q2-77Hn_R-dE9RNEi06K3tBzE7MTFrvDB-wew56kcHmAMueslSuTSjjid921Jeqe6dvn7W0Oiwi_0aw7JQX5J0ZcB1Sq4saSvU_Q6H-3Kf8Vnm33TWuLVdRnl8DZujwAo1p0BadrjlH_ZEmvxtKn4aZBuDi4tqeSIlpNXqss_Los7u8cwVWWnh0ViF55BACGQKgQbG_gOdPkYD"
+    },
+    {
+      "position": 8,
+      "title": "Lubuk Kudo",
+      "place_id": "ChIJraOYAkbH1C8R3rk2MapNGe8",
+      "data_id": "0x2fd4c7460298a3ad:0xef194daa3136b9de",
+      "data_cid": "17228887242847992286",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4c7460298a3ad%3A0xef194daa3136b9de&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2fd4c7460298a3ad%3A0xef194daa3136b9de&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -0.8654485,
+        "longitude": 100.42887619999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJraOYAkbH1C8R3rk2MapNGe8",
+      "provider_id": "/g/11q8g5vdqh",
+      "rating": 4.8,
+      "reviews": 24,
+      "unclaimed_listing": true,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "4CMH+RHC, Unnamed Road, Gn. Sarik, Kec. Kuranji, Kota Padang, Sumatera Barat 25586, Indonesia",
+      "open_state": "Open ⋅ Closes 5:30 PM",
+      "hours": "Open ⋅ Closes 5:30 PM",
+      "operating_hours": {
+        "tuesday": "7 AM–5:30 PM",
+        "wednesday": "7 AM–5:30 PM",
+        "thursday": "7 AM–5:30 PM",
+        "friday": "7 AM–5:30 PM",
+        "saturday": "7 AM–5:30 PM",
+        "sunday": "7 AM–5:30 PM",
+        "monday": "7 AM–5:30 PM"
+      },
+      "extensions": [
+        {
+          "planning": [
+            "Getting tickets in advance recommended"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npqlGHJfsFHuenSjr3kmkFSivIYOj5obUNrJzXoypi8_pphAbtnGvwQsLw6FEWiMJMbrH3Fnp1uzMR-mc_KPJgo0tFGKLDrNMGTXhXs_Nl6WK8YdSpBeGiFaMXPLk8LzzOPiup6=w80-h100-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3loaLnicBcFRboIwGADgE1UwOIJLfNDNFoEiiov4RIR1tALtv7ZI5H4ewtv4fa8ntxbMp-N03Js1SjUdGwzTtZKWSTurVe80YFBtkHHWX0u-kPDfkTD6MzgcmMxv2mv7Fufivrvsbx-q-kl1NBXqASIoAfi6spLcx4NJRh9vz4JGtNKhhyXMh4keUV-XcRY1yrWYxMm3Tik5FbwwZdr55zi4_OawYUTgKy2ypA2SadpnYgB_NQYu4nPXRS2S6g2rrkZ4"
+    },
+    {
+      "position": 9,
+      "title": "Pemandian Lubuk Tampuruang",
+      "place_id": "ChIJT3gqMge41C8RlPlMCCLpX0I",
+      "data_id": "0x2fd4b807322a784f:0x425fe922084cf994",
+      "data_cid": "4782797661668178324",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b807322a784f%3A0x425fe922084cf994&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2fd4b807322a784f%3A0x425fe922084cf994&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -0.8642681999999999,
+        "longitude": 100.4300165
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJT3gqMge41C8RlPlMCCLpX0I",
+      "provider_id": "/g/11fzf5h6rn",
+      "rating": 4.5,
+      "reviews": 327,
+      "unclaimed_listing": true,
+      "type": "National reserve",
+      "types": [
+        "National reserve",
+        "Tourist attraction"
+      ],
+      "type_id": "national_reserve",
+      "type_ids": [
+        "national_reserve",
+        "tourist_attraction"
+      ],
+      "address": "4CPJ+72R, Jalan, Ps. Ambacang, Kec. Kuranji, Kota Padang, Sumatera Barat 25175, Indonesia",
+      "open_state": "Open ⋅ Closes 5 PM",
+      "hours": "Open ⋅ Closes 5 PM",
+      "operating_hours": {
+        "tuesday": "9 AM–5 PM",
+        "wednesday": "9 AM–5 PM",
+        "thursday": "9 AM–5 PM",
+        "friday": "9 AM–5 PM",
+        "saturday": "9 AM–5 PM",
+        "sunday": "9 AM–5 PM",
+        "monday": "Closed"
+      },
+      "phone": "+62 812-7778-7761",
+      "extensions": [
+        {
+          "activities": [
+            "Hiking"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kid-friendly hikes"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npoA1iZGL_oHPkBC4hMgumno_kHVVu4KErMPjqXLnT9-DD2tZYSIbYzezeoGgE1Wg8VOtM6Ji1xV0rJpLroc01BO2AidSOA3yYjeKUuo5mS9SVJltEneu84mdaJLNukGXzUcUg4fA=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/nGEVSnicBcFRboIwGADgE1VsrUZM9lCV4BDEBOnEFzNrbRHoz2ibTS64M-w2-76_X-1cb1dB0OrZRAGoVnorBwHGSeMmArpA9RYJi2zANqGmpgeG60ucXmF3bNYbqjPlOwPXZse5p_toyI7Pr3NqTiHabom7VMX7rRrlKCFWEf5QS567bJHU-IdPh6RPBxBTvM4Jq-9Fzmav6in3pYd5V4QFT1oXGemXtLt_JunBN_F5LEWp6IO9fWNCkA4JapCBf3BpRXk"
+    },
+    {
+      "position": 10,
+      "title": "Air Terjun Kelok Jariang",
+      "place_id": "ChIJw2zPZgCl1C8RZxNDiUQVwFE",
+      "data_id": "0x2fd4a50066cf6cc3:0x51c0154489431367",
+      "data_cid": "5890731696705442663",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4a50066cf6cc3%3A0x51c0154489431367&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2fd4a50066cf6cc3%3A0x51c0154489431367&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -1.0807139,
+        "longitude": 100.4184679
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJw2zPZgCl1C8RZxNDiUQVwFE",
+      "provider_id": "/g/11lp7dhp3t",
+      "rating": 4.7,
+      "reviews": 3,
+      "unclaimed_listing": true,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "WC99+P9, Tlk. Kabung Tengah, Kec. Bungus Tlk. Kabung, Kota Padang, Sumatera Barat, Indonesia",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noXb8WuVRs1egeGpNM00ti2k-NH4gzNj6nNiDyam1dJZ0_tXEGqDiuxhYxUkNyaDaz5_kSGuivOG7IZIS520uKbMDCbEiMpoAf-HelsyyI97c_LMX5K4UcbOpNjuSu9h6lPr2Rrag=w80-h106-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/8DDoz3icBcFdboIwAADgE1UK40dM9mDAAHNUI9ExXwjU2lawrbR14gU9w27j9_2_mDFKLxxnYB8zKiUdiNVkxFIYIswMy6tDlQZYA-0sk5j5Qtbd_McedtollGQKlRAa7vUA5T59oksoEE-n9uqevo6wMfUqu6XcPtjvY9-jqU3bZ9D0VWb5fZNFxbGoAg_adVemSbfipZLLM8jJoKepiCPcfJd1sPb3uNsodLGVjVk4bEdvN7b0828OAXNhCHog5BuG_UW9"
+    },
+    {
+      "position": 11,
+      "title": "Air Terjun Tarantang",
+      "place_id": "ChIJVzgr0ni71C8RFT1A4S0WpfY",
+      "data_id": "0x2fd4bb78d22b3857:0xf6a5162de1403d15",
+      "data_cid": "17772635890795953429",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4bb78d22b3857%3A0xf6a5162de1403d15&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2fd4bb78d22b3857%3A0xf6a5162de1403d15&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -0.9660209,
+        "longitude": 100.42693969999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVzgr0ni71C8RFT1A4S0WpfY",
+      "provider_id": "/g/11tjpnjdhx",
+      "rating": 3.7,
+      "reviews": 3,
+      "unclaimed_listing": true,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "2CMG+HQW, RT.03/RW.03, Tarantang, Kec. Lubuk Kilangan, Kota Padang, Sumatera Barat 25156, Indonesia",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np2uWX_kkCcEj4RyRqeY6WhyRGhmmVA7diZzKpvSAxMyeagAIZb5yuLoFZGsWAsDyTf34grJqF6tStfwjsiOeEpsFTzZkC7VKFryRbw7XrTs6OsQGLTbh-otCwziShZM6NUg0c=w80-h106-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/EYnn9XicBcFbjoIwFADQFVVQsaiJHw0jZHxGYET7M5FObRGhlVvEsj43MbvxnP-3NEbD3HHucjwQSok7b4E3TNWG12bAVOUIDYgBAocEM-nVetRmp9-yDNjy5sU2fvAzzqSNI1lVR-L_FbRf62dCXlvLL4J803xi240KaQQZgS-bXseeaFaPEJvEXLsbFHu-1BCmPS0D_7gOGxvnnX9qUsB7OESbNJdImaDri0TSLd79CJctuqmL5NDFqES1-gBfNEab"
+    },
+    {
+      "position": 12,
+      "title": "Air Terjun Koto Baru",
+      "place_id": "ChIJhVEWFGS21C8RH8zOLlaWiaQ",
+      "data_id": "0x2fd4b66414165185:0xa48996562ececc1f",
+      "data_cid": "11856172790926199839",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b66414165185%3A0xa48996562ececc1f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2fd4b66414165185%3A0xa48996562ececc1f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -0.9223619999999999,
+        "longitude": 100.513849
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhVEWFGS21C8RH8zOLlaWiaQ",
+      "provider_id": "/g/11g6mhm6d4",
+      "rating": 4.6,
+      "reviews": 9,
+      "unclaimed_listing": true,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "3GH7+3G5, Limau Manis Sel., Kec. Pauh, Kota Padang, Sumatera Barat 25168, Indonesia",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npLiLCJqUqSOn815H8eZofAFS_N5SVqmz57iOt5cxIC3DxodHKWqomcB15uuzg2S9T9n6PydKmweLe11ZbtrryQgqHz4bI9oh_YAOLK6T_iveagXwo_wY48a4UE0R13T3Cm8RQ4=w80-h106-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/uViZDXicBcFRToMwGADgE3VQabGY-MBQw4SIG8y5vZCtqy1x7U9pkY37eQhv4_f9_Srve_cQBBcVLSSAvIjRiYGD8cL4BQcdyN4h7pAL0ixRxPRlV2avdmvryjBMcyYO8JW-1O0brT-snul9V3nKr6sserrCOS92FjRfYjqOs7yrkyYx8fvtXOhJlALjw8kPw20tbT6T0yoB1e7Tqizipu1-xFF-TtBOe8KOZPscbnDURJlmmzV5nFiIFA5j9I0M_APOR0Qo"
+    },
+    {
+      "position": 13,
+      "title": "Lubuk Ngalauan - River Bangek",
+      "place_id": "ChIJZfQrs0DE1C8R43TIOJwBH_s",
+      "data_id": "0x2fd4c440b32bf465:0xfb1f019c38c874e3",
+      "data_cid": "18095183598277129443",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4c440b32bf465%3A0xfb1f019c38c874e3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2fd4c440b32bf465%3A0xfb1f019c38c874e3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -0.7975806999999999,
+        "longitude": 100.376998
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZfQrs0DE1C8R43TIOJwBH_s",
+      "provider_id": "/g/11dy6kk1_l",
+      "rating": 4.8,
+      "reviews": 81,
+      "unclaimed_listing": true,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "692G+XQ9, Balai Gadang, Koto Tangah, Padang City, West Sumatra 25586, Indonesia",
+      "open_state": "Open ⋅ Closes 5 PM",
+      "hours": "Open ⋅ Closes 5 PM",
+      "operating_hours": {
+        "tuesday": "9 AM–5 PM",
+        "wednesday": "9 AM–5 PM",
+        "thursday": "9 AM–5 PM",
+        "friday": "2–5 PM",
+        "saturday": "9 AM–5 PM",
+        "sunday": "9 AM–5 PM",
+        "monday": "9 AM–5 PM"
+      },
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrIHDsMAFsgiCHW1twFJNUKpzNq1HP2NScrVohB32r-KCxPcQ84Y9zv4XrRE5K7Ua7vIzJgCmMJtwQAp1an5er8_-c87uqiMDGykzEfZjZrR-RAb-Y7xIrnLQwViNz2xY97LYLWiQ=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/aehnfnicBcFJDoIwFADQE30JgxZMXCAOzBGMA26MNtji0GJbBXtBz-BtfO_3pUq1cmwYd2oPCOfkXr9kLTBnqmZqgPnDIK0ELEEafuBRh4konMnMX0jSBOHOVN0izjdJq_OnGa6sfI3FltOpbQlIgn6FC9epPP129qKcDxO0OaF3pGMSPLJYdYXfmic2rIV7BOyi17PJZsvPTc8vh-tBlFD6Z6hQHwmWFt22ybXVVx5Kq3TXFJPOHNlAPQtuwPgfG7xEtA"
+    },
+    {
+      "position": 14,
+      "title": "Waterfall Sarasah Uwak",
+      "place_id": "ChIJHZGcAAC31C8R0vA-nX9sJ_E",
+      "data_id": "0x2fd4b700009c911d:0xf1276c7f9d3ef0d2",
+      "data_cid": "17376976982587142354",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b700009c911d%3A0xf1276c7f9d3ef0d2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2fd4b700009c911d%3A0xf1276c7f9d3ef0d2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -0.9096668,
+        "longitude": 100.48555999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHZGcAAC31C8R0vA-nX9sJ_E",
+      "provider_id": "/g/11wvfk9fpr",
+      "rating": 5,
+      "reviews": 1,
+      "unclaimed_listing": true,
+      "address": "3FRP+46M, Limau Manis, Pauh, Padang City, West Sumatra 25175, Indonesia"
+    },
+    {
+      "position": 15,
+      "title": "Air Terjun Ngungun Malaca",
+      "place_id": "ChIJtc5_fgDP1C8RgsvwqYu77Cs",
+      "data_id": "0x2fd4cf007e7fceb5:0x2becbb8ba9f0cb82",
+      "data_cid": "3165110846660594562",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4cf007e7fceb5%3A0x2becbb8ba9f0cb82&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2fd4cf007e7fceb5%3A0x2becbb8ba9f0cb82&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -0.8040197,
+        "longitude": 100.4436961
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJtc5_fgDP1C8RgsvwqYu77Cs",
+      "provider_id": "/g/11xrfqm51f",
+      "unclaimed_listing": true,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "5CWV+9FW, Lubuk Minturun, Kec. Koto Tangah, Kota Padang, Sumatera Barat, Indonesia"
+    }
+  ]
+}

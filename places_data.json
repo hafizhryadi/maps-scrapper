@@ -1,0 +1,542 @@
+[
+    {
+        "nama": "Taman Kambang Iwak Besak",
+        "alamat": "Jl. Tasik, Talang Semut, Kec. Bukit Kecil, Kota Palembang, Sumatera Selatan 30121, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9901952,
+            "lng": 104.7471067
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2eKARR2qRReBXURZr-m5g63g1qlgGA10ZEDxjQs-aBke1DmHB6rv8Kd7pnxTXIqygf9WCuFLc2Uqfadzvpems2jjxnVX94yeuyu7sdWiH53eVrHh5ysD0egCioc8VE86O6LMS_VSCOhmp9q-pKbfM8M65RsNjNqJr3G58lr35CERthtjeCU36XFiPffGD1CxMJBbnBlWIvjFPvBZTIMQFxwAdlrRkJvHRwfAk0qxbcWa2VfY7zLrAUT2mMl14_l4CXkwekm6bVSWt2z8N_yj6J9SHjMqOoCWmjIiStUIwAKFp6Ac4qiHa1acKiVPFiy-YA0W9LehLLaK6-rviYxW9iTEtktBoYSmPZsFceiVb1w1jt4YpgOrdI52Y4sBoMoI3teoE46l3wQ-c1pJWacNjNWasUzkZTYjI6cODCWhTuFbQ&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Sekanak Sidewalk",
+        "alamat": "2Q54+9CW, Talang Semut, Bukit Kecil, Palembang City, South Sumatra 30113, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9915104,
+            "lng": 104.7560777
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2ePV_K3j3Jd0U1CYcKYxmGxKfpYFfMfovZLDaCbBaun7I1C4NwD2ysZ6K7tPsBQOUg-zCvn3oAUyDICeIcrZIE5eYeAPpCQMiWjq4rNOUThs6b1pdnfdKGA42LrT5z2caBXzwKFKqA2xiW0EVGDUEVI-UzT3U_dWBSPvmaxVcw_KTXMtgk1HU577ay5xR2PAq-CF5BZes_OtNoqey48ilHU062sIrjg-DxLcV6_clG7HGIcnk0OpddMdCVCs0G2DikqPpvlNjMGK7rpmiR7oJvsVa45QwAK5sNsU6wld56yk-LFWbElUnjWJVe1umtK2QPeh9QjFaMQBdM72_HGhzWyeKwxTFI2y2mdXRk9fDJkn7eI_OKvJIfAWTHjvveejM1-I9JZQN1a6xgvY0XaL5POk_DWQ8729BlKO2FjZCp8-g&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Bukit seguntang",
+        "alamat": "2P3G+43F, Bukit Lama, Kec. Ilir Bar. I, Kota Palembang, Sumatera Selatan, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9971802,
+            "lng": 104.7251662
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2eoDD5PQdnqnMp1fQoTIWbxDn9HhSRM5_Gu0pbn2MGzlvBWX4KnUm0In04ziXrW6KqY_aoh7xcqWuL8AVGrgzqjgFqAgZWjMi8Iea5LuG14PZQhjRkiCTYHuGnnI062wTHlHyIuUqu5vasnowqL0cI2J9dnna88tZo1cXfSY1_zoEFUu13IuhDpOFHBVN0GLT6FOQYuEaSKb_HnXziS5Lk0yV_KVJoKRgM669CL1bZ-MkIaYV-J7SMDdExy3RPkV6Vg6p3cifsEYlx_jMaDGFRd29UEQDQKTJV8awLSA3J6fFIoKAzPQu1K19h2DUYI2-tQqmyFe0ETDALAEy_t-Z0PMVhLUOV6RTZFngsdnx2zDamoS0zCB8bI4V93qOWcNIN3skJCTftd0hDmS7OUh9VY7RbuU42b12WnWNtIOZOciHbElm0q-sTQsK2hls31&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Benteng Kuto Besak",
+        "alamat": "2Q55+CMW, 19 Ilir, Bukit Kecil, Palembang City, South Sumatra, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9913139,
+            "lng": 104.7592019
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2eK_Va6Thp2d_FwyW5VsrhljpQHuUgkCWE3nX0PvMFMkOx3GJynvI-WehvXjfalPQ1F1bJVCz_0-Grxbesbs3dtp5SMF0FD6HkvJMfADWd0hfGdxZTs7CB2dSC_oE0t3x3sHskahAAbFLjti3YLz8hGr8jWFkT9P5l845lVyU2yVXxplU2y2cYQMHGU1_AQjTe8Dkn5DawE4SWDuG6rApTcUyLqipA2Ocy24tqCGCqkWW1U0OAO4Q1wnDV582KBRLTOsld-bnjbdmCL-RnJm0m48oj76aHcePQoFUlcGn5pj-58TsHpXKzajicDpHf39S5_yi4Ul-4MIoBYnkd5X2MZ8HMvuTBK4T5giRrsVASd29peuwfDd87l2pFJbFXzuEO6V6ExsRdJebIGzTPwuEfn6S_iEF95QJfKVhCpJGU&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Taman Sekanak Lambidaro",
+        "alamat": "Jl. Radial, 26 Ilir, Kec. Bukit Kecil, Kota Palembang, Sumatera Selatan 30200, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9851847,
+            "lng": 104.7524041
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2dTbTk2H3_64ntjPBBKZ83P6hAvjioOZaMPMTzSqyKWUjqtNaH6VuahgwWJ9v_f2d7pJe6yoA4BRsePkmolAGljYapj3gHY2Q9MqwODr82kwAV3jfcbahQj5_djF54qCj4YFkua_kV36leYDeXyeOrsXvi6d6lZmKTwzlFa_Ag99aH2EJMbKkt79lxv0Rvxln7wlQWLJGWLVDGodiDFrKAQIERam-cqK_QA6MSoTuCc1J0ApsA0MjkfpHGB8_eUeDBtCY5yThIOyYiypXwDjd9PfPftEo2FM9GpAluWL5FSOkUcPQEGuXpkQoVweSprM5Vch11Fkygr6IUSDQa9UAD86pddXae6Leks658REiicz6lhO-CuisRGsWhXJ_rQaLEoF4EIQVB47BHVmBkPVqsMbTbVwpr5e9OPIzj1tBJLiZYW&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Puntikayu Amusement Palembang",
+        "alamat": "Jl. Kolonel H. Barlian, Srijaya, Kec. Alang-Alang Lebar, Kota Palembang, Sumatera Selatan 30151, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9437262,
+            "lng": 104.7282731
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2cga-dUauadvrGKENgp6GbbUZZyNeJt_66PGsU-_eAShTFLwGetn7YSyhPHmGyZpmVkaDNX91AOQIsPx1DJaETdl84QaEemoXeUDPi1IRqJOoenDS8Fm9MTFoCKmGQl-6VH61NyNLycZnp7IrsbKESRR8qYslMrIu3nXgd2N9JnJbMmRreigNA3gg2BaqPHMCCKFVddBgtYg5YZSHj22IjLHvlnkVM_BJC9q6rmTNcibjpm6ctqeqVqNQMBXrKYUB8vu0WoHm_q2_ogzJO2uNHA939tyAOt4GjAJvg-r_18xOxkd7ORiY-Zo-VkTyEcH6tzuhpVp3be2ylm90v9Sn-pHoZMJhWE7LHwmpIXwtOT7WeeV7NQzP6WGtYJWwW92JlWLJ3u_Fgs9C7-cWNXp5BQlgXCvLBf-c-wn0dI9mX0nKc&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Palembang Fountain Circle",
+        "alamat": "16 Ilir, Ilir Timur I, Palembang City, South Sumatra 30111, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9880621,
+            "lng": 104.7610344
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2fa_7m_BdA98Cq-RX_ji8otHshZvdxt-j9t83jZK2LVYzxYJaqtrXM8kwiDTK3AlS8VgJzj2kB-oD8_2AX8jjzS0rgyLEEeqDFKTaqxkQKd-XAVk6zYzIX2rhnxY-dz2qq6qdrhvY2E36Xi7q_e7D9LC0HuRKbqV0ZOiWgIqH12apsTJu8Xfe0sYaSKiQwUXojjRiN1v40TuOqr_lYExQLNVJ8ao66Fio32o-aQcFcsj8hmn7QkCiJEj9IAtpY8Iu_RHyNIfgmjZzzaDJuLjpAvoNJFU4T6ezwFaxEVL7_rg6ebV0UkllQDHXA-tCoILOjaXbHctdusz23kVUav-tgggjCfzoal34y1gxh8V15-HZHPxGVXuX5H7FDv96OaEmqADJqtbe0rWsW-UNWfcRATP_5ETh6qhaYv9XZR7MQ_ahAw&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Taman Purbakala Kerajaan Sriwijaya",
+        "alamat": "XPMM+XQM, Jl. Syakyakirti, Karang Anyar, Kec. Gandus, Kota Palembang, Sumatera Selatan, Indonesia",
+        "gps_coordinates": {
+            "lat": -3.0150322,
+            "lng": 104.7344182
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2ehP5_08BPa-bqVCN68FUMA_DnzEU8_NlaxiVrJwSbHGZZ_393flSByfddhF6A44xvpB7c5McWcBczgAYGLjS0IaGVuofE0ugSbuc6CLG2xp4A74EtRL0ijRiNWv1eBXZ8f_xF481ZqYFL-Qci2kMQYQI_xQWesq0vkY6dIMyZ2egw1erAkhk9ASAjpNHYuoLXUq4JgmgJ2SIC-jTOdgqDmHuLg_oKYeNoDGxT0nOx-L9TP6MHolNQWk-w81zSsS4zCdOLX2Zc6tkq-gE0SjPytR7F3n05I6X48r2quBBOww0RbkH7gZf2dc5KtNVdDadl5KlKxyioxuc5xX-TyhHmEN7FJp8gzo89A6SUNYwb31GLb6UsGvWd1pKhqs7n2-3W0ESmazrF-IcAL-Wufln8zCft-anaDUXFr1JGN_E9pwtwx&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Sungai Musi Kapten A. Rivai",
+        "alamat": "2P9W+G72, Lorok Pakjo, Ilir Barat I, Palembang City, South Sumatra 30127, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9812401,
+            "lng": 104.7456301
+        },
+        "places_images": "N/A"
+    },
+    {
+        "nama": "Cempako warna warni",
+        "alamat": "Jl. Kapten A. Rivai, 26 Ilir, Kec. Bukit Kecil, Kota Palembang, Sumatera Selatan, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9813191,
+            "lng": 104.7461646
+        },
+        "places_images": "N/A"
+    },
+    {
+        "nama": "Sultan Mahmud Badaruddin II Museum",
+        "alamat": "Jl. Sultan Mahmud Badarudin, 19 Ilir, Kec. Bukit Kecil, Kota Palembang, Sumatera Selatan 30113, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9901709,
+            "lng": 104.7614097
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2eG82eU24VvbHA3LKaz_BKHUBFdf_7JsZ_7Xk0ShisWStoB3MYIXaTEvbrScZFQ7sar2gm0uBsc4DrSdUDZ7qVS90ki2ICNGlx0pu72EtY1IgTt61a34oa76uLINSiUEEltfjzfpVzEpvfadOytVnqVg-eUUqD3XuOALvDzjzjJSLRFVfPseG8Npvq4ek45EKjOtFjHw1vBkS3GS6v_u_Srw7grBuWzfM8byG-fobUiu1oflKTUZtotN9AYpeLSQJsEPSzPVEWkjT5lQmrFhCGzkJdfKU1yq5uJ-qAj4sfRJ3NRazNY6md43VHNzZhW2_L604LSGA9wa19O7GjQ5yKH802u_uZEG_wizUzXTam4_bbehVJqCGkVQb0JnS9FI5sjzQjnj7bmqSOLSFEDEY4AGj8GlQ_xqWwr4K1GPm3IUQ&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Tugu Ikan Belido",
+        "alamat": "2Q45+WV2, 19 Ilir, Bukit Kecil, Palembang City, South Sumatra 30113, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.992743,
+            "lng": 104.7596254
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2fd1bnSwFr6tafCC519uxwoFHZ0LMWwzkn4CUtJu0o8p85qtdl3q_aJoV0z3gvuuIT-w_M9rbdjri82mFnXk7ZR-6EAWxryE250-QBMfGDKz30kgcM7cm3IOGXnKT8-P2XFjxpEjTyFHeGsIv5HqmgJdXRlL-IsT-r7kNVay27naPEa0HGlRHM7y_MkkHjc_Vd7HYw0G15gyVUA8wZ-a0HmHPD4xA42tWH_vpHU_G8jnRb-0v8BAsPgyqPjhPVM981PwvyXzutnhnsv-GSt9yGK6TaCATPeLQDW9V_bACug1WePsBs0iHksGQYqOlLIWohRAiFb9cYhXWts4b3mrZMh-fkf4j1RqThdFzKRyGXRvPV7OX4vslUX8gMFw7K_KLOyZrL_v5FYpygPcBCU61tTIo-YNwnO2J2ParHTfTcXmjw&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Babas",
+        "alamat": "Lorong Jaya Sempurna Lorong Tembusan No.18, Bukit Lama, Kec. Ilir Bar. I, Kota Palembang, Sumatera Selatan 30128, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.988359,
+            "lng": 104.731316
+        },
+        "places_images": "N/A"
+    },
+    {
+        "nama": "wisata alam robby",
+        "alamat": "Jl. Dr. Wahidin, Talang Semut, Kec. Bukit Kecil, Kota Palembang, Sumatera Selatan, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9889674,
+            "lng": 104.7486694
+        },
+        "places_images": "N/A"
+    },
+    {
+        "nama": "Kampung Wisata \" Hadrami \" Al Munawar",
+        "alamat": "Munawar, Lrg. Al Haddad No.13, 13 Ulu, Kec. Seberang Ulu II, Kota Palembang, Sumatera Selatan 30115, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.987663,
+            "lng": 104.7730714
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2fn6jBCeG0auvLqN2M01lXBncmhra5Q8_BxpMjZdvufuA6FqT4WZlaw4aQ87brvHf9-1HsSTUP6CcBlOOuR6N_zGwyhmQCMoSSOA8W-uqgXnsTBzQ7YLAqUj3duHeQ4eaxBYvl0f-nITItmkDuKG_q7j2RJmGJLkR9jQg_WvMQArUJuwOkoXlQNqv7aIWdfoI5B3bXmApk8Wj-5twllHvTtC8UIqZ_zHfGe8zoha4mB6LE_B0SzPpjld24PZBs6_4rhZdTwXSOlCFljdeFgxaDTUhDmYvEs-Jl9lZGiLx7THYrYw12CfW44ARu_Z8hgzVhpWYDpUAxrS0MH95yZwEaMUHcfcFTMyoT6OiNPALVFgsr4N9gGukVufqkJ04LHBr4lvEstlKe7qIuQhouq-04yhD3pNY-LINzGrQHioqNdFA&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Oud Palêmbang , Lawang Borotan, de Westelijke Poort van het Sultanate Paleis",
+        "alamat": "2Q55+66J, 19 Ilir, Bukit Kecil, Palembang City, South Sumatra 30113, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9919219,
+            "lng": 104.7580253
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2e4FTmtIrh5vtghlgOiHLVmqOT5ieMgGcjsdYDsCZaAh7P_6qzfp9lUzteGMiitQxkE0vG61QcY-riqvfczXZ-pMxKwrr2e91mvDkdhFWu19AZDEpLIE00NT_XnpJmQ4rpbMed8sTKKNHAGycLQjRCJ_3V7STmSgwQTo6blg5yGvBXVr8xJL2cKVYWhuorMg-EVX2Fl2DZDtDOpU4cNXRZYKcYo3jgEud721GtxCX0DjH_q48zpTMsjKqkEGHLy9VujO-Ch0uR-EKNGgXQHjnsLNiu-qYuLmPZmgESd9nZyL73A01l9O4Tkm8WR7LUWCB014BJEo8LmRaGSIVvIqG0pm9rPq915tKctUXKynZYLfwwqaLOmTsX5zYUUJ6DM9s2TEagxmJJA2Ac7urSHy-F4ZTjRo_F1RhjNT96rXGKJISY&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Ampera Bridge Speed Boat Port",
+        "alamat": "2Q57+P4X Halte Bawah Ampera, 16 Ilir, Kec. Ilir Tim. I, Kota Palembang, Sumatera Selatan 30111, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9906402,
+            "lng": 104.7628529
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2euM9bRNUkEJcJtjQQp8Fs3h98dPChGwVMA4aW5NG7NxgZKILMAcEGIHBHj2y221o2cK_-BFo9qlUaIduwFcEPQs43FtIJ9hA7oWIxM0bE2XiGwFwgpTGU3Ba8Dkhu0YeoqDORdXECPMt8nwE7Hb9CyvtZGIStQZBIlb9TW0pMgb4Db1z1E9gjykJdebB1LnTvDPrbEnnnARaAhCN1us0fIuSc8o2ckt8DIVJWjjXQ8otu3w6RNcbezSxx_AOmHFmkxRwTE1I64C4xJI84AMOz1Yj_PAA8AHCcNNzKYprAmRcsjlRM2CAiJ3mb_GbsvfRq1kIz3Gi8LNDI8sZzD_C-EIkCC72SedI9Nnc9RbETJtJAUZOncLr96sAoFZsR7ZF3iSvwEb5l3trEsWYSY4bQ_FIGxUkZctJ7Mvuv6_eiqZA&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "MARKAS MAYOR YOPI",
+        "alamat": "2P9P+3GG, Lorok Pakjo, Ilir Barat I, Palembang City, South Sumatra 30128, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9822469,
+            "lng": 104.7363634
+        },
+        "places_images": "N/A"
+    },
+    {
+        "nama": "Simpang Tiga Bukit SiGuntang",
+        "alamat": "Jl. Demang Lebar Daun No.5-4, Bukit Lama, Kec. Ilir Bar. I, Kota Palembang, Sumatera Selatan 30121, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9926431,
+            "lng": 104.7268553
+        },
+        "places_images": "N/A"
+    },
+    {
+        "nama": "Bayt Al-Qur'an Palembang",
+        "alamat": "Jl. Moh. Amin, Gandus, Kec. Gandus, Kota Palembang, Sumatera Selatan 30149, Indonesia",
+        "gps_coordinates": {
+            "lat": -3.011463,
+            "lng": 104.704183
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2eFEhhnqDPOCY-7NrJoFj_LxeRgBG7aFGGMB1pI9C_-MXJEtSMxCHqDsDlnqf0PREoUkLtkf89_QdrTeClQW6fnU5yjACggK9Y7912W5AN1kCJOyeqsPQCwNsT_A41AASpfJ32sQ-VeoPF5JoasjmeCEf4tBQaYo68q6yBZMtssRsZ2qx0f5ngLuXY1OSKMXT2xr-M7N0xC5aUvdL3NMLH0TrANNIUPhw6nylbtnDIxFvUqOm8kE3aMP2iTijFXr0HZE8KiyiXuKFvNtfyHAkdE2xR7bQKzQ3-lqoKjJoqPyepsDwj1xXRyI89tMoV1jKyh7l-4TSV5HOVbl_yPTVZ0uT5yuR92s90iC70d3a0PpvPafxRJL4gSrEB1Ao7rj7G3TP9oieDBcKfKGux-pCxHirI1qt8bWm1NOyDyabuNDg&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Kapal Wisata Sungai Musi",
+        "alamat": "2Q57+R6J, 16 Ilir, Ilir Timur I, Palembang City, South Sumatra 30111, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9904125,
+            "lng": 104.7630156
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2e1aNJfhOKp0GelbnHTvWdNRmTWULvFgsm1KDR8BsLBQ_ZqwmUbxZ0dPitBZ9I8h7IToYuRX9IHzsAsLbgfUOga5ULtBo1bP4dNwZurQ2AljfweOz_uDcbMtJ3ofYKF4tgwBR9gkFEsvQIcvN9AUOHeB0IRYsQI3fdWpc8XXi6cFyT13qJGHKTzSq1L1SCoLTmB855n294z_evdceqlYbyNrkKNQzDuTz4FAwXj5jNzctUh-_k0I7Y244JuW9KZ9V8HL8DAQrxB68aBKj_dr9vWdt0otHKIAg9nLKjH_i_gh0KtZ0gc5k9LevAPlltBfSPWFEeDETBknc19vufhvM1Ds9XfHTvQ4-zR32Rq3-hrj-vLfAWodybGkaoEUW_uxXaf2DOM9EaOleJWbyoqs9c2y9k3XqdfDTiWaXMwwwa5DRwB&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Taman Publik POM IX Taman TVRI",
+        "alamat": "2PFQ+5G9, Jl. POM IX, Lorok Pakjo, Kec. Ilir Bar. I, Kota Palembang, Sumatera Selatan 30126, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.977076,
+            "lng": 104.7388498
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2dyUqSm3KcsDVtvwT3Heku7-oQpQh0jntRg7SiqOZlDvPsAOoA22zvJ9mmnek0QdZjqzupgPRF81SXc1bSlDsd-RlKV-iOGgRlRqokbrAt7BFajpHPJ9YQABieFPo-TqFtX-GsFtTq-AorDnZ_iHMYK_WERV-G1Bh7o0Rdwhwf1sXY6IH_p1s2jTeeEkStAEC9axOCC6bmLrrSxtlJfr1pW80j-_5mcpgwxR3mij5wNfbhkFvDh26j4Cfr5sG4ryLRh6npZpebwirL8NVlk4a-LQKlNGfHRfmzmV8foJpaqkJ93XZ-WiabyjrmZXkng9eO-NxW5TPVs5aD_5ShleyYiVCAom-TlBr8ZgOuWBsCYFNGirKKapA4nnYfykZhcKmVUDdkt_mQofc0R3QmUuSmLX5nLYJ_QWY3R4QB5zBkv670&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Sultan Mahmud Badaruddin I Jayo Wikramo Great Mosque",
+        "alamat": "Jl. Jend. Sudirman, 19 Ilir, Kec. Bukit Kecil, Kota Palembang, Sumatera Selatan 30111, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9879171,
+            "lng": 104.760203
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2e8CfFPNMudN8cDqSGj9y2OZ9Ed68U8j7W7CiQTtjwPCZypUVYHTJh8K9QlYThEmLYhUDB8abSwLB_skrE6tCShbLdc1tJ0VPE2Cn6Y8uIUB1Is5ndlym9-A9B3Bp9EEB3dUTcmOvxTLQc37Immd6Yziqfkt2yXKpspO7uAwSF9glY8bYPMGwQSCXVN1Zad-bguCa3ZuMHmLB5uaE8gPU1WLAl4dfqxy9AlkWiGOU5qD-2gQeEtUxFN6MHjkTE7GfIEeSO1zKBXkE-pEbScB_mV54Q2Y7encnglqsEocbFl0gePVc3hqSXmte5g4l4JMjDLiJPY-h8Q5Ujs2qCnvJ74xUZOy30TXtf2LZRdYiBJ1mxV0JtNXR4Tu8hi26Qvp9sswIkag2t0ppoSknnveE-M3An8zJy9fxJXMiF4xOZ3Aw&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Parameshsvara monument",
+        "alamat": "XQHM+C9P, Jl. Gub H Bastari, 15 Ulu, Kecamatan Seberang Ulu I, Kota Palembang, Sumatera Selatan 30257, Indonesia",
+        "gps_coordinates": {
+            "lat": -3.0214188,
+            "lng": 104.7834573
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2dEAxCmiTdfsSjjEn4tFwerAkpXGkHcf2m58AA3sD6Y7NqUyGb3OztVTAlZFf_K9yaB__70H7fc8EyInpSodlUKdbQYF7QblD4F2Zz9dNWYUPI-f3EsarqxEY46-A46tv2L8_Q1gfiZUZYJbmlKTk3m5AHtS164o2M69gWpkwVFQrMKdFU1LUOb5MTyHTkkOJV6HbVbt95YLwzxLh3FqGj4wthCPYJIzkJA5upC0Y8wuzjk6yD3yVO-9-x_VKajSxQY-7jf8_XtQRa6D4Lb4WtGrtw_mRwIJG18Yk_Tw0xgGqatDSIAzAwm9CZ6AkGmB7ufNOPsWrho91n6ORVdY10KdPfm3gGfansQfNILd1sVWmuRjvPWsql4UqCDHJ_ysJjOR2scnzpCaXvBviFNf_-OPPLJQ8hUmYuaz2HbrheY_4k&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Monumen Ampera",
+        "alamat": "JL. Dr. AK. Gani, 9 Ilir, 30113 Palembang, Indonesia, 19 Ilir, Bukit Kecil, Palembang City, South Sumatra 30113, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9897326,
+            "lng": 104.7606893
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2d-XTXJLwri6LcNgh3RPQUTe2TWaq9NOrkunBxuthciHsT0GlfGQNoQ9X2RNyLFJtbkEwSaBVhYJaN9k8nKdDD1d3xC5v4dsa53ebqWUtSHe7EpITZ5AC03mzcBO-0A266_v6hUa3uOBwcs4-c2iH9_Lg88hlkRrTKwpEKnMlcpMUymdfqUTkgM_TK1A9r8hxTm2eq7ZfqOIij8o_P_3idKHiNH8CMfO8JPsWvF4IrcKQMJHvjnkeVq08bB4Fb-GPvwxZUuMb4ua3dzaKQSZLohsO9bX1IGwJd0SR3SllliHCVbtrRidXMMq49K2IW6Y4wRC7Cspum1TI3D1Tbg1fmoGWg6PYI_l1NU0m1e5ChbZqvK-LXpMpCZ_LE6skdB-dMjl4HPh708Qr1PADI-XEBxYD7Po_JpPnpdx9t7E9BqUQ&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "JEMBATAN AMPERA",
+        "alamat": "2Q57+5FX, Jemb. Ampera, 9/10 Ulu, Kecamatan Seberang Ulu I, Kota Palembang, Sumatera Selatan 30111, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9920028,
+            "lng": 104.76372
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2f4FDzMGBRaHe_WdtOCi0RNZGliHrvUdcwvefjoEjqDzvEJktMr49hUe2PgRkKydHRtdiw42r7wKAZiVTDT4d0ayAkedFbI1wVy5bDhpt-hAs15tpO7MZAxnJIsZPpquWP9g3YIFq8O6ilPtUYWB9cbwN_FgfIPHcSvzkv7-rYmGR1ulRY40fEUwemIrKKVoWT4ze7PjAcTEs1HtRac7iV0HJnBXBKayI4Ru9jxQhhhRCvo8NhKcplOIxnjibM6zLVeD0WxEr_Z6ai97NdAsd-3sDQ-6nUtMOO4cnaB79zBLbOrRwWJm7ZhkrqFpXphlstv4S6G5YFMPgbXncpus5iv2zFG4P6mw6jcCQz96mTsKHbFkKDkVXDKAam4-u6VMe5pbh6AA2nipg2C39DuLflAXmi0CItT9ye6DviFunL5NDHf&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Kammanahalli (KI)",
+        "alamat": "2P5W+P7F, Jl. Tasik, Talang Semut, Kec. Bukit Kecil, Kota Palembang, Sumatera Selatan 30121, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.990661,
+            "lng": 104.7456838
+        },
+        "places_images": "N/A"
+    },
+    {
+        "nama": "Lrg Pemuda",
+        "alamat": "2P3Q+58F, 30 Ilir, Ilir Barat II, Palembang City, South Sumatra 30134, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9970543,
+            "lng": 104.7382852
+        },
+        "places_images": "N/A"
+    },
+    {
+        "nama": "Amanzi Waterpark",
+        "alamat": "Komp. CitraGrand City Copacabana Lifestyle Center Blok D No.38, Jl. Bypass Alang-Alang Lebar No.KM12, Talang Klp., Kec. Alang-Alang Lebar, Kota Palembang, Sumatera Selatan 30154, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9379403,
+            "lng": 104.6836213
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2d95zb8ESKxfcXm6CUNT6Y-EjPBjeCKSo9E8dh5NQQbYfg0zDzvXPKp5NWXHo1mJCaNkH7TWpqcQL57TK5dFJvB-Im3JwA8HbX7_xqZtRh_nWYBq1i49ILQD46noDspoBMKCPB4JVxahMklcLOOVyTxnuDau5OdeLIn0LBhy5S0xdm_dnhVuI2m-CavmAteDdV5z-hRHp3prPW1vCL2LjUaxlQtt25gYePFJsFUXtm1WUl16sRDa6vg0PWlKXlbp9EhIl7IB9tnF9IiWa4KwOHMs1He30Yb9xibR8XkD0V0MFflsHAhjBhCEvajHkwgsV74hWeLH_MV_6IVsQ3pidGsGFp9ZOXHWIKQiBhGOe7txJJuQgAxAqAesJL5s0oBAL4-Nx1WW-E7FYKMHk_atvyy2-BSKXnD1GaVSZqiUQipE7Pj&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Museum Songket",
+        "alamat": "XPXX+MW2, Jl. Ki Gede Ing Suro, 32 Ilir, Kec. Ilir Bar. II, Kota Palembang, Sumatera Selatan 30125, Indonesia",
+        "gps_coordinates": {
+            "lat": -3.0008718,
+            "lng": 104.7497606
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2dD3fdAdCEvshAZjpYvjJSBVaLzbWXPrE0tNziiRYjhjpghThUA7lbyw5egA3scoEl64FqzkNkyNFz0n4GPGMraCZGRj26w0M9YVAmBhWSsocvCZPupll6415G4hAhWd0U9c8WFi_N-6ue7YTtLNgLQBRuUcgmVrRlO4lcZe2Xu4teVN7NwmYnj-aYUXwB7FHjPjHqmVnGw3VKlAv5VtEyWt_H4Ls0kge2iMtOBlZDaj355yC6PEPkKqUXP2g4pSqSAVl6LSMLkspPFpuaXngEcZgGpcSOzhsH105-D4t2w8JSGzkGXEYNlqKzUhQAVwIlpHysdVjXAOfNBLv445JYvkGyrmdD_zKrl-OQrKpzQuyB6oMopAx4Y-U0k1Fi3X5kFW_8goZlkuQK3PPqJV9J11gLlxyCunqPfLk_k3XgLDQ&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Simpang Empat Parameswara atau Lingkaran",
+        "alamat": "2P7G+827, Jl. Parameswara, Bukit Baru, Kec. Ilir Bar. I, Kota Palembang, Sumatera Selatan 30153, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9867121,
+            "lng": 104.7250598
+        },
+        "places_images": "N/A"
+    },
+    {
+        "nama": "Posko KompakS",
+        "alamat": "Bukit Lama, Ilir Barat I, Palembang City, South Sumatra, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9939543,
+            "lng": 104.7300592
+        },
+        "places_images": "N/A"
+    },
+    {
+        "nama": "Lembah Sakura Palembang",
+        "alamat": "Jl. Tj. Bubuk, Gandus, Kec. Gandus, Kota Palembang, Sumatera Selatan 30149, Indonesia",
+        "gps_coordinates": {
+            "lat": -3.0044859,
+            "lng": 104.7062412
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2fdfcYrWDd_0DpvmV_HmBEOdFlrFWNj6EeetU-ijKvQHhDYvfgLtdWt5yrlDSOpSTd4TPN34lx_OmC7CZ5T3q1TowDjsdLtfDtYZc0ZGjlB0GaVuRmIMSSF9n-6kkQ7mCECrsYBPfTH8QREXz8t0wQBHN4v8RzV2ryUrwXqRldwT-zJH2WtuSiywbVqN6kuDGBgO7D2nbbFWWGpxhxq5wnLjiD60C46StZa4uhlii2z7wm7F-UPvI5LUJ2zba6EUIDL0iumW1fYZSu2wEZM0-b0qu2Drrl0tv_bnU9QD4qRog&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Palembang Bird Park",
+        "alamat": "Jl. Gubernur H.A. Bastari, Jakabaring, Kawasan Opi Mall, sebelah Waterfun, Sungai Kedukan, Kec. Rambutan, Kota Palembang, Sumatera Selatan 30257, Indonesia",
+        "gps_coordinates": {
+            "lat": -3.0366659,
+            "lng": 104.7885918
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2etqG-UyaICSvYgvZ8ggyQ5jmY9mGF9-12nSd5LZIRapeJWmqISWGMDZwWEDYusX2rC_Q-JoL31yKdSE7YhUCY3aSn6Mf7Jm1wqGO8zDnL8UaDoSbXgztOV3SIllRfCGMYTbJNeeUvdXB3yMSQu9Z5_u03mJ0LY0QjYgKU5SzFjbhkOD_roQGopElxXisxv_ScoePPnbPo_XssFRPAu5QMRvpM4IW8Bfgw-gRdkPc7IW3lsjiAMT2UyLh8lazriUFp5Ag_0JoclWo1O3VZrxvRa9qMVteSl16OtZxQ9eW-mDO-rQnIW0RfA0nriuTraYrHfUi1Q8QIhZb4Yl4IyTKTuo8KCqHyhora8R2CyPz6a92vG8vSNSoPFaNP4dSM8YdPHS_5mKLiPTVKr0CnDzR8PkdgpA591XwFdkt9VvMH-fTk&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Tugu sea games 2011 palembang",
+        "alamat": "2Q66+QCH, 16 Ilir, Ilir Timur I, Palembang City, South Sumatra 30111, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9880691,
+            "lng": 104.7611085
+        },
+        "places_images": "N/A"
+    },
+    {
+        "nama": "Plaza 16 Ilir",
+        "alamat": "Jl. Ps. Baru No.208, 16 Ilir, Kec. Ilir Tim. I, Kota Palembang, Sumatera Selatan 30122, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9897345,
+            "lng": 104.7641052
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2dXG9vvu9KHEr53OIYTgfFqz_WFqxR3dVLkqOTuRHB0ZEDI6MGScB2-Y11c5tZAdKuOzA7FYVI5004sdtyccf4cWo69dvAY8YBT8oyxaGZVT2N1SeLKFUVVv5yrfEqBhzol9vdpvJciVU-SjzVzwtVdFoeEm9NCuUx3_MbGrIimJwrZXZaSzCZtXf1io5TF_5YpILype_9H_X1no9g9RzV3K-MG1hRJtZSIcfu_5C506zvj4YeOTimBrsuw0g0aIu__o0Kq_Jcvi4qdLFqozWiXXoMKSEgImGyI11yzV3Qu9GGWFf1X4PIS3d_AtKy1haLb1pK1Jhcq02b5ki2IriLrBkTWCp2t8vVuyjV--tw5RfdrtDodpRW1gPhqgSU3v0nGJbkT5yK2_BHZJ6nXVSBTiBthRSUqH9cXftG54VpWY1Ny&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Kampung kb layang layang",
+        "alamat": "2Q33+W34, Lorong Sei Tawar I, 29 Ilir, Kec. Ilir Bar. II, Kota Palembang, Sumatera Selatan 30126, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9952374,
+            "lng": 104.7526952
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2exZqnMQSrMVYSxqcxGg9k8WUKN6PvZzzJ5h8IrvEgPCMu2GroApm4JlqTs_rUzQPm0AQK3myhXzrJ2aRLR3omZGqSDZD1crsDoywB9XGhMQM6uQlVd5coDvQ6gCLj5XilwMjpYDVDy521y915u1cyQpmlVEWwYC942NWhb1J3e8-Y3RFdyHyMVu5blU3lzc8rhWPd6E6UJ5hAyNXQJV_ttuN5yMpyNTNdG7K-DORm9FTq8zaXConr5n5zzBxim2T4BVqvRb1h-5hsAyu2g2mshfiiwm8d2lzXOuIsX5cMCG5JQS4BguPsmYGVZFN7gtLbEy-GCUKF6seJnpZd3ueULtSm-4K2jf92MiAWvFhpFqOMyAj81VfW-oyGxVorWeb0yExPAt5RQfGYREa8Z9XA0vV2YIRKpmrJxv2njCLU&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Taman Plaza 7 Ulu Palembang",
+        "alamat": "Jl. KH. Azhari No.28, 9/10 Ulu, Kecamatan Seberang Ulu I, Kota Palembang, Sumatera Selatan 30111, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9934694,
+            "lng": 104.7632409
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2cgdVccgueYGfcZOQUXCPU5ag7b-17sobQU56Xm6IfmwHMj49LwmIG8eQnnreCgqTq8wqi33EC4ORmooNYvwHKUEVhMimPh3LL8qFBsYqXY8PEZ6KAlGz-Xr7PFtibzW6dZ5OSKIGjAEkMaE4taCRZmUHi9cy93t_6pBGGck8QaI5Q9Bghk0Wa-QCsPCG5L5usLrssQqrcErsAIEVAK1DX3OYKNKJOJ2Hnl1bSPXGv-RDOz2SPvKqbQOqLans8-eeUC5IcPB9JNR3B7DqdFn6fpaJvu_IIJYgrhvmHX9tnFGqHW_91bAXHC9MhGCvrHC7OM0QUo0W6wNOsz-ZLiedRyks2WwFrzrC3JyRJRnw-tK-kS8HV6CKyc8X48Td-yWAfJl6sbGe5WD06pV7XaO0VfCIlcupWal6JaR2-Ep6ZuU0VvD2_jZm7w56UnZ85u&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Pedestrian sungai sekanak lebak cindo",
+        "alamat": "Jl. Radial No.25, 24 Ilir, Kec. Bukit Kecil, Kota Palembang, Sumatera Selatan 30127, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9831359,
+            "lng": 104.7501902
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2fBDGtuBWorQ8O0KAR7JnjKEPLk1qTQOGfAuWii8E398Efb9ziDX5dYogWP8_pGnujyknG6ro5JMwf-ny9exIyfExdMP5y_UZAasNCF4LG69GDm4D8HKQhL1mjD86O6RmJNxms0BCHaOsUIjWnIwXmm-3C9nHnffJmseC5jBhqq1aMv5TNov7cUMxmZ-mzBsgLh8aqNM1RhMI5aiCLx8mDUuWgrMUq-9zvgbHpFBNPtSw4SToY797ijQyQxnHiCbNlsWaKoUC5tUAc2vgNOH-rlY9kcOcLh_yReFz17RZw-fjszFp04yX6keehEr3DMWi_bqSERVAYvhIgegZDyn7B3j5R3aPQ2dH9vBxyo_7rz3K182FZUnU3-15u9d91iZ-G6meBXEDYrX5_JfIKhUTuFl2MZv3PhiMbwgkIUc404StI&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Culinary Musi Riverside",
+        "alamat": "Jl. Ps. 16 Ilir No.23, 16 Ilir, Kec. Ilir Tim. I, Kota Palembang, Sumatera Selatan 30122, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9894011,
+            "lng": 104.7627676
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2eNYhkzWtjviNtO_O5baBuI_to887Nn9xRMrIse2JyKFkHSBqCxTD-QuvFMoESCVbuc366TFC6Bf1jbqzkCFpACxe5I1Y9A2w-WgMs-c-JY2lcGAueada2etErErD-tk5pQVLGnt8DpMACmav36K09UlfqF9-hwT6EEG3cXjoyJsR419CV1slnUXf_iqXijFlYT2OVvTNfOeS9m1LCp4_FlHxdw_2FkB5pS4yOaL5OjTyPuVTtD7BLRuqoWkGEkPWPsFQABGygtpwK_3oW8VIhrOzbj63-pAeW1tvMiXnMqph0OWkFgHQ0OmYvtt7MWUvSo-laAtw4xn_i7sqhlQs8-KwvOCW-iiY8YVJPv40GLgT0Gzw5k3b-i8TRwQbb2ZFaU09S76WYxMBzmKZAg3NAB2xTCKDwrua8CHsJy0h4YFQ&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Palembang Sultanate Park",
+        "alamat": "Jl. Jend. Sudirman No.510, 20 Ilir D. I, Kec. Ilir Tim. I, Kota Palembang, Sumatera Selatan 30126, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9755421,
+            "lng": 104.7535675
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2fQLmb0-zZRDxyRWqaEQYLxRlUaoRBqdlcrSUZo2_thqEJJGBUmKy2mGBi7yROGRfghh3wfBxZh1ayEROEsTGfoNQuL4r2UBKkhyCVmds13RxoB59c0qYGD8TdnGtYE2kBiS4JzZA-ni8XguL-AIxCMeznHv5Z3vx8V_7qvJ56S27NNvqHW_kRhPZAgenXwcMD2NgwJv8TYN2TwW_OPvny-PZAMI6xPjLGl28tlesNsQuyuNdp78mzQ9N56CmXse4wiYlEMR4Sxrf9aaSLlJpjia4GEFUE3gYYscN7OglggTDKi2Y-zR5thxV3-0pbS0gBTEn7MYzfDLkvfRSGphpKDh8mSjm3i3Mqacfniue-v-A7pFYwArsUTV-pFVOH8-nv39XgW4QYi3h2lt7A3KPJfO6tQpI9vu2cHcqBFyk1jBv4&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Plg",
+        "alamat": "2PFH+8G6, Lorok Pakjo, Ilir Barat I, Palembang City, South Sumatra, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9767107,
+            "lng": 104.7287607
+        },
+        "places_images": "N/A"
+    },
+    {
+        "nama": "KOST ANGELIKA",
+        "alamat": "Jl. Bintan No.871, RT.13, Lorok Pakjo, Kec. Ilir Bar. I, Kota Palembang, Sumatera Selatan 30126, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9806552,
+            "lng": 104.7411899
+        },
+        "places_images": "N/A"
+    },
+    {
+        "nama": "Oud Palémbang , Maleisische Kampoong \" Pêrigi Laoet \"",
+        "alamat": "Lorong Tangga Raja, Kampung Perigi, 2 Ulu, Kecamatan Seberang Ulu I, Kota Palembang, Sumatera Selatan, Indonesia",
+        "gps_coordinates": {
+            "lat": -3.0061874,
+            "lng": 104.7535209
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2ejiSzJBndsTtRLqFh8fgtCydQNUcdUBcxIp_TMJ7KnWydgwDCtdhxUM6uj2iNjPwhX5Mr4F1oXkMWEk1hbTKVsaX4i5_cW9Wj-25aSO8YxzhzMt0n05gmQ8aBy0jsTd7E3F-dIqdp7dOhphMMe0TOhFQSng8sqCmIAx1rUckaSQYE5SerVMf01A0JpcvCKD45bssy8S65-M8XkAXHKziugcUL5UT09tnGq2DbhZGeUxR1K7-_KCXDhlVj3BBJTos9wCHJxm7SZHm3_NdUqFfksfki2O7W-l_uKRTJNa2lk73Ul7WsCMItNzBL1tB3aky8AQR5gmhfLew9lfSqTHAi-_vcj7PZQzpZjM06VDJNAHPsQ6V_2A19PgzVlix9keB2Jk5ttia96iJBYSSx8WO28BdRmfub6QV2-OwEq2NkEyYadVCiHlkD2OB4H8qqm&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Wanokuni",
+        "alamat": "Lorong Sungai Tawar 3 No.478, 29 Ilir, Kec. Ilir Bar. II, Kota Palembang, Sumatera Selatan 30125, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9960311,
+            "lng": 104.7528547
+        },
+        "places_images": "N/A"
+    },
+    {
+        "nama": "Taman POLDA",
+        "alamat": "Jl. Demang Lebar Daun No.65, 20 Ilir D. IV, Kec. Ilir Tim. I, Kota Palembang, Sumatera Selatan 30151, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.960804,
+            "lng": 104.7378102
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2epHr_r0SObARq3X7XFGDalqySe2NEr5bIbHABshwKeoEVAPidOXG_8_81qCtciDcRXdbqrpRQYtM6WPw_dE-8ovIFzKo5bSHQSWAAUnarbrqKOFObJg5G6fUfRsbJtGw1G13w2LuYjN-WoruykFfPK_K_LGc6O0z7nob85L9IUBAVVoyJOOigDOvCsoDcPmy0hNRydgdvyy6bqlJifQHwViXEe5NekyHX7CllzzSiT6FQ27Bz0_cEZozOglJJD2MgK8cIRfb1uGsyAtqjUeP4Rv56pHj27fa3LK4wjGgBLBvVVJafEvLbKg-wXl8VfZzsb73o1iOyBRNilF9cXdpYqI1oUY2o10n0HbsjnZ5iTGW00LZ1A2oxljn9M0shF-84U6EhIgdkLer6kusBSNKqJ8k7INCJlUHFFVtmHZOrgGA&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Waterpark Fantasy Island",
+        "alamat": "WPFG+6FQ, Jalan Prameswara, Karya Jaya, Kec. Kertapati, Kota Palembang, Sumatera Selatan 30862, Indonesia",
+        "gps_coordinates": {
+            "lat": -3.076923,
+            "lng": 104.7262407
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2dVfpKdmJwbWV0y5bbRJf17CWgoZHesJVyrIPanUvTd73cZoIgwRHfikNmXm5TgUif43OqnnmG6KOsv9MCS20ryPjNzZ3PeoaZ0SZKb39aWog5V0snZwY-eGVrFFjJYyWwraxRdHLe_2xCUpCIL3VW_SbGgKkObak2n-Wrjh9Voh_RlkV0zGOhtd5QHE-BJBhbFanoMoFXOzQju3fPMEKh1WJ05MmF_ZaWUp8HMClP_QAdg47cLqVA7KymYt5aW-gDBfk3UKyIId5Xgdmq8iyZEWKCT3ANoe4Ov-dF8s_jQpYAHlYKIZ26SgblxTCUm5RA_Ra-VFdXH0TFIJjysvyB7G6k7xZXVk8-4Dfw-28n8HmQM-exI_pebCaQxPtxVZcFJpbr3XyjtRBhByr2_kf0uxp6KQ31988JO8GkfrUGmzqv2&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Oud Palémbang , Paalwoningengebied \" Sungai Tawar \"",
+        "alamat": "Jl. Ki Gede Ing Suro No.264, 29 Ilir, Kec. Ilir Bar. II, Kota Palembang, Sumatera Selatan 30145, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9969258,
+            "lng": 104.7538042
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2eXcUoxXGnSB2JOmGagERZ-nq4TfqaWmSbq1YpzrlmNA3xTdeoCqkYYeGAdBB9X0sMVEbDJL_ytPrNzyJy4VOteLHQA30XmRduy6bmHgXj43edyqA1D9LMrCGS1DUHzn0cNQDCz45pZHkGC7V997z4zMauIffw3coyKH_tq6FkiCjkwHOzNAA2SIMpU9QqQ7h9kFQdU9gwXmgx5frDqeWFCGfGvQUTID0_Vx2ZUhUWu51DkPJvV8MoP8XCotoaKRUIrQ8w6T_caa6QJXlfIprjOyVsKCC6qqSu_h8wjZ_ZI149sSuYOy6fK-l3S-jITXYmkd_YtY4GxXuxr2Pz4h2jHthkCk4u5v4K1oN8_M9bM0m4El0-d_Z6VLp49XbdASq6td1dxRFDIOWP-Y4J9qlNWLD-ES1VekZQL-bKBIA8n0A&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Taman Kolam Bahari",
+        "alamat": "Jl. Pakri 1 No.21, Duku, Kec. Ilir Tim. II, Kota Palembang, Sumatera Selatan 30163, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9573938,
+            "lng": 104.7712355
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2cBqWZjCK7RPuuJdJWyA9jkl_n3UznThBBoHFARhP-FXgraw6u1V2F145voanO2lRk1OOsHGvwljem2k9i6RHjSQp_2sCTpjUzJEBbGZ_7T0CjV3nm1ZVQrL5ziz3QSa8nKKIVvP24a2i0kJqBPMWX05br3s1Znottad-BwPVDKqggAj4318VWSbn0PJPl1zpGJGeGiNHWMTScXo1XyBjZXTS2wcvxgWW1gvyd0uqn3mTOj-Ne9biiss-UMywkudGAiYsb8XD69goc2LhhZahGu7GeB9fEiKgtzagyyNLVvW3EJrTfX4iKQ4V9wJcgtL88GZtuuTuEXovhwKnjNLjBHiRNAbQQwtlp0ApJ-7Nldjgar1uM4cVI-_QQU8lao9jYzqtwiRzeBG_rXJZsjbcN9WbgjIm2hjRbw55jUvjA&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Oud Palémbang , Traditioneel Houten Bootcentrum",
+        "alamat": "XQV3+P27, Lorong Tangga Raja, 2 Ulu, Kecamatan Seberang Ulu I, Kota Palembang, Sumatera Selatan 30122, Indonesia",
+        "gps_coordinates": {
+            "lat": -3.0057088,
+            "lng": 104.7525547
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2fMcsvcTBwE4Qgg1ApLx8KLiGf-KL_AYLfT2Zw7hvwHOnMYlvcLgenaIltBa_MbIYBb879wtc4e75vb7bHV8BDsVC-wpb5Q00BVpb91s1mkpSo8jJzeQysUCJSwYqzhV7kWKyse7KDwJP9byVzORcw_i3mQVlxhSpkCG3vKKsrzrxLpc0vFT_NKRK07sZ1yeIB36uBmPd8UNcYRSO1xeXUJ4EFMfa5mD6VL2b3ZzfSafEnQzW3k6j1qQ4mI19aE_mBxjCKlZIeraNygTxSvlUNmfapE19e9QUY4JE5m9iZmFJjSwWPJbhAswQyXgeesMnRk-n8M4UzQCGCowT2obcJZPLBQKo47A250GhZ68sbXTaQG8Bc-naAXYOtNWrxXdnXix6zUiUsAGJ1RNf0sAADQj9d3jwpVyMXWb_dF8zNukA&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Kolam Agus",
+        "alamat": "XPWG+42G, Bukit Lama, Ilir Barat I, Palembang City, South Sumatra, Indonesia",
+        "gps_coordinates": {
+            "lat": -3.00455,
+            "lng": 104.72539
+        },
+        "places_images": "N/A"
+    },
+    {
+        "nama": "Kolam Simpang Brimob",
+        "alamat": "Jl. Demang Lebar Daun No.2607, Bukit Lama, Kec. Ilir Bar. I, Kota Palembang, Sumatera Selatan 30137, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.989788,
+            "lng": 104.726461
+        },
+        "places_images": "N/A"
+    },
+    {
+        "nama": "D'ManA JL..",
+        "alamat": "2P9M+GJ7, Lrg. Kerjasama, Lorok Pakjo, Kec. Ilir Bar. I, Kota Palembang, Sumatera Selatan 30128, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9830023,
+            "lng": 104.7342391
+        },
+        "places_images": "N/A"
+    },
+    {
+        "nama": "Tenda Kampung Kapitan",
+        "alamat": "2Q46+7X4, 7 Ulu, Seberang Ulu I, Palembang City, South Sumatra 30111, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9943657,
+            "lng": 104.7624456
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2eDfrapkzDsfCXZBq4vvPp08xn0wapq2yKsfmZRZAEr5cawHO4_NkKxKQiWQMvqZKacS-OV9xXQj2rGh_LNDCN34-QA8MdCyhI1j3JC8YJt_C1QM4lKkWUp0zXMMn32GP5JrfZWRq4mNN9QUGhsOUT2tVnXHficF09A84xZ3qRuqwRDmlTBLgLQtbsTNtmUbKsR9l1q2XRUPaiGJvUvPoL5M2oYfsVulYSBi_rDY4fsN7-1qkQ9pXg0621VgN9yhn8vpDo3ioak914_Tum_c24nV2eETaVgprUcNEWcmFutLFL09BpBmNpHKonBkReLPrpvXYuUaVTO-7FMweNWkyMaF42PX9yxgTL_FfMqMr6ab5VR7FEpDrQ6Ihxd7xv6OY6-D87gn1uF2TCpaSz1GCrf2XsHHseXdhGy6ARj14BTuew&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Laut",
+        "alamat": "Lrg. Persatuan No.45, Demang Lebar Daun, Kec. Ilir Bar. I, Kota Palembang, Sumatera Selatan 30197, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9699873,
+            "lng": 104.7377402
+        },
+        "places_images": "N/A"
+    },
+    {
+        "nama": "Selter DPO",
+        "alamat": "2PCF+2Q5, Lorok Pakjo, Ilir Barat I, Palembang City, South Sumatra, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9799946,
+            "lng": 104.7244826
+        },
+        "places_images": "N/A"
+    },
+    {
+        "nama": "Kampoeng Bingen Palembang",
+        "alamat": "2Q7F+PMP, Jl. KH. Azhari, 14 Ulu, Kec. Seberang Ulu II, Kota Palembang, Sumatera Selatan 30118, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9856698,
+            "lng": 104.774198
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2e_togPK0prM7vgxeP2xrrYV6cyOP2mPgENnRik_utmyIB30wHkiBQVCyL2uBHhq2a9us82PFl-bqrTSLqQP0f0o8meprcu2IhUDu7w6b-5u_k-puiOvtJ1MAcZQMhjKyCU4Ku_0yBBB7_cfbjiudppQqQVct6ojHUQCze_0cnqSmHysUNZJnv1LSJFwtW7qaJgebK5ovi31i2RW4M0YEk97JNKJk7ex5Wx0bfIcfRTNMWnm9GOdlGGqLjwCcDhNH-Qr78oRRczM7nCJ5Uq3sArQn_vgrv9maVpgUSgRUdMwvcJeYjYtUVxIjC-qeupypoLTD-n6jjyUmuJKcrk_3mqSENIGc1jSrYgHCf5y9TnY3HI6y74lqIBEJXSWG-rquEXbUd3QLKCoW_JeP6taj6FBye6k2jcnApeIvXYPAXqWWxb&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "Zona nyamanku",
+        "alamat": "Jl. Lintas Sumatera No.147, 18 Ilir, Kec. Ilir Tim. I, Kota Palembang, Sumatera Selatan 30121, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9839123,
+            "lng": 104.7575914
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2e2c_F_dMeP5o9WTuaARGrwTs1BaumOFQ-FFpW2cbaxI96yiOv2nL1c0cAFmBMc6Xa3Qj2aFmg8JJfaBna0Wz9OnP549uYN59vLlTAWjAtexVhpdNzT0BCj2odKO25cbamX2LUc2pe8eChrfbWggB8-cqEqKdqQm-wvxaJUk6eDc80N1Mhmll5_tc11Cn_nct0mAjLRQpSl4oh775s6oGuKDgobt2lpQo2AT0F3tSzHmiHoGCzzniybl1EEEemvFTb5MGaaI8D-vjenkGgbR8qisJqBw2VvkBAXoedM3NaNdLzNE0GKvQsVbUCtQTYj7L5Rp5QykleXKENJkS3qF5gllRdT368K3wEL9d1cVQ7Z3yTeodgUDL5e2dyQJW-mMsTQl5DmkSGJEZNUtp9nvt_KOF_RjmmeqgwXXUUVBqJjwhqu&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    },
+    {
+        "nama": "-Flops -Super Airjet, Palembang",
+        "alamat": "Jl. Jend. Sudirman No.1301 H-E, Sungai Pangeran, Kec. Ilir Tim. I, Kota Palembang, Sumatera Selatan 30129, Indonesia",
+        "gps_coordinates": {
+            "lat": -2.9773367,
+            "lng": 104.7539638
+        },
+        "places_images": "N/A"
+    },
+    {
+        "nama": "Lake Water Ski Jakabaring Sport City",
+        "alamat": "XQJW+F66, Jl. Gelora Sriwijaya, Sentosa, Kec. Seberang Ulu II, Kota Palembang, Sumatera Selatan 30267, Indonesia",
+        "gps_coordinates": {
+            "lat": -3.0188419,
+            "lng": 104.7955011
+        },
+        "places_images": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AciIO2eHiyGFqtO-3x0w6TE9KmuLlgi4cWdC_aAjEUyEDCFnoy1m4XasUpf-QA3jsZaotRN6bJjrQ8nE_47f0Hb3GAjR3QwnrXVhN78Btg_dwPOwghagvwQ6Tom9OjAMXhmq5cpoOq3Ncnrc8t6Frk32Ca-xdf-8d7lDLlzKVmYM8dvUwGCrwxv5kHUv1hQm7fUhlBCnLz7omnnDZAxei2rFGkhjhejxFUtRJx-AQnX5ZOWETsugQgSB-mXE7aY7xwXRlr4kzB6kaasGha_lcfT2Vitsq1DSH0PR3gxG2ZW4-E7G2-8lyRbofGg6c-qG62ApEeVD0DSj891J6WAo7Dq9PrEyBvW0rX7bNajmQztrthGDzWzLOzrCRLVhv0lbT0-bNFpjI24jTHUqBXiN1ZKvXXilCEaTrbJV5Z811KmoJlI3LCzN&key=AIzaSyBfefESX6SV6E-apZbBHSPPMmC7-VjG3tY"
+    }
+]

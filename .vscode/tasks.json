@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "run-scraper",
+			"type": "shell",
+			"command": "python .\\scripts\\scrape_wonderfulimages.py --outdir . --delay 0.3 --per_page 100 --max_pages 0",
+			"args": [],
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": "run"
+		}
+	]
+}

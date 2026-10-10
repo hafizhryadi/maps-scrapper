@@ -1,0 +1,1469 @@
+{
+  "search_metadata": {
+    "id": "68db9c66e396eb92df56b67b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9f2ecb3fabb5fa85/68db9c66e396eb92df56b67b.json",
+    "created_at": "2025-09-30 09:01:26 UTC",
+    "processed_at": "2025-09-30 09:01:26 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/Wisata+belanja+kota+palembang?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/9f2ecb3fabb5fa85/68db9c66e396eb92df56b67b.html",
+    "total_time_taken": 0.69
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "Wisata belanja kota palembang",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "Wisata belanja kota palembang"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Palembang Square",
+      "place_id": "ChIJPz1me911Oy4RRKNB2J_3c6Y",
+      "data_id": "0x2e3b75dd7b663d3f:0xa673f79fd841a344",
+      "data_cid": "11994202498517803844",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b75dd7b663d3f%3A0xa673f79fd841a344&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b75dd7b663d3f%3A0xa673f79fd841a344&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9765884,
+        "longitude": 104.7421305
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJPz1me911Oy4RRKNB2J_3c6Y",
+      "provider_id": "/g/1218f65f",
+      "rating": 4.5,
+      "reviews": 33297,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center"
+      ],
+      "address": "Jl. Angkatan 45, Lorok Pakjo, Kec. Ilir Bar. I, Kota Palembang, Sumatera Selatan 30137, Indonesia",
+      "open_state": "Open ⋅ Closes 10 PM",
+      "hours": "Open ⋅ Closes 10 PM",
+      "operating_hours": {
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM"
+      },
+      "phone": "+62 711 380001",
+      "description": "Shopping mall with a cinema & fast food. Mall with fashion & electronics stores, plus fast food, a supermarket, cinema & amusement center.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Arcade games"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)",
+            "Nursing room",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nppOt-PmodlPyIF1l3xDRcvwLKup77ZWPYKdMf6WDc0-IPg9fFzH485fbFhkDZ5i6piEDIP9liFuzJK1zp76MmLQMXcR0IiRzk_imJyWMVIzAyg0QXj9dM1qp7a64eeVnq_mfH1=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/h26dIXicBcFLUoMwAADQE6UQSsE446IjMk1pxpRFqd10NIQkkl9NsML9PIS38b2_XxmjD49JouV6JZwTmk-BfzFnI7dxxZxJhA-ABRCS7TOSufX-NQJqXK_pjGuo1z9Vy77vh2byZXnp6FvTk6HoKpYCTAUa6mWXP2yGj1qO1WWjCq9eKkyRVvW07Bu4-LIg5nAkZ9amWLXLeFVmP3fkhJftLNLj-RP1BN58-V7knJ_s7WqGHXy6wywDEmVgBNb9A7q6REo"
+    },
+    {
+      "position": 2,
+      "title": "Palembang Indah Mall",
+      "place_id": "ChIJ2w5ZRQh2Oy4Rk0CGnVCJdNs",
+      "data_id": "0x2e3b760845590edb:0xdb7489509d864093",
+      "data_cid": "15813415170937864339",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b760845590edb%3A0xdb7489509d864093&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b760845590edb%3A0xdb7489509d864093&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9851559,
+        "longitude": 104.7537026
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2w5ZRQh2Oy4Rk0CGnVCJdNs",
+      "provider_id": "/g/1v6gb72h",
+      "rating": 4.6,
+      "reviews": 20031,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center"
+      ],
+      "address": "Jl. Letkol Iskandar No.18, 24 Ilir, Bukit Kecil, Palembang City, South Sumatra 30134, Indonesia",
+      "open_state": "Open ⋅ Closes 10 PM",
+      "hours": "Open ⋅ Closes 10 PM",
+      "operating_hours": {
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM"
+      },
+      "phone": "+62 711 350999",
+      "website": "https://palembangindahmall.co.id/",
+      "description": "Laid-back shopping center with a cinema. Relaxed retail & entertainment hub with stores, a food court, arcade & movie theater, on 4 floors.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Arcade games"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking garage",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqV47qIWEXdBo59dBTvgp3rS6OSaJ3g1m0dTN42HhWAzlXLxhO0Ie0NHtEi6UfzUrGZVkxXftRoXkSNMCXLfnY_QTi8WF3avXEZtrkKvBlIGFnQNsDbxWkK95gAOyZV-BIPBWJGAQ=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/QTEoYXicBcFLcoIwAADQE0XQIC2dcUEUEbUg5ZPIxrF8EieYIEmRekHP4G187_VkWnfqyzBaBidUStrWf6ruSyl0LfSklFeDdgqUCijDXTrMErfc-rgF2CMVknOnQulAO9gndpSct5BOr2aVhtZsw7D7aMl-ZJEZ1Ga40d7FzppH1vtFzkfS6B9JeBJ-L8m-EcdTnF4-8RqeB-IVuue7AbWBvxZxqFa_I-Y7Z07d6L_IAQoOCG99N17cpzYEzJkBDoR8AyN9RKE"
+    },
+    {
+      "position": 3,
+      "title": "Palembang Icon Mall",
+      "place_id": "ChIJD3kt1uZ1Oy4RSYy3Te_eUU8",
+      "data_id": "0x2e3b75e6d62d790f:0x4f51deef4db78c49",
+      "data_cid": "5715594521492294729",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b75e6d62d790f%3A0x4f51deef4db78c49&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b75e6d62d790f%3A0x4f51deef4db78c49&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9792799999999997,
+        "longitude": 104.74510199999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJD3kt1uZ1Oy4RSYy3Te_eUU8",
+      "provider_id": "/g/11fy9pm6cx",
+      "rating": 4.6,
+      "reviews": 17019,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center"
+      ],
+      "address": "Jl. POM IX, Lorok Pakjo, Ilir Barat I, Palembang City, South Sumatra 30137, Indonesia",
+      "open_state": "Open ⋅ Closes 10 PM",
+      "hours": "Open ⋅ Closes 10 PM",
+      "operating_hours": {
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM"
+      },
+      "phone": "+62 711 5649366",
+      "description": "Sleek mall with local & global brands. Contemporary shopping mall offering a supermarket, local & global brands, a cinema & a gym.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Arcade games"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqwvoc2zQt17LM2EmuHzOd35b7Kvy3jtL6bNH47lvL80Aw9VosSJ1iCUVb5hLdAWexZ38YkDNpKCKF86NPJnHrzXZ4-sugQ8n--_4uXtq91svmD3yCh0NNoryBr5xFMBu7CQx0cMg=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/vfBZ-nicBcFZjoIwAADQE1WgZZ1kPrBqiEAdMnH9MaGQVoUWact2wTnD3Mb3_v-41p36sqyGoxWTkjW1UXVPpdC10CsqW4t1ClAFlBXjiLviPQ6SwqXQTpDlcNuaZDlUyCuDdJjRU2d-SRI3aIYstOMxOkn1u3ce-HgqPZ5V8bmebii8vjakS3G6C33ysxdJv1xuLlCGFaEA4O6ai35HjhraDZoxtwmR_bzuvWmXr02Ai8mmOfseHQgBjyB4ASE_Dz9EOw"
+    },
+    {
+      "position": 4,
+      "title": "Transmart - Palembang City Center Mall",
+      "place_id": "ChIJ6wKQSuJ1Oy4RRA-ujdsco54",
+      "data_id": "0x2e3b75e24a9002eb:0x9ea31cdb8dae0f44",
+      "data_cid": "11431012008496860996",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b75e24a9002eb%3A0x9ea31cdb8dae0f44&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b75e24a9002eb%3A0x9ea31cdb8dae0f44&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9816363,
+        "longitude": 104.74706789999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ6wKQSuJ1Oy4RRA-ujdsco54",
+      "provider_id": "/g/11bwfk91nq",
+      "rating": 4.5,
+      "reviews": 12220,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall",
+        "Grocery store"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center",
+        "grocery_store"
+      ],
+      "address": "Jl. Radial, 26 Ilir, Bukit Kecil, Palembang City, South Sumatra 30127, Indonesia",
+      "open_state": "Open ⋅ Closes 10 PM",
+      "hours": "Open ⋅ Closes 10 PM",
+      "operating_hours": {
+        "tuesday": "9 AM–10 PM",
+        "wednesday": "9 AM–10 PM",
+        "thursday": "9 AM–10 PM",
+        "friday": "9 AM–10 PM",
+        "saturday": "9 AM–12 AM",
+        "sunday": "9 AM–12 AM",
+        "monday": "9 AM–10 PM"
+      },
+      "phone": "+62 822-0825-5341",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Arcade games"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)",
+            "Playground"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrPTWrC71Z1j-0rKSQoSNQaH1IJg9dEQylc2s08DrDb_2MkGl_KrWxMMxPqJQNufYWBZhDXTylP-SrTKuTt_4E5zihKoVQLeG_tMv8NtOHGEbaUZSZSBUo-zVXojjiQI2kUM2f9gg=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/kISpRXicBcHtFoEwGADgK5o0HHKOH6gTsrSzEv3pkGxqetmWrxt0De7G8_y-wpibHluWFL0OB-CybHWpCmhM2ZhOAVeL3zQqNNLWdO6IfqOiOFXzoZ3ZFeqqgFFgIT0s7OWKOyePvmWBdXfkKveYY1L7Mg9U-iLkFd1XNGzP-3SWCXcXv2WEmIqDNjZ53xt8LiKALV2Xfm7IYxSazcL3jockYxmbJYA-2x1U1YUucZ0QfHY4nzxtjJFwMKpRA38j3EUS"
+    },
+    {
+      "position": 5,
+      "title": "Palembang Trade Centre Mall",
+      "place_id": "ChIJ40_jgeZ3Oy4R5KFCwsfEuKg",
+      "data_id": "0x2e3b77e681e34fe3:0xa8b8c4c7c242a1e4",
+      "data_cid": "12157683556323336676",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b77e681e34fe3%3A0xa8b8c4c7c242a1e4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b77e681e34fe3%3A0xa8b8c4c7c242a1e4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9508973,
+        "longitude": 104.761029
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ40_jgeZ3Oy4R5KFCwsfEuKg",
+      "provider_id": "/g/11h74qhrpk",
+      "rating": 4.7,
+      "reviews": 8725,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center"
+      ],
+      "address": "Jl. R. Sukamto No.8A, 8 Ilir, Ilir Timur II, Palembang City, South Sumatra 30114, Indonesia",
+      "open_state": "Open ⋅ Closes 10 PM",
+      "hours": "Open ⋅ Closes 10 PM",
+      "operating_hours": {
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM"
+      },
+      "phone": "+62 711 822388",
+      "website": "http://www.ptcmallpalembang.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Arcade games"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrhPvXDWXjsbP_x3_6m0MXNI8rSxmOl30eR9dqOwV5pc1dhX1mczRAGEMbZWv1gaTg1tWYd6w79m_FtLHbEDITi_VcHON1ZwuF5jCMJmqhZ65RkK-gXmTDvYTLoD-qrn-QtXiGLew=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/gjp68XicBcFtDoIgAADQE5GRadnWj5Z9a5Y5Jf-4RAaVgApJ64Kdodv03u_LtG7UzLJqZg-olLQmL0U6LIUmQg-w5BZtFMAKKGux9NhYdOzUIz9DD1WeirdduHwYouNu2l3ePKrtIYm9qo1M6jQYVgxBjj_xYrMKyzzrIb0lFOrsWrlm4vFirYNtufJ3yb1I8TY6wty81s5jGe55y3LXiZ8HQBFP_P6aBNIHbSfAWaP7JiBmbqBrA-aNwBMI-Qd4IEV1"
+    },
+    {
+      "position": 6,
+      "title": "Palembang Icon",
+      "place_id": "ChIJI9Xj1eZ1Oy4RI-rAU7a3WOE",
+      "data_id": "0x2e3b75e6d5e3d523:0xe158b7b653c0ea23",
+      "data_cid": "16237930450201405987",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b75e6d5e3d523%3A0xe158b7b653c0ea23&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b75e6d5e3d523%3A0xe158b7b653c0ea23&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9793613,
+        "longitude": 104.7451265
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJI9Xj1eZ1Oy4RI-rAU7a3WOE",
+      "provider_id": "/g/11b6tfgxmz",
+      "rating": 4.4,
+      "reviews": 4819,
+      "type": "Outlet mall",
+      "types": [
+        "Outlet mall"
+      ],
+      "type_id": "outlet_mall",
+      "type_ids": [
+        "outlet_mall"
+      ],
+      "address": "Palembang Icon Mall, Jl. Angkatan 45 No.45, Lorok Pakjo, Ilir Barat I, Palembang City, South Sumatra 30137, Indonesia",
+      "open_state": "Open ⋅ Closes 10 PM",
+      "hours": "Open ⋅ Closes 10 PM",
+      "operating_hours": {
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM"
+      },
+      "phone": "+62 821-7614-0694",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Food"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)",
+            "Nursing room",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking",
+            "Paid parking garage",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqR3vv6Z3GCbe0Ad6KuQ8ktULJNr8ihQ5Zqr722-ohgUcKcNFqxpIjMQm3JZzpOJrkQ6_RRC1rGRXz3YK-OIwuuwKqdkbmqco7mk8QXHX-DCKMqjRssQ30jnHHPapT4u5PMJSwpjw=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/PWH-aHicBcHdrsEwAADgJ6qxMiNxITs5ZjW0SHZ2I9SyntX6XxUv6Bm8je_7vJlzys6j6M7goJWyvTfeNoZK4RrhBlT2UassoBbYaJnN2FhoAh-PpIar7NoMl7cEeZxyd9oUW5P-MzyptZnGMZCsPVFEt7_6qdZdiXtY1C-1KwzHyZmQbGRWpHrBPwR26-B9QPrGr72mctrzFFd5BX4yVOqOWIvhsBN5vr-o49hP9mVxCKoLizBKIGCzGHAg5BdJiEWB"
+    },
+    {
+      "position": 7,
+      "title": "PSX Mall",
+      "place_id": "ChIJceY-mOd1Oy4ReRdLK8gQRmM",
+      "data_id": "0x2e3b75e7983ee671:0x634610c82b4b1779",
+      "data_cid": "7153423510030456697",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b75e7983ee671%3A0x634610c82b4b1779&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b75e7983ee671%3A0x634610c82b4b1779&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9768277999999997,
+        "longitude": 104.7426053
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJceY-mOd1Oy4ReRdLK8gQRmM",
+      "provider_id": "/g/11f03ykmbt",
+      "rating": 4.5,
+      "reviews": 7450,
+      "unclaimed_listing": true,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center"
+      ],
+      "address": "2PFV+729, Jl. Angkatan 45 Jl. POM IX, Lorok Pakjo, Ilir Barat I, Palembang City, South Sumatra 30137, Indonesia",
+      "open_state": "Open ⋅ Closes 9 PM",
+      "hours": "Open ⋅ Closes 9 PM",
+      "operating_hours": {
+        "tuesday": "10 AM–9 PM",
+        "wednesday": "10 AM–9 PM",
+        "thursday": "10 AM–9 PM",
+        "friday": "10 AM–9 PM",
+        "saturday": "Closed",
+        "sunday": "10 AM–8 PM",
+        "monday": "Closed"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Arcade games"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Playground"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nry1S6CWRuC3dCFf7QihJp03D_p17K2xW6ObAUV3Sc-OkXTEz_oYfXAVa4hI0jsBW8eOhoWHXjA59UMQkp7ajrwowKDNfe8SIMwhzYfwHNiM7VcqcqCf3ur_xKXF1zK2VL6aOmI=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/JfdHvXicBcHtFoEwAADQJ5o-Rsk5fmRxJOmQPvzqZLamaNPqjN7PQ3gb9_6-rO-FXGjag8FJxXn1IIMkHeZtT9p-gvlTq4QEWAKpuchh07b7GLGFstOA4A1tqH28s53QoVcIww7Md2ZFVzdJYYxB1OTn9VjwC83dtJwyX6_lKpuTiPFsm9fuzEnCYyPssu4UV4F3oGQe-6Fi44Wq7eEe2il-4ReicOiKd5BvjDEw071VRk9_qQwLAuaYoAEt_wNjyUP7"
+    },
+    {
+      "position": 8,
+      "title": "Internasional Plaza Palembang (First Mall in Palembang and as well as the largest Phone Store)",
+      "place_id": "ChIJ_ys5KAl2Oy4RDLMCkllM5hc",
+      "data_id": "0x2e3b760928392bff:0x17e64c599202b30c",
+      "data_cid": "1722147855101244172",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b760928392bff%3A0x17e64c599202b30c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b760928392bff%3A0x17e64c599202b30c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9837686999999997,
+        "longitude": 104.75764439999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_ys5KAl2Oy4RDLMCkllM5hc",
+      "provider_id": "/g/11f33qj7kq",
+      "rating": 4.6,
+      "reviews": 513,
+      "unclaimed_listing": true,
+      "type": "Supermarket",
+      "types": [
+        "Supermarket"
+      ],
+      "type_id": "supermarket",
+      "type_ids": [
+        "supermarket"
+      ],
+      "address": "24 Ilir, Bukit Kecil, Palembang City, South Sumatra 30114, Indonesia",
+      "open_state": "Open ⋅ Closes 10 PM",
+      "hours": "Open ⋅ Closes 10 PM",
+      "operating_hours": {
+        "tuesday": "9 AM–10 PM",
+        "wednesday": "9 AM–10 PM",
+        "thursday": "9 AM–10 PM",
+        "friday": "9 AM–10 PM",
+        "saturday": "Closed",
+        "sunday": "9 AM–10 PM",
+        "monday": "Closed"
+      },
+      "extensions": [
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "In-store pickup"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Food"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqcXsslJqOmtmmKboneL2xz1efFJiWgr-iDmIf6woiNV57xCP_zztOAFzZHze4aZqDwDDjKyx2Wdenk_MpUx2yhEm8R67VSxLxidyMm9GKY5cguOLM6Te7klGYvkB5gkLBDru0=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZoDpbHicBcFLcoIwAADQE0UqCpTOdKGm_oDS8QOVDVNjTDAkARJKyPl6id7G9_7_qNaNenOcms4mREpS417hDkmhsdATJLlDGgWQAspZrEI6Fy36VqretynXnEdXKXDsGjvF9_W-ykkHKsh3d3-Q1WfmBWb1VVqr08XaFluL5z9FCwcIH9Fo3PyGBSuT5mzckX7w14MfZEcTm-o2JjzcRBcPkT6NE_-EA1ZvLr9s6REWL2HXv7wPU38GaOgCBoR8AoCjRmc"
+    },
+    {
+      "position": 9,
+      "title": "OPI Mall",
+      "place_id": "ChIJGddYc1OcOy4R78GO5kWieQE",
+      "data_id": "0x2e3b9c537358d719:0x179a245e68ec1ef",
+      "data_cid": "106294487324475887",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b9c537358d719%3A0x179a245e68ec1ef&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b9c537358d719%3A0x179a245e68ec1ef&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -3.0361406,
+        "longitude": 104.791564
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGddYc1OcOy4R78GO5kWieQE",
+      "provider_id": "/g/11b6tshvk6",
+      "rating": 4.6,
+      "reviews": 20210,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall",
+        "Movie theater"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center",
+        "movie_theater"
+      ],
+      "address": "Jakabaring Sport City, Jl. Gubernur H. A Bastari, Sungai Kedukan, Rambutan, Banyuasin Regency, South Sumatra 30257, Indonesia",
+      "open_state": "Open ⋅ Closes 10 PM",
+      "hours": "Open ⋅ Closes 10 PM",
+      "operating_hours": {
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM"
+      },
+      "phone": "+62 711 5620477",
+      "website": "http://opimall.com/",
+      "description": "Retail center with an ice rink & cinema. Indoor mall with a variety of retailers & casual eateries, plus an ice rink, playground & cinema.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Arcade games"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking garage",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqPHQ5R03-rnuIUHF_TI2nyVrp4j4OZLLgxts8xHvrLHQe5NLYhRdaQ0Lp16vvPXA4JvpdJNgEXpZto8nATjHEHcs3M963-NGyw51kK5q3o4VIjnd1_FCbQxAUTzo8c8ArdqA0=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/lnbtGXicDcpRDoIgAADQE5Ea2LStD9YyLLJs1qofV-hgVoBAZp2vS3Sbet_v-xHOaTv2vJuAA64Uv9UPWxumpKulGzB197i2gFlgPTyNBZLthuTh1ofAyEe6I0lZpEP52huNGrQ-Ucp7Z6OedIaSvA4zehTb6pz7VAejrtscMFp0ulpkfHbQJ6ciiYuGzAizcBWPIMjmr2cYXJdhCxXap42sgjKZXvIe74q3iliETdVif_IM_lnEQ3AFUv0ARDNDMQ"
+    },
+    {
+      "position": 10,
+      "title": "Pasar Pagi Lemabang",
+      "place_id": "ChIJzRwY3kZ2Oy4RILKqRXqwFXc",
+      "data_id": "0x2e3b7646de181ccd:0x7715b07a45aab220",
+      "data_cid": "8580958704225661472",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b7646de181ccd%3A0x7715b07a45aab220&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b7646de181ccd%3A0x7715b07a45aab220&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9734830999999997,
+        "longitude": 104.78306599999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzRwY3kZ2Oy4RILKqRXqwFXc",
+      "provider_id": "/g/11f0wlnbr6",
+      "rating": 4.4,
+      "reviews": 537,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall",
+        "Traditional market"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center",
+        "traditional_market"
+      ],
+      "address": "Jl. Laksamana Yos Sudarso, 3 Ilir, Ilir Timur II, Palembang City, South Sumatra 30111, Indonesia",
+      "open_state": "Open ⋅ Closes 11 PM",
+      "hours": "Open ⋅ Closes 11 PM",
+      "operating_hours": {
+        "tuesday": "3:15 AM–11 PM",
+        "wednesday": "3:15 AM–11 PM",
+        "thursday": "3:15 AM–11 PM",
+        "friday": "3:15 AM–11 PM",
+        "saturday": "3:15 AM–11 PM",
+        "sunday": "3:15 AM–11 PM",
+        "monday": "3:15 AM–11 PM"
+      },
+      "phone": "+62 895-4189-36900",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqv2ctSljpmaeZUgj3auHtV4TFNpuAp4lsLWNa6BDo2Sl-oj4b1bRV5S80tVWTigDGCmmXLYZlh5WUWeK_bHChekqplH8Au9x8GBGYnvaAc6kPKeiyHJOxJ9dLkM_CzJl1PlAiZvg=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/FJN-cXicBcFbjoIwFADQFVXkIYFJ5qNihCA6RhSUHwO1aYFLW21h1A26htnNnPP34cYo_WVZwN0Zk5IBHTV9ECkMFWZG5GAxpRHRSFs4Crkn7pNDTA6dGmpanVjn1mNiCu-43qkRKw90Vu5qf7mSTg5Idl5jN4dikQdzU5THlq3iaBjO2aUCvihPJd1cmyTitL8rSAI8hs8gXsYXMdWY-P1-Q9tXkv480_CW9dtr9E7B3gNuq4l9_9q-i3jooB4J-Q-reEYB"
+    },
+    {
+      "position": 11,
+      "title": "Benteng Kuto Besak",
+      "place_id": "ChIJqybWvgN2Oy4RsuP3QwCiJoI",
+      "data_id": "0x2e3b7603bed626ab:0x8226a20043f7e3b2",
+      "data_cid": "9378361396069655474",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b7603bed626ab%3A0x8226a20043f7e3b2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b7603bed626ab%3A0x8226a20043f7e3b2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9913138999999997,
+        "longitude": 104.7592019
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqybWvgN2Oy4RsuP3QwCiJoI",
+      "provider_id": "/g/122kc9x2",
+      "rating": 4.5,
+      "reviews": 15717,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction",
+        "Historical landmark",
+        "Fortress"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "historical_landmark",
+        "fortress"
+      ],
+      "address": "2Q55+CMW, 19 Ilir, Kec. Bukit Kecil, Kota Palembang, Sumatera Selatan, Indonesia",
+      "open_state": "Open now",
+      "description": "Historic fort & park with bridge views. Fort, historical museum & hangout spot near the river, with palm trees & Ampera Bridge views.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npFnmM_tjoL2in-veHwQFRCgCb4Sv_hDIiO3PXyRKP2-Y5d6nu3Q4sXqK8EX9u3gVeYmf16nmghKmbGWFebcBzZrTmumRVwprHLDhCHEJJpGKrGqkqJUceYIyhlHyDswIkJVOc07g=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/vG50eXicBcFZUoMwAADQE6VYgijO9MOyLw4UlYI_nSHGpEIWSAJDL-gZvE3f-_-jWkv1YlkjhTsiBBmxUXhGgmvM9Q4JZhGpAFJAWa--Rx0uI87eLvpXFPaVgwUn6ymqfeL3zvtyoUF6LWHVbnVe2aB7_Ha5gSdHtVP-HLaegaTBHfvZu5wRmrM-Pke4R8fb1_zBDKubVc5JEVA_CbNMxvkcT8OUfSLcpRsdky1QazpkTYkenshh3bsQUM8GA-DiDpcGRkY"
+    },
+    {
+      "position": 12,
+      "title": "IP International Plaza Palembang",
+      "place_id": "ChIJsevYRLF3Oy4RPDUZbBctJ3c",
+      "data_id": "0x2e3b77b144d8ebb1:0x77272d176c19353c",
+      "data_cid": "8585880793226229052",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b77b144d8ebb1%3A0x77272d176c19353c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b77b144d8ebb1%3A0x77272d176c19353c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9838711,
+        "longitude": 104.7574989
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJsevYRLF3Oy4RPDUZbBctJ3c",
+      "provider_id": "/g/11hdz6syms",
+      "rating": 4.5,
+      "reviews": 2849,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center"
+      ],
+      "address": "Internasional Plaza, 18 Ilir, Kec. Ilir Tim. I, Kota Palembang, Sumatera Selatan 30114, Indonesia",
+      "open_state": "Open ⋅ Closes 9 PM",
+      "hours": "Open ⋅ Closes 9 PM",
+      "operating_hours": {
+        "tuesday": "10 AM–9 PM",
+        "wednesday": "10 AM–9 PM",
+        "thursday": "10 AM–9 PM",
+        "friday": "10 AM–9 PM",
+        "saturday": "10 AM–9 PM",
+        "sunday": "10 AM–9 PM",
+        "monday": "10 AM–9 PM"
+      },
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Arcade games"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Playground"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr-Xit5C7l3XeINWYrTPuvqlUteTJwQuyDyXlRDgQ34IXtNknE9Q9-C895rj6ydQ6feFKLuR6wJmEqgHhkaXJ48y_nx0QYe6u2SYPTAW7wra8BgmWNXMb1XTi5AGE8s6TA7_ktb=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3hgKInicBcFLcoIwAADQE0Uqn0Cc6YIiVWlljMYhrBylMVFCovmUcsAeorfpe3-_wrmHXQSBFNGMa80l85aZTivHlJt1egj4w4LOAhvkBRKxMoDeXFKkMqJsUzetITv__ZRHx0g1Yj8tJyr3S46jeENd3asSYQSKDCXmDqcvDK_s_ePT7-FYDeWTr0V_plWcTSf184JbBn14aHckb9LRnLM3PjQ13V7mlNySfFVmFpI8PfXu8jrOwxAIFIIeKP0P1PhEGA"
+    },
+    {
+      "position": 13,
+      "title": "Social Market",
+      "place_id": "ChIJv0n-12x2Oy4Rm59iqLMZlHM",
+      "data_id": "0x2e3b766cd7fe49bf:0x739419b3a8629f9b",
+      "data_cid": "8328309870329765787",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b766cd7fe49bf%3A0x739419b3a8629f9b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b766cd7fe49bf%3A0x739419b3a8629f9b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9757767999999998,
+        "longitude": 104.766516
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJv0n-12x2Oy4Rm59iqLMZlHM",
+      "provider_id": "/g/11c5_wxw9_",
+      "rating": 4.6,
+      "reviews": 8589,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center"
+      ],
+      "address": "Jl. Veteran No.999, 9 Ilir, Ilir Timur II, Palembang City, South Sumatra 30113, Indonesia",
+      "open_state": "Open ⋅ Closes 10 PM",
+      "hours": "Open ⋅ Closes 10 PM",
+      "operating_hours": {
+        "tuesday": "7 AM–10 PM",
+        "wednesday": "7 AM–10 PM",
+        "thursday": "7 AM–10 PM",
+        "friday": "7 AM–11 PM",
+        "saturday": "7 AM–11 PM",
+        "sunday": "7 AM–11 PM",
+        "monday": "7 AM–10 PM"
+      },
+      "phone": "+62 711 350000",
+      "website": "http://www.somacitywalk.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Arcade games"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)",
+            "Playground"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrx4YIRMkJcKAn6PqW7lce_rUItTjZm0ZbWcZNJykgND3_W5otvNFD63cTpTJW3RI61y0vDblpa-TXWJ_UwCcmgB5au7cLX32RlDRb-dJ0PgLBnYRVmeRFBqc0z8qVo-Av09DIWjg=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tMH9W3icBcFRboIwGADgE1UqVRwmewAbE6oS06BVXoj8NiVSWqAVpxfcGXabfd_fb-N979ZBoBsyU9YqLZ9OjmCNl8bPwHaB6h0Ch1yQbOJmYcafxTXjh5bBLjHRcRArDbIaT5kvHmWHy1pAmbN3q3JKKrG0fsq3NCJQ9AUThGfR_I0nWuv-hoqLYNXptYFOpcvbcwX7Cwm5prxGd4aPap-aKz93km_TAfDnazhblEw4ppl4qO_XPAxRE4eoRcb-A0c5RHI"
+    },
+    {
+      "position": 14,
+      "title": "Fikri Koleksi",
+      "place_id": "ChIJHUTfTwCeOy4R-JPKYDtzs84",
+      "data_id": "0x2e3b9e004fdf441d:0xceb3733b60ca93f8",
+      "data_cid": "14894375091508515832",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b9e004fdf441d%3A0xceb3733b60ca93f8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b9e004fdf441d%3A0xceb3733b60ca93f8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9975921999999997,
+        "longitude": 104.74973059999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHUTfTwCeOy4R-JPKYDtzs84",
+      "provider_id": "/g/1hm4g6s7l",
+      "rating": 4.5,
+      "reviews": 206,
+      "unclaimed_listing": true,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center"
+      ],
+      "address": "Jl. Ki Rangga Wirasantika Wirosentiko No.500, 30 Ilir, Ilir Barat II, Palembang City, South Sumatra 30129, Indonesia",
+      "open_state": "Open ⋅ Closes 9 PM",
+      "hours": "Open ⋅ Closes 9 PM",
+      "operating_hours": {
+        "tuesday": "7 AM–9 PM",
+        "wednesday": "7 AM–9 PM",
+        "thursday": "7 AM–9 PM",
+        "friday": "7 AM–9 PM",
+        "saturday": "7 AM–9 PM",
+        "sunday": "7 AM–9 PM",
+        "monday": "7 AM–9 PM"
+      },
+      "phone": "+62 711 379590",
+      "extensions": [
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nouiRUggixEpotGyWNqepezxM1smOzahTRdf2zAbYejbr2FuZSL3oK9HQyMcMoIWazpwDKVBUY7pamiwnJRjyKbbNxEiezbic32bcZFlMjblRmBaoNk8LlyeSkH8i7_tbbuQFw=w80-h106-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/CqYTT3icBcHRboIwFADQL6oomIlL9qBTpkNYRJ3Rl4Xb1bZQejtbAvT7_In9jef8P4Rzxr4GgRLRiCNyxVrL7hS1Y9qNKDYBN5ZQS2yweJ-LqcZWFifOZb826D6Gc_7HDPN9NrHNly_Fsfi9hX4BF1bBPUza62EXYTrf7IeMZrg9l950q_R7ebrMTNnITn8W1ZAC5P1aMg-SRiHQa6KyClTRLEvM63inBnaoN7Gc_TiAdp90b108JmIyfiE10fgE0qdHxA"
+    },
+    {
+      "position": 15,
+      "title": "Lorong Basah",
+      "place_id": "ChIJ0-oE8t93Oy4RaGS19ne_r3Y",
+      "data_id": "0x2e3b77dff204ead3:0x76afbf77f6b56468",
+      "data_cid": "8552264739360957544",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b77dff204ead3%3A0x76afbf77f6b56468&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b77dff204ead3%3A0x76afbf77f6b56468&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9874405,
+        "longitude": 104.7624347
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0-oE8t93Oy4RaGS19ne_r3Y",
+      "provider_id": "/g/11f5_jsmvt",
+      "rating": 4.4,
+      "reviews": 219,
+      "unclaimed_listing": true,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center"
+      ],
+      "address": "2Q76+2XF, 16 Ilir, Kec. Ilir Tim. I, Kota Palembang, Sumatera Selatan 30111, Indonesia",
+      "open_state": "Closes soon ⋅ 5 PM ⋅ Opens 9 AM Wed",
+      "hours": "Closes soon ⋅ 5 PM ⋅ Opens 9 AM Wed",
+      "operating_hours": {
+        "tuesday": "9 AM–5 PM",
+        "wednesday": "9 AM–5 PM",
+        "thursday": "9 AM–5 PM",
+        "friday": "9 AM–5 PM",
+        "saturday": "9 AM–5 PM",
+        "sunday": "9 AM–5 PM",
+        "monday": "9 AM–5 PM"
+      },
+      "phone": "+62 852-1824-6242",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr1dpW6MXv26TeWZGWYZj5ZK-gK5DXihgNL1BHDEGvRTLyiEWx1THZzD_kCQSP1B1oNgtUuX_VN04LeDdlSuHUC5AtV9qfY39lZb8VxE2bBh_J53hHyUeyhXyDEPtbcChk7JvcR=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/rwsp1XicBcHdboIwGADQJ6pYEBxLvBBKIMqIU_7sDQml9nMwymxB2fv5EL6N57yeoPWgPg2jA2shpBQdHxW_Mdlr3usFk7-GGBRiCilj67uw6m-4GQrnq5xMJ-UFDYsz_bHpHom9TcoriCTGXkSCcDqm8XwNigdOI_pPqtb_Ph2wh2UidDaWVZ4sVzEnTXcao8y3tzp3_y5ny-1o_ZE_ArP2oNrZFkRzxmcoZxIcdM18aNe7iR03d-xYCFwTtaiXb1GgQ44"
+    },
+    {
+      "position": 16,
+      "title": "Palembang Bird Park",
+      "place_id": "ChIJUaOjZVKcOy4RXh7IrQSx8fk",
+      "data_id": "0x2e3b9c5265a3a351:0xf9f1b104adc81e5e",
+      "data_cid": "18010371018484883038",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b9c5265a3a351%3A0xf9f1b104adc81e5e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b9c5265a3a351%3A0xf9f1b104adc81e5e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -3.0366659,
+        "longitude": 104.78859179999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUaOjZVKcOy4RXh7IrQSx8fk",
+      "provider_id": "/g/11cmsbgzkv",
+      "rating": 4.3,
+      "reviews": 3041,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction",
+        "Amusement park",
+        "Recreation center",
+        "Theme park"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "amusement_park",
+        "recreation_center",
+        "theme_park"
+      ],
+      "address": "Jl. Gubernur H.A. Bastari, Jakabaring, Kawasan Opi Mall, sebelah Waterfun, Sungai Kedukan, Kec. Rambutan, Kota Palembang, Sumatera Selatan 30257, Indonesia",
+      "open_state": "Open ⋅ Closes 6 PM",
+      "hours": "Open ⋅ Closes 6 PM",
+      "operating_hours": {
+        "tuesday": "10 AM–6 PM",
+        "wednesday": "10 AM–6 PM",
+        "thursday": "10 AM–6 PM",
+        "friday": "10 AM–6 PM",
+        "saturday": "10 AM–6 PM",
+        "sunday": "10 AM–6 PM",
+        "monday": "10 AM–6 PM"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Food"
+          ]
+        },
+        {
+          "amenities": [
+            "Restaurant",
+            "Restroom"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Playground"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nopcs-Jnp1ozKqbZfU_-1hzwE_5LB12YGENPoA4tp1Ss-OF5YQZr4nVUqalXrqTdT4TIUKYNOql0IhNu6GSQdBPwO3TWpNZfI5KOdIujxiRQebklPGTIxN9wpHCRbjpu69vMGlzqA=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Q0vypHicDcdLcoIwAADQE0Ua-czgTBfoUEzRABqqsHHkI6nGfEgoDhf0DN7Gvt17PakxUi8si1F71gnRsXbQbV8LblpuZrW4W53UoNZAW8HKpw4X8j_fXEIxxaoqL_kJQDqN4cndLOG8iEKcisAxEu41SL7cIit7h__k6syOvSINcQjK4wInin0gigcv2mfNMh0TmxwkLi_IjZMGDdfH7y5rqxtLI4Ie2B_lerWrrnLw_L9txCYVfI7QswH15-AGuHgDYD9Fnw"
+    },
+    {
+      "position": 17,
+      "title": "Puntikayu Amusement Palembang",
+      "place_id": "ChIJaUhwXHl0Oy4RxnAnTekhDgM",
+      "data_id": "0x2e3b74795c704869:0x30e21e94d2770c6",
+      "data_cid": "220150717693259974",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b74795c704869%3A0x30e21e94d2770c6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b74795c704869%3A0x30e21e94d2770c6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9437262,
+        "longitude": 104.7282731
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaUhwXHl0Oy4RxnAnTekhDgM",
+      "provider_id": "/g/122d8c2g",
+      "rating": 4.2,
+      "reviews": 7868,
+      "unclaimed_listing": true,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction",
+        "Park"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "park"
+      ],
+      "address": "Jl. Kolonel H. Barlian, Srijaya, Alang-Alang Lebar, Palembang City, South Sumatra 30151, Indonesia",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "tuesday": "Open 24 hours",
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours"
+      },
+      "phone": "+62 711 410666",
+      "description": "Forested nature park with family fun. Wooded site with rides & wildlife, replicas of major wonders of the world & whimsical installations.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Good for kids birthday"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no67BzfF1rg062AYQtf8s9Ui55TN6jcKmUV7t-s72Zv2veC7DmH6oUHpkDZiqUJFlvpPPNyPUOd1D10j3Jipb9zgYK4yiIXTdM2sHuj8fpbDKWZ0-JMsRU6IM7wUMyVDEWUYCKZlg=w92-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tIsM23icDcPxEoEwHADgJ5pqtMmdP2hc6iLOUH-WWqXa-E0uD-gdvA3f3ff9lFormBlGU45HQkrR5E_IH5nsdN7pUSZbQyhAGSAwFq5TTjpJ6PJdrK2HMAlexHtdTMHhlW0ft6TOgpafqEZAcdLjPncpaz0iuaduLKnu3F83vYqi7RDx3dVillmP_UqlzlvEwWSoNpfjNcTgPetpoVIWnBMT-SEcONmE9MXD4cRWZx67QdKI-cvBqPy_oU7-AIMvQ5U"
+    },
+    {
+      "position": 18,
+      "title": "Palembang Fountain Circle",
+      "place_id": "ChIJN5LIBgV2Oy4R9J3hs9Nl88w",
+      "data_id": "0x2e3b760506c89237:0xccf365d3b3e19df4",
+      "data_cid": "14768259563008400884",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b760506c89237%3A0xccf365d3b3e19df4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b760506c89237%3A0xccf365d3b3e19df4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9880621,
+        "longitude": 104.7610344
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJN5LIBgV2Oy4R9J3hs9Nl88w",
+      "provider_id": "/g/11b7llz2c9",
+      "rating": 4.6,
+      "reviews": 1613,
+      "unclaimed_listing": true,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "16 Ilir, Ilir Timur I, Palembang City, South Sumatra 30111, Indonesia",
+      "open_state": "Open now",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npX8Ak0_KRgiI_BYdI3DpQ7GcgzSgna9zr1zwCcHWSgcNcQvX858K0XO0XfLZyhzHDaj8Gh8Bm_NI54lJXcMRXN06Pb4khrrVSLNNxuEXjlu43vFYkZrxR30AvkmUDnplCDl5tSlg=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Aq_r6nicBcHhcoIgAADgJyJpaMPd7YfpVlZjS28b9cdrzEGBwAFa-YI9Q2-z77vfRAjWP0WREmjCjeGq7X3rmNGh1WHCTBdx6wHzwEdZnopYW4ozCZt1xY9lM9_9lqiw28cF42PN9SEd3XQ852z5XXNG2HagOMFrSN8h_dvsr2JcFocTXgg87xpSJrFaUfZWUQJnHz-xFM591RtCLv0LPak-RsPrTu7dpUIwG2T3WWir8kIloVb8-TydISDSByCBNv88qkVI"
+    },
+    {
+      "position": 19,
+      "title": "Taman Purbakala Kerajaan Sriwijaya",
+      "place_id": "ChIJUbOermyeOy4RnlaKDk5e94M",
+      "data_id": "0x2e3b9e6cae9eb351:0x83f75e4e0e8a569e",
+      "data_cid": "9509172827560498846",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b9e6cae9eb351%3A0x83f75e4e0e8a569e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b9e6cae9eb351%3A0x83f75e4e0e8a569e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -3.0150322,
+        "longitude": 104.7344182
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUbOermyeOy4RnlaKDk5e94M",
+      "provider_id": "/m/0hndjtq",
+      "rating": 4.4,
+      "reviews": 3436,
+      "unclaimed_listing": true,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction",
+        "Archaeological site",
+        "Archaeological museum"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "archaeological_site",
+        "archaeological_museum"
+      ],
+      "address": "XPMM+XQM, Jl. Syakyakirti, Karang Anyar, Gandus, Palembang City, South Sumatra, Indonesia",
+      "open_state": "Open ⋅ Closes 6 PM",
+      "hours": "Open ⋅ Closes 6 PM",
+      "operating_hours": {
+        "tuesday": "8 AM–6 PM",
+        "wednesday": "8 AM–6 PM",
+        "thursday": "8 AM–6 PM",
+        "friday": "8 AM–6 PM",
+        "saturday": "8 AM–6 PM",
+        "sunday": "8 AM–6 PM",
+        "monday": "8 AM–6 PM"
+      },
+      "description": "Artifacts from the Srivajaya empire. Archaeological site with the remains of ancient canals & a museum displaying ceramics & statues.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurant"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nocuNYTZDMJWyzgaVYtG5aLXBXAWYMwX4wDQXTZVSYHt8NrMgkbmH_V6sJH1dYoCv9zyP1FWe9yyblyPUrnJkuFzaxYMkeO0LaaV4igZEhc9ZCPJRmfR8Ra5v5gtRtF4MmRaKBF=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/KyhPLXicBcFRToMwAADQE3UIgqEmfmwgI7hO7CZQfpZSa2uAdqFlWO7nIXYb37v_SWuv5tnzBvm4EVqLgc-GT0wry5XdMD164moAM8B42wTKUGk2H8m5TVFRu1XQith9RA_NrtnWBC1NuKQfzbmtTiS38XFCou_G_FI9mSL3v4hObnB1pZ_VHDrXDa78nFTRz9lKfwnq-fvDgdIq_BHtq2SwTcoCj984xjS6RcJim4VoxPRtl70sfhAACQPQA6X_ATrHRYk"
+    },
+    {
+      "position": 20,
+      "title": "Plaza 16 Ilir",
+      "place_id": "ChIJ6cC4Gut3Oy4R1BK-73A2MQI",
+      "data_id": "0x2e3b77eb1ab8c0e9:0x2313670efbe12d4",
+      "data_cid": "157967320621126356",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2e3b77eb1ab8c0e9%3A0x2313670efbe12d4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2e3b77eb1ab8c0e9%3A0x2313670efbe12d4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": -2.9897345,
+        "longitude": 104.76410519999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ6cC4Gut3Oy4R1BK-73A2MQI",
+      "provider_id": "/g/11kryn1skr",
+      "rating": 4.6,
+      "reviews": 17,
+      "unclaimed_listing": true,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "Jl. Ps. Baru No.208, 16 Ilir, Ilir Timur I, Palembang City, South Sumatra 30122, Indonesia",
+      "extensions": [
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nov5N0q_Kz1h0EsW9mLVTaqghtsKj44Nvb6fRuiR-utH5AVQWlC-OsmpoW_gGJTUPya_wDMZsRXizRFZV0TGkwT7xtk2VsOlS6hGEh44ROwMSVl__4c4lMAFzj97jCsdkiHDTRQ=w80-h106-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/eUWrKnicBcFRboIwGADgE1XqrDhMfCCoGBXRWsviS-MYa4FC0b-Icj8P4W38vvdLWdvA1HG0Gg2kMVJnLWS31NQ2q-0gNZUjG0ApIHD8wFOkNvfxDl_Fph8qvIDEq7acXa5SWdgUhOzuv-4_bXOKWrsa-_yQ6ADFUDUmETJcs9P-eRHdPDoD_cl7ujxzzMKyY5OHLb84xProqnChCKFxFx25FoKkREf-si-8SRHAX5mv5oweZt03RmqIXVSi2nwADxJFEw"
+    }
+  ]
+}

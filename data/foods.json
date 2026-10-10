@@ -1,0 +1,184 @@
+{
+  "foods": [
+    {
+      "food": "Nasi Goreng",
+      "image": "https://takestwoeggs.com/wp-content/uploads/2025/03/Overhead-plate-Nasi-Goreng-Indonesian-Fried-Rice.jpg",
+      "image_uri": "https://takestwoeggs.com/wp-content/uploads/2025/03/Overhead-plate-Nasi-Goreng-Indonesian-Fried-Rice.jpg",
+      "title": "Nasi Goreng (Indonesian Fried Rice)",
+      "category": "image",
+      "media_available_time": null,
+      "media_duration": null
+    },
+    {
+      "food": "Rendang",
+      "image": "https://thegourmandiseschool.com/wp-content/uploads/2025/05/rendang-spicy-and-tender-indonesian-beef-bowl_59519610.jpg",
+      "image_uri": "https://thegourmandiseschool.com/wp-content/uploads/2025/05/rendang-spicy-and-tender-indonesian-beef-bowl_59519610.jpg",
+      "title": "Rendang",
+      "category": "image",
+      "media_available_time": null,
+      "media_duration": null
+    },
+    {
+      "food": "Sate",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Sate_Ponorogo.jpg",
+      "image_uri": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Sate_Ponorogo.jpg",
+      "title": "Satay - Wikipedia",
+      "category": "image",
+      "media_available_time": null,
+      "media_duration": null
+    },
+    {
+      "food": "Gado-gado",
+      "image": "https://www.recipetineats.com/tachyon/2020/06/Indonesian-Gado-Gado-SQ.jpg",
+      "image_uri": "https://www.recipetineats.com/tachyon/2020/06/Indonesian-Gado-Gado-SQ.jpg",
+      "title": "Gado Gado (Indonesian Salad with Peanut Sauce)",
+      "category": "image",
+      "media_available_time": null,
+      "media_duration": null
+    },
+    {
+      "food": "Bakso",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bakso_mi_bihun.jpg/250px-Bakso_mi_bihun.jpg",
+      "image_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bakso_mi_bihun.jpg/250px-Bakso_mi_bihun.jpg",
+      "title": "Bakso - Wikipedia",
+      "category": "image",
+      "media_available_time": null,
+      "media_duration": null
+    },
+    {
+      "food": "Soto",
+      "image": "https://glebekitchen.com/wp-content/uploads/2019/11/sotoayamtopbowl.jpg",
+      "image_uri": "https://glebekitchen.com/wp-content/uploads/2019/11/sotoayamtopbowl.jpg",
+      "title": "soto ayam - Indonesian chicken noodle soup",
+      "category": "image",
+      "media_available_time": null,
+      "media_duration": null
+    },
+    {
+      "food": "Nasi Uduk",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Nasi_uduk_netherlands.jpg",
+      "image_uri": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Nasi_uduk_netherlands.jpg",
+      "title": "Nasi uduk - Wikipedia",
+      "category": "image",
+      "media_available_time": null,
+      "media_duration": null
+    },
+    {
+      "food": "Nasi Padang",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nasi_Padang_Pak_Nurdin.jpg/1200px-Nasi_Padang_Pak_Nurdin.jpg",
+      "image_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nasi_Padang_Pak_Nurdin.jpg/1200px-Nasi_Padang_Pak_Nurdin.jpg",
+      "title": "Nasi padang - Wikipedia",
+      "category": "image",
+      "media_available_time": null,
+      "media_duration": null
+    },
+    {
+      "food": "Pempek",
+      "image": "https://whattocooktoday.com/wp-content/uploads/2024/05/pempek-dos-1-1.jpg",
+      "image_uri": "https://whattocooktoday.com/wp-content/uploads/2024/05/pempek-dos-1-1.jpg",
+      "title": "Pempek Dos (Economical Indonesian Fish Cake)",
+      "category": "image",
+      "media_available_time": null,
+      "media_duration": null
+    },
+    {
+      "food": "Nasi Campur",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Plate_of_nasi_campur_%28Mandarin_Oriental_Hotel_Mahapahit%2C_Surabaya%2C_Indonesia%29.png",
+      "image_uri": "https://upload.wikimedia.org/wikipedia/commons/2/25/Plate_of_nasi_campur_%28Mandarin_Oriental_Hotel_Mahapahit%2C_Surabaya%2C_Indonesia%29.png",
+      "title": "Nasi campur - Wikipedia",
+      "category": "image",
+      "media_available_time": null,
+      "media_duration": null
+    },
+    {
+      "food": "Ayam Goreng",
+      "image": "https://tasteofnusa.com/wp-content/uploads/2021/08/ayam-ungkep-32.jpg",
+      "image_uri": "https://tasteofnusa.com/wp-content/uploads/2021/08/ayam-ungkep-32.jpg",
+      "title": "Ayam Goreng Ungkep (Indonesian Fried Chicken)",
+      "category": "image",
+      "media_available_time": null,
+      "media_duration": null
+    },
+    {
+      "food": "Mie Goreng",
+      "image": "https://static01.nyt.com/images/2024/11/21/multimedia/ML-Mie-Goreng-Mee-Goreng-Indonesian-Fried-Noodlesrex-mvhk/ML-Mie-Goreng-Mee-Goreng-Indonesian-Fried-Noodlesrex-mvhk-videoSixteenByNineJumbo1600.jpg",
+      "image_uri": "https://static01.nyt.com/images/2024/11/21/multimedia/ML-Mie-Goreng-Mee-Goreng-Indonesian-Fried-Noodlesrex-mvhk/ML-Mie-Goreng-Mee-Goreng-Indonesian-Fried-Noodlesrex-mvhk-videoSixteenByNineJumbo1600.jpg",
+      "title": "Mie Goreng",
+      "category": "image",
+      "media_available_time": null,
+      "media_duration": null
+    },
+    {
+      "food": "Martabak",
+      "image": "https://tarasmulticulturaltable.com/wp-content/uploads/2013/09/Martabak-Telur-Javanese-Savory-Stuffed-Pancakes-8-of-9.jpg",
+      "image_uri": "https://tarasmulticulturaltable.com/wp-content/uploads/2013/09/Martabak-Telur-Javanese-Savory-Stuffed-Pancakes-8-of-9.jpg",
+      "title": "Martabak Telur (Javanese Savory Stuffed Pancakes)",
+      "category": "image",
+      "media_available_time": null,
+      "media_duration": null
+    },
+    {
+      "food": "Sop Buntut",
+      "image": "https://soyummyrecipes.com/wp-content/uploads/2021/11/Sop-Buntut.jpg",
+      "image_uri": "https://soyummyrecipes.com/wp-content/uploads/2021/11/Sop-Buntut.jpg",
+      "title": "Sop Buntut: Indonesian Oxtail Soup",
+      "category": "image",
+      "media_available_time": null,
+      "media_duration": null
+    },
+    {
+      "food": "Pecel",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sego_Pecel.jpg/250px-Sego_Pecel.jpg",
+      "image_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sego_Pecel.jpg/250px-Sego_Pecel.jpg",
+      "title": "Nasi pecel - Wikipedia",
+      "category": "image",
+      "media_available_time": null,
+      "media_duration": null
+    },
+    {
+      "food": "Rawon",
+      "image": "https://delishglobe.com/wp-content/uploads/2025/07/Rawon-Black-Beef-Soup.png",
+      "image_uri": "https://delishglobe.com/wp-content/uploads/2025/07/Rawon-Black-Beef-Soup.png",
+      "title": "Indonesian Rawon (Black Beef Soup)",
+      "category": "image",
+      "media_available_time": null,
+      "media_duration": null
+    },
+    {
+      "food": "Bika Ambon",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kue_bika_ambon.JPG/1200px-Kue_bika_ambon.JPG",
+      "image_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kue_bika_ambon.JPG/1200px-Kue_bika_ambon.JPG",
+      "title": "Bika ambon - Wikipedia",
+      "category": "image",
+      "media_available_time": null,
+      "media_duration": null
+    },
+    {
+      "food": "Gudeg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nasi_Gudeg.jpg",
+      "image_uri": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nasi_Gudeg.jpg",
+      "title": "Gudeg - Wikipedia",
+      "category": "image",
+      "media_available_time": null,
+      "media_duration": null
+    },
+    {
+      "food": "Tahu Goreng",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Indonesia_Tahu_goreng.JPG",
+      "image_uri": "https://upload.wikimedia.org/wikipedia/commons/7/71/Indonesia_Tahu_goreng.JPG",
+      "title": "Tahu goreng - Wikipedia",
+      "category": "image",
+      "media_available_time": null,
+      "media_duration": null
+    },
+    {
+      "food": "Es Cendol",
+      "image": "https://www.safarfriendly.com/wp-content/uploads/2025/02/640d6eac51567.jpg",
+      "image_uri": "https://www.safarfriendly.com/wp-content/uploads/2025/02/640d6eac51567.jpg",
+      "title": "Cendol Iced Recipe: A Sweet & Refreshing Treat for Iftar - Safar Friendly",
+      "category": "image",
+      "media_available_time": null,
+      "media_duration": null
+    }
+  ]
+}

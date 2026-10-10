@@ -1,0 +1,2638 @@
+{
+    "search_metadata": {
+        "id": "68db8a97ab28c6272c7e6704",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/89b787fd4eb40de8/68db8a97ab28c6272c7e6704.json",
+        "created_at": "2025-09-30 07:45:27 UTC",
+        "processed_at": "2025-09-30 07:45:27 UTC",
+        "google_maps_url": "https://www.google.com/maps/search/Wisata+kuliner+Kota+Padang?hl=en",
+        "raw_html_file": "https://serpapi.com/searches/89b787fd4eb40de8/68db8a97ab28c6272c7e6704.html",
+        "total_time_taken": 1.15
+    },
+    "search_parameters": {
+        "engine": "google_maps",
+        "type": "search",
+        "q": "Wisata kuliner Kota Padang",
+        "google_domain": "google.com",
+        "hl": "en"
+    },
+    "search_information": {
+        "local_results_state": "Results for exact spelling",
+        "query_displayed": "Wisata kuliner Kota Padang"
+    },
+    "local_results": [
+        {
+            "position": 1,
+            "title": "Kawasan Wisata Kuliner Pantai Padang",
+            "place_id": "ChIJw58aoSy51C8ROMwWzQJoTy4",
+            "data_cid": "3337000210144873528",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b92ca11a9fc3%3A0x2e4f6802cd16cc38&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9325277,
+                "longitude": 100.3506929
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJw58aoSy51C8ROMwWzQJoTy4",
+            "provider_id": "/g/11cm_66c5n",
+            "rating": 4.4,
+            "reviews": 542,
+            "type": "Public beach",
+            "types": [
+                "Public beach"
+            ],
+            "type_id": "public_beach",
+            "type_ids": [
+                "public_beach"
+            ],
+            "address": "3982+X7P, Purus, Padang Barat, Padang City, West Sumatra 25115, Indonesia",
+            "open_state": "Open ⋅ Closes 11 PM",
+            "hours": "Open ⋅ Closes 11 PM",
+            "operating_hours": {
+                "tuesday": "8 AM–11 PM",
+                "wednesday": "8 AM–11 PM",
+                "thursday": "8 AM–11 PM",
+                "friday": "8 AM–11 PM",
+                "saturday": "8 AM–11 PM",
+                "sunday": "8 AM–11 PM",
+                "monday": "8 AM–11 PM"
+            },
+            "extensions": [
+                {
+                    "highlights": [
+                        "Picnics"
+                    ]
+                },
+                {
+                    "payments": [
+                        "Cash-only"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noKJXWvaCIkPifb58TGxbMbpmHAphG1TxBX19klUrpU7Qxw1bTnJ1_M-sfTQyrLYhGFczFSUCFJq0y2QpJE4Vc3aBTHvmY8wIKB-nur2BXccMqX06U2Se2Rn5tZmQnGOg1bhSgc=w80-h106-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/57cLenicBcHbDoIgAADQLyLFbtbWQ7q85srEsl5aMIWmAgml9X99RH_TOb8v01qqpWE0bDyiQtCmfKqyI4LrkusREa1BpQJEAWWs3QWbcBFHxel1c8N6f6_w1Eb-gBMs22AtmQ_R4BRwUTd5J_N5OvQQIx7BawJUhdJ3tz0z3yMfL8tdL3qYbyuV0WZyJOObg4JXe7b7MHYAf3aWUxCSPApzlltZaR34VF_alPs7CjHLKFn1tgkYNGegBlz8Ac-BRD0"
+        },
+        {
+            "position": 2,
+            "title": "RM Lamun Ombak - Khatib Sulaiman",
+            "place_id": "ChIJ9X1ujQu51C8RxC-PLfLGD_I",
+            "data_cid": "17442378625277964228",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b90b8d6e7df5%3A0xf20fc6f22d8f2fc4&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9085886999999999,
+                "longitude": 100.3533727
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9X1ujQu51C8RxC-PLfLGD_I",
+            "provider_id": "/g/11gdmf4kt2",
+            "rating": 4.6,
+            "reviews": 6741,
+            "price": "Rp 25–50K",
+            "type": "Padang restaurant",
+            "types": [
+                "Padang restaurant",
+                "Brunch restaurant",
+                "Restaurant"
+            ],
+            "type_id": "padang_restaurant",
+            "type_ids": [
+                "padang_restaurant",
+                "brunch_restaurant",
+                "restaurant"
+            ],
+            "address": "38RX+3V2, Jl. Khatib Sulaiman No.99, South Ulak Karang, Padang Utara, Padang City, West Sumatra, Indonesia",
+            "open_state": "Open ⋅ Closes 9:30 PM",
+            "hours": "Open ⋅ Closes 9:30 PM",
+            "operating_hours": {
+                "tuesday": "7:30 AM–9:30 PM",
+                "wednesday": "7:30 AM–9:30 PM",
+                "thursday": "7:30 AM–9:30 PM",
+                "friday": "7:30 AM–12 PM, 2–9:30 PM",
+                "saturday": "7:30 AM–9:30 PM",
+                "sunday": "7:30 AM–9:30 PM",
+                "monday": "7:30 AM–9:30 PM"
+            },
+            "phone": "+62 813-7453-3335",
+            "extensions": [
+                {
+                    "service_options": [
+                        "Outdoor seating",
+                        "No-contact delivery",
+                        "Delivery",
+                        "Takeout",
+                        "Dine-in"
+                    ]
+                },
+                {
+                    "highlights": [
+                        "Great coffee",
+                        "Great dessert",
+                        "Great tea selection"
+                    ]
+                },
+                {
+                    "popular_for": [
+                        "Lunch",
+                        "Dinner",
+                        "Solo dining"
+                    ]
+                },
+                {
+                    "accessibility": [
+                        "Wheelchair accessible restroom",
+                        "Wheelchair accessible seating"
+                    ]
+                },
+                {
+                    "offerings": [
+                        "Coffee",
+                        "Halal food",
+                        "Private dining room",
+                        "Quick bite"
+                    ]
+                },
+                {
+                    "dining_options": [
+                        "Breakfast",
+                        "Brunch",
+                        "Lunch",
+                        "Dinner",
+                        "Catering",
+                        "Dessert",
+                        "Seating",
+                        "Table service"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                },
+                {
+                    "atmosphere": [
+                        "Casual",
+                        "Cozy",
+                        "Quiet",
+                        "Trendy"
+                    ]
+                },
+                {
+                    "crowd": [
+                        "College students",
+                        "Groups",
+                        "Tourists"
+                    ]
+                },
+                {
+                    "planning": [
+                        "Accepts reservations"
+                    ]
+                },
+                {
+                    "payments": [
+                        "Credit cards",
+                        "Debit cards",
+                        "NFC mobile payments"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids",
+                        "High chairs",
+                        "Kids' menu"
+                    ]
+                },
+                {
+                    "parking": [
+                        "Free parking lot",
+                        "Free street parking",
+                        "Paid parking lot",
+                        "Paid street parking",
+                        "Usually plenty of parking"
+                    ]
+                }
+            ],
+            "service_options": {
+                "dine_in": true,
+                "takeout": true,
+                "no_contact_delivery": true
+            },
+            "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11gdmf4kt2&g2lbs=AO8LyOInOElAGmj7fvvNSBvl2ydNOOYpcCkktxR9Ed46TjygwFNFqeM-FEDKKssA9ou0J6JWUYaedGfsMnzXo8gEkCXN-pHpSOo8ee1k9NPXRbPmGfPiE14%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=l4rbaKeUJtPbkPIPqrremAs&ei=l4rbaKeUJtPbkPIPqrremAs&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqyGABDYv76D17RclFrU81uSERrOZuiOczpLUGfFpWd4g22SdGeyjEwpwCvpH6sQnjCy8k7MDvEHAxgW9DQRAks6WXAhzKSkjUe1mnfgw1ZgnbBaf7MJfNKAv10HFd7LSZwUjfvqw=w194-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/ctKWmXicBcHbboIwAADQL6pYRqgs2UPlmqkzQggbb7P0MsC2UmiHP7hv8G92zvNPzLM2r543ipcNV4qPdDF0IkrOVM4bom4e1wYQA4yH40gE8r7meJ98WRQmEJVkzKZ6B5cqLadzu_ycyUMf65xluukC7vtVl9O1T512sdVFaC6yj9fdgE6JTQv8y5souZR4MGHzicXjUA19TeFNMu5gy-V1_83Q6Z19HLCF2yLr0LFqXd0ze3dvDkYBEJEPBiDVP2rSRdE"
+        },
+        {
+            "position": 3,
+            "title": "Es Durian Ganti Nan Lamo",
+            "place_id": "ChIJVVzUQFe51C8R3jdz63Zpx5A",
+            "data_cid": "10432423021304297438",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b95740d45c55%3A0x90c76976eb7337de&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.959179,
+                "longitude": 100.3609839
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVVzUQFe51C8R3jdz63Zpx5A",
+            "provider_id": "/g/1ptwlkdpy",
+            "rating": 4.4,
+            "reviews": 3438,
+            "price": "Rp 25–50K",
+            "unclaimed_listing": true,
+            "type": "Dessert restaurant",
+            "types": [
+                "Dessert restaurant",
+                "Cafe",
+                "Ice cream shop",
+                "Indonesian restaurant",
+                "Restaurant"
+            ],
+            "type_id": "dessert_restaurant",
+            "type_ids": [
+                "dessert_restaurant",
+                "cafe",
+                "ice_cream_shop",
+                "indonesian_restaurant",
+                "restaurant"
+            ],
+            "address": "Jl. Hos. Cokroaminoto No.31B, Kampung Pondok, Padang Barat, Padang City, West Sumatra, Indonesia",
+            "open_state": "Open ⋅ Closes 10 PM",
+            "hours": "Open ⋅ Closes 10 PM",
+            "operating_hours": {
+                "tuesday": "10 AM–10 PM",
+                "wednesday": "10 AM–10 PM",
+                "thursday": "10 AM–10 PM",
+                "friday": "10 AM–10 PM",
+                "saturday": "10 AM–10 PM",
+                "sunday": "10 AM–10 PM",
+                "monday": "10 AM–10 PM"
+            },
+            "phone": "+62 751 26203",
+            "website": "https://esduriangantinanlamo.shop/",
+            "description": "Trendy veteran for durian ice & satay. Fashionable throwback for a variety of durian ice flavors, satay & classic local food.",
+            "extensions": [
+                {
+                    "service_options": [
+                        "Outdoor seating",
+                        "Takeout",
+                        "Dine-in"
+                    ]
+                },
+                {
+                    "highlights": [
+                        "Great dessert"
+                    ]
+                },
+                {
+                    "popular_for": [
+                        "Lunch",
+                        "Dinner",
+                        "Solo dining"
+                    ]
+                },
+                {
+                    "offerings": [
+                        "Coffee",
+                        "Halal food",
+                        "Quick bite"
+                    ]
+                },
+                {
+                    "dining_options": [
+                        "Brunch",
+                        "Lunch",
+                        "Dinner",
+                        "Dessert",
+                        "Seating",
+                        "Table service"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                },
+                {
+                    "atmosphere": [
+                        "Casual",
+                        "Cozy",
+                        "Quiet",
+                        "Trendy"
+                    ]
+                },
+                {
+                    "crowd": [
+                        "College students",
+                        "Groups",
+                        "Tourists"
+                    ]
+                },
+                {
+                    "planning": [
+                        "Accepts reservations",
+                        "Usually a wait"
+                    ]
+                },
+                {
+                    "payments": [
+                        "Credit cards",
+                        "Debit cards"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids",
+                        "Kids' menu"
+                    ]
+                },
+                {
+                    "parking": [
+                        "Paid parking lot",
+                        "Paid street parking"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot",
+                        "Wheelchair accessible seating"
+                    ]
+                }
+            ],
+            "service_options": {
+                "dine_in": true,
+                "takeout": true
+            },
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqCm6vpq3J4Hp2zHrNQz6GMYAoM1uymPBINONtqCcWAM5Zb7dFxZA2SOr3DzcvF937XpWxZpnDXb5PFYEN4CHQqpzbzclBGdZXh-0ABcS4WpwLfx9WQ9cQM_eCUt0j0n3ZEsBDD=w92-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/OEc20XicDcNRDoIgAADQE5EmVqOtD8TMWlquNY2fNslkpYBCZZyvS3Sbetv7frgxSs8dp-FwVEtZN9VDVz2TwlTCjJhsnVppwDTQDiaI-6Ij7fSpOrjxY-XZuE8zO10lJyyT8ePd7oN1uktNR1iOkwktZ5dooNg77HoYWvaMEJwVKh-oEmFRTvbRaZn6JM46ZUvLmmB1oQUHLg7Ywc_Va3sdUJ4hliXnihyNe3MFpEsdhOHihTzA_-9AyB9VgENw"
+        },
+        {
+            "position": 4,
+            "title": "Es Durian Iko Gantinyo",
+            "place_id": "ChIJu0DWNVe51C8ROg2CfFkRIy0",
+            "data_cid": "3252462431930289466",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b95735d640bb%3A0x2d2311597c820d3a&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9593086,
+                "longitude": 100.3608646
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJu0DWNVe51C8ROg2CfFkRIy0",
+            "provider_id": "/g/1ptxqb3kl",
+            "rating": 4.4,
+            "reviews": 2473,
+            "price": "Rp 25–50K",
+            "type": "Dessert restaurant",
+            "types": [
+                "Dessert restaurant"
+            ],
+            "type_id": "dessert_restaurant",
+            "type_ids": [
+                "dessert_restaurant"
+            ],
+            "address": "Jl. Pulau Karam Dalam No.9, Kp. Pd., Kec. Padang Bar., Kota Padang, Sumatera Barat 25119, Indonesia",
+            "open_state": "Open ⋅ Closes 10 PM",
+            "hours": "Open ⋅ Closes 10 PM",
+            "operating_hours": {
+                "tuesday": "9 AM–10 PM",
+                "wednesday": "9 AM–10 PM",
+                "thursday": "9 AM–10 PM",
+                "friday": "9 AM–10 PM",
+                "saturday": "9 AM–10 PM",
+                "sunday": "9 AM–10 PM",
+                "monday": "9 AM–10 PM"
+            },
+            "phone": "+62 856-1103-785",
+            "extensions": [
+                {
+                    "service_options": [
+                        "Outdoor seating",
+                        "Delivery",
+                        "Takeout",
+                        "Dine-in"
+                    ]
+                },
+                {
+                    "highlights": [
+                        "Great dessert"
+                    ]
+                },
+                {
+                    "popular_for": [
+                        "Lunch",
+                        "Dinner",
+                        "Solo dining"
+                    ]
+                },
+                {
+                    "offerings": [
+                        "Coffee",
+                        "Halal food",
+                        "Quick bite"
+                    ]
+                },
+                {
+                    "dining_options": [
+                        "Brunch",
+                        "Lunch",
+                        "Dinner",
+                        "Dessert",
+                        "Seating",
+                        "Table service"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Gender-neutral restroom",
+                        "Restroom"
+                    ]
+                },
+                {
+                    "atmosphere": [
+                        "Casual",
+                        "Cozy",
+                        "Trendy"
+                    ]
+                },
+                {
+                    "crowd": [
+                        "College students",
+                        "Groups",
+                        "Tourists"
+                    ]
+                },
+                {
+                    "planning": [
+                        "Accepts reservations",
+                        "Usually a wait"
+                    ]
+                },
+                {
+                    "payments": [
+                        "Credit cards",
+                        "Debit cards",
+                        "NFC mobile payments"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids",
+                        "Kids' menu"
+                    ]
+                },
+                {
+                    "parking": [
+                        "Paid parking lot",
+                        "Paid street parking"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "service_options": {
+                "dine_in": true,
+                "takeout": true,
+                "delivery": true
+            },
+            "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/1ptxqb3kl&g2lbs=AO8LyOJR08ddm_MW0zGuUU5yM6xjVdEG5JW1FbVlbow69SIcSqj2ETMP21LchD2PBTY2dJn8kqRSaXk8NaYIPby_YoY4vPACmea5CHg9FHUM61AwJJ8m8kU%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=l4rbaKeUJtPbkPIPqrremAs&ei=l4rbaKeUJtPbkPIPqrremAs&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nobcbAfLCcx7SK9DjN-bujAglj7LTs8gt-_L9ky0IW6lBT6v4WIohHZPFvdKreDbX2ZzSu_XHNVzrWBzfur2nFlpL4X0TfgSwW9a4X8wViOLQ00HddxELHsFB5wA9zM7SOh35pS=w163-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/8zzudHicBcHbDoIgAADQLyJNTaOtBy85W3QbTl0vLVEhI3CCWf5fH9HfdM7vy7Tu1MowOLNnVErK60HVPZFC10LPiHwatFOAKKAMP4TMEbIkpd-gkLw9vINRewDl0PqUtx5K1ZJqcEXw8TG3ucuD1H05-Vay5HKKX9Wur6OysC4THq5FcsimPg-mZugtEfMOOYWZNhSPObw5xXLM7kd0Ns2kqt4blKg4WIw-nPYePjJ70eH1OHdtwKAFHkDIP8zGRCM"
+        },
+        {
+            "position": 5,
+            "title": "ONGKRONGAN TURAGARI (Pak Ayang)",
+            "place_id": "ChIJBfc9TwC51C8R6ydaFq4FKts",
+            "data_cid": "15792441288585521131",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b9004f3df705%3A0xdb2a05ae165a27eb&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9358158999999999,
+                "longitude": 100.3546966
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJBfc9TwC51C8R6ydaFq4FKts",
+            "provider_id": "/g/11y87j_9dp",
+            "rating": 4.4,
+            "reviews": 292,
+            "price": "Rp 1–25,000",
+            "type": "Family restaurant",
+            "types": [
+                "Family restaurant"
+            ],
+            "type_id": "family_restaurant",
+            "type_ids": [
+                "family_restaurant"
+            ],
+            "address": "Jl. Veteran No.66, Padang Pasir, Kec. Padang Bar., Kota Padang, Sumatera Barat 25115, Indonesia",
+            "open_state": "Closed ⋅ Opens 7 PM",
+            "hours": "Closed ⋅ Opens 7 PM",
+            "operating_hours": {
+                "tuesday": "7 PM–1 AM",
+                "wednesday": "7 PM–1 AM",
+                "thursday": "7 PM–1 AM",
+                "friday": "7 PM–1 AM",
+                "saturday": "7 PM–1:15 AM",
+                "sunday": "Closed",
+                "monday": "7 PM–1 AM"
+            },
+            "phone": "+62 823-8949-1555",
+            "extensions": [
+                {
+                    "service_options": [
+                        "Takeout",
+                        "Dine-in"
+                    ]
+                },
+                {
+                    "highlights": [
+                        "Great tea selection"
+                    ]
+                },
+                {
+                    "popular_for": [
+                        "Lunch",
+                        "Dinner",
+                        "Solo dining"
+                    ]
+                },
+                {
+                    "offerings": [
+                        "Coffee",
+                        "Halal food",
+                        "Late-night food",
+                        "Quick bite"
+                    ]
+                },
+                {
+                    "dining_options": [
+                        "Breakfast",
+                        "Lunch",
+                        "Dinner",
+                        "Table service"
+                    ]
+                },
+                {
+                    "atmosphere": [
+                        "Casual",
+                        "Cozy"
+                    ]
+                },
+                {
+                    "crowd": [
+                        "College students",
+                        "Groups",
+                        "Tourists"
+                    ]
+                },
+                {
+                    "planning": [
+                        "Accepts reservations"
+                    ]
+                },
+                {
+                    "payments": [
+                        "Cash-only"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "service_options": {
+                "dine_in": true,
+                "takeout": true
+            },
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqWrw2pOvpvVXBo0NskmxqQ_SdTzlQXISt7wbcy2-XNA12eQQJ9IPef46NaZCstdTdKhFsKInCMZw9HIEuna-mkQJAsMoN-aejpEcc8s3RLBfolXejWBL2DNNCUaBp-KFHiqFDKQQ=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/6TViYXicBcFBcoIwFADQE33R6NjSGReAMiCaGlFh3DgYIqlAEvxRrBf0DL1N3_t7S2sNfjlOI8eDSuuqEXcUN66VFcoOuG6dyiBwBHS8wJUT1WW3npjvh3kccl8PKdbts2OntNy9GpbHqf3oz_yXQE69ERGMLd14Iy6TKS2OAdpyVyYyxCRWwfrYu1G8uKsC2potPVxrCoW4mgXnnzjervyLbnJxzfwVmVMa7AvfQBJGP104Txib9SNCQLoEalD6H7s_RV4"
+        },
+        {
+            "position": 6,
+            "title": "Katupek Pitalah Purus 3",
+            "place_id": "ChIJgcHweTK51C8R7j6lQlSr9ak",
+            "data_cid": "12246883140087660270",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b93279f0c181%3A0xa9f5ab5442a53eee&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9380467,
+                "longitude": 100.3522236
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgcHweTK51C8R7j6lQlSr9ak",
+            "provider_id": "/g/11c3k2xgnb",
+            "rating": 4.5,
+            "reviews": 821,
+            "price": "Rp 1–25,000",
+            "unclaimed_listing": true,
+            "type": "Breakfast restaurant",
+            "types": [
+                "Breakfast restaurant"
+            ],
+            "type_id": "breakfast_restaurant",
+            "type_ids": [
+                "breakfast_restaurant"
+            ],
+            "address": "Jl. Purus III No.24, Purus, Padang Barat, Padang City, West Sumatra 25115, Indonesia",
+            "open_state": "Closed ⋅ Opens 6 AM Wed",
+            "hours": "Closed ⋅ Opens 6 AM Wed",
+            "operating_hours": {
+                "tuesday": "6–11 AM",
+                "wednesday": "6–11 AM",
+                "thursday": "6–11 AM",
+                "friday": "6–11 AM",
+                "saturday": "6–11 AM",
+                "sunday": "6–11 AM",
+                "monday": "6–11 AM"
+            },
+            "phone": "+62 852-7488-5886",
+            "extensions": [
+                {
+                    "service_options": [
+                        "No-contact delivery",
+                        "Delivery",
+                        "Takeout",
+                        "Dine-in"
+                    ]
+                },
+                {
+                    "highlights": [
+                        "Great coffee",
+                        "Great tea selection"
+                    ]
+                },
+                {
+                    "popular_for": [
+                        "Breakfast"
+                    ]
+                },
+                {
+                    "offerings": [
+                        "Coffee",
+                        "Halal food",
+                        "Quick bite"
+                    ]
+                },
+                {
+                    "dining_options": [
+                        "Breakfast",
+                        "Table service"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                },
+                {
+                    "atmosphere": [
+                        "Casual",
+                        "Cozy",
+                        "Trendy"
+                    ]
+                },
+                {
+                    "crowd": [
+                        "College students",
+                        "Groups",
+                        "Tourists"
+                    ]
+                },
+                {
+                    "planning": [
+                        "Accepts reservations"
+                    ]
+                },
+                {
+                    "payments": [
+                        "Cash-only"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids",
+                        "Kids' menu"
+                    ]
+                },
+                {
+                    "parking": [
+                        "Paid parking lot",
+                        "Paid street parking",
+                        "Usually plenty of parking"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot",
+                        "Wheelchair accessible seating"
+                    ]
+                }
+            ],
+            "service_options": {
+                "dine_in": true,
+                "takeout": true,
+                "no_contact_delivery": true
+            },
+            "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11c3k2xgnb&g2lbs=AO8LyOLsTUUQponTnbYmUrTalyyv69qg8YmRTzEPlCZQXJVjKhDhfRN9G50dpfXXTtvm7V-T_UIoslgFy3ZyyZeImT_fIadZ6okBAoq0_kC1oBuEqc256Ks%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=l4rbaKeUJtPbkPIPqrremAs&ei=l4rbaKeUJtPbkPIPqrremAs&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqgt-zeSy5aJU74vh7AhM4HU_LR779VmNLrX-8mM3Ddvn9OKYPNHqqd-T9-lRSfnw_H4NPCVDWxDs80FI8ARtt_y9ozfY7C6_9SUgdgBXfiND7UfhX-WZVcYUe_59iUMjOS1Us=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/lATgbXicBcFLDoIwFADAEz1RREtNXCDE4Ac0YBHcNAZKq0Irtn7P5yW8jTO_rzDmqieW1YhhjyvFG3bX7FYqaZg0vVK1Fr9qKDVoy_OxcGTHDXxY-h4dlwQ5D4E8ETkhoesEIZy18fqWg9tGw6B6SLxZFds47LoKdhiaJK3lk4ZOvPWzYP8KtNufL1wvMYa-sfrUBfLHFKeEV3yW16c4QKQWOewPWVkQRkf4RKLzJh0QPX0ObBsEtuECUv0BBmFCuA"
+        },
+        {
+            "position": 7,
+            "title": "Soto Garuda",
+            "place_id": "ChIJEdlsx9K41C8RFDSzsaeN4vE",
+            "data_cid": "17429649259257607188",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b8d2c76cd911%3A0xf1e28da7b1b33414&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9202554,
+                "longitude": 100.3506834
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEdlsx9K41C8RFDSzsaeN4vE",
+            "provider_id": "/g/11byn11wt4",
+            "rating": 4.3,
+            "reviews": 1931,
+            "price": "Rp 25–50K",
+            "type": "Soto restaurant",
+            "types": [
+                "Soto restaurant",
+                "Breakfast restaurant",
+                "Diner",
+                "Soup shop"
+            ],
+            "type_id": "soto_restaurant",
+            "type_ids": [
+                "soto_restaurant",
+                "breakfast_restaurant",
+                "diner",
+                "soup_shop"
+            ],
+            "address": "Jl. S. Parman No.110, Lolong Belanti, Padang Utara, Padang City, West Sumatra 25136, Indonesia",
+            "open_state": "Open ⋅ Closes 9 PM",
+            "hours": "Open ⋅ Closes 9 PM",
+            "operating_hours": {
+                "tuesday": "6:30 AM–9 PM",
+                "wednesday": "6:30 AM–9 PM",
+                "thursday": "6:30 AM–9 PM",
+                "friday": "Closed",
+                "saturday": "7 AM–9 PM",
+                "sunday": "6:30 AM–9 PM",
+                "monday": "6:30 AM–9 PM"
+            },
+            "phone": "+62 751 7051177",
+            "extensions": [
+                {
+                    "service_options": [
+                        "No-contact delivery",
+                        "Delivery",
+                        "Takeout",
+                        "Dine-in"
+                    ]
+                },
+                {
+                    "highlights": [
+                        "Great tea selection"
+                    ]
+                },
+                {
+                    "popular_for": [
+                        "Breakfast",
+                        "Lunch",
+                        "Dinner",
+                        "Solo dining"
+                    ]
+                },
+                {
+                    "offerings": [
+                        "Coffee",
+                        "Halal food",
+                        "Quick bite"
+                    ]
+                },
+                {
+                    "dining_options": [
+                        "Breakfast",
+                        "Lunch",
+                        "Dinner",
+                        "Seating",
+                        "Table service"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restroom",
+                        "Wi-Fi",
+                        "Free Wi-Fi"
+                    ]
+                },
+                {
+                    "atmosphere": [
+                        "Casual",
+                        "Cozy",
+                        "Trendy"
+                    ]
+                },
+                {
+                    "crowd": [
+                        "College students",
+                        "Family-friendly",
+                        "Groups",
+                        "Tourists"
+                    ]
+                },
+                {
+                    "planning": [
+                        "Accepts reservations",
+                        "Usually a wait"
+                    ]
+                },
+                {
+                    "payments": [
+                        "Debit cards"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                },
+                {
+                    "parking": [
+                        "Free parking lot",
+                        "Free street parking",
+                        "Paid parking lot",
+                        "Paid street parking",
+                        "Usually plenty of parking"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot",
+                        "Wheelchair accessible seating"
+                    ]
+                }
+            ],
+            "service_options": {
+                "dine_in": true,
+                "takeout": true,
+                "no_contact_delivery": true
+            },
+            "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11byn11wt4&g2lbs=AO8LyOJ4VBur2b7R80CBS2d9AAFoylXGyL7LcBn_NKHkXCE5NUr74jPIdfSe2nTDm_Xr568FiQQzAe7Io5P2Ju1JkIK4yNgIasZXruy79PoWMQbxq6Pm4KE%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=l4rbaKeUJtPbkPIPqrremAs&ei=l4rbaKeUJtPbkPIPqrremAs&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npfZsEgsZZizZ5mI0ZL17fJn1g-higD7TYRQeyIGFKdaJ2oSbUewpkOIXWYbq4JFaM7buJeCaRJ9Lg3xYF1CDqOZNprdF6_ZncxKbl6dSRkQvJ-pImOzmvB7kTUlZyS5yrN5J4=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/1d8wtXicBcH_EkIwAADgJxoROd31RymdUS5yZf90fszmsC0j6fl6id6m7_t96TAIuVbVli4Vwjlp8ShxX3A2YDYoBe9UIiQoJJDq1rGpwUSF5IFIhOoPMjtvgQLNqiDTCKA12VvXNLrg2Tu6fplBncd5gifRhN79luZPA7rZycpHiJ0sgnZAlu_U1Zz9M0Rn0Zfu6oFY8fbzdlXGUXN5QSC8Lvx0r53VXJMWzbE592cTGptJ03VAbR00gPE_njxEgA"
+        },
+        {
+            "position": 8,
+            "title": "Restoran Kubang Hayuda",
+            "place_id": "ChIJsQ1JqUu51C8RE8crpU69yqY",
+            "data_cid": "12018626701067798291",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b94ba9490db1%3A0xa6cabd4ea52bc713&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9515973,
+                "longitude": 100.356419
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJsQ1JqUu51C8RE8crpU69yqY",
+            "provider_id": "/g/12lspqy0k",
+            "rating": 4.5,
+            "reviews": 2364,
+            "price": "Rp 25–50K",
+            "unclaimed_listing": true,
+            "type": "Murtabak restaurant",
+            "types": [
+                "Murtabak restaurant",
+                "Indonesian restaurant",
+                "Restaurant"
+            ],
+            "type_id": "murtabak_restaurant",
+            "type_ids": [
+                "murtabak_restaurant",
+                "indonesian_restaurant",
+                "restaurant"
+            ],
+            "address": "Jl. Prof. M. Yamin SH No.138B, Belakang Tangsi, Kec. Padang Bar., Kota Padang, Sumatera Barat, Indonesia",
+            "open_state": "Open ⋅ Closes 12 AM",
+            "hours": "Open ⋅ Closes 12 AM",
+            "operating_hours": {
+                "tuesday": "2 PM–12 AM",
+                "wednesday": "2 PM–12 AM",
+                "thursday": "2 PM–12 AM",
+                "friday": "2 PM–12 AM",
+                "saturday": "2 PM–12 AM",
+                "sunday": "2 PM–12 AM",
+                "monday": "2 PM–12 AM"
+            },
+            "phone": "+62 751 28143",
+            "description": "Lively, cash-only spot for street eats. Bustling late-night venue whipping up Indonesian street eats including satay & stuffed pancakes.",
+            "extensions": [
+                {
+                    "service_options": [
+                        "Outdoor seating",
+                        "Takeout",
+                        "Dine-in"
+                    ]
+                },
+                {
+                    "highlights": [
+                        "Great coffee",
+                        "Great tea selection"
+                    ]
+                },
+                {
+                    "popular_for": [
+                        "Lunch",
+                        "Dinner",
+                        "Solo dining"
+                    ]
+                },
+                {
+                    "offerings": [
+                        "Coffee",
+                        "Halal food",
+                        "Late-night food",
+                        "Quick bite"
+                    ]
+                },
+                {
+                    "dining_options": [
+                        "Lunch",
+                        "Dinner",
+                        "Seating",
+                        "Table service"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                },
+                {
+                    "atmosphere": [
+                        "Casual",
+                        "Cozy",
+                        "Trendy"
+                    ]
+                },
+                {
+                    "crowd": [
+                        "College students",
+                        "Groups",
+                        "Tourists"
+                    ]
+                },
+                {
+                    "planning": [
+                        "Accepts reservations",
+                        "Usually a wait"
+                    ]
+                },
+                {
+                    "payments": [
+                        "NFC mobile payments"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids",
+                        "Kids' menu"
+                    ]
+                },
+                {
+                    "parking": [
+                        "Paid parking lot",
+                        "Paid street parking",
+                        "Usually plenty of parking"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot",
+                        "Wheelchair accessible seating"
+                    ]
+                }
+            ],
+            "service_options": {
+                "dine_in": true,
+                "takeout": true
+            },
+            "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/12lspqy0k&g2lbs=AO8LyOLdqWmndDf-SHIIoVi9YS8InF9HJMNNGWH-OVCXYjLu9eVCiqJTSfqNhMULBbuag3G1tqmbTKYHPyV7cN_NoU6p6qs2Fg0KtSezBXsNlTl2Bi3d8Us%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=l4rbaKeUJtPbkPIPqrremAs&ei=l4rbaKeUJtPbkPIPqrremAs&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqWd8yW5RszDzdjH7iE0kZ-wbsR_Ldq-eXPA-sXy7-Tiq41VkXhH8h7esr4Dy6wpmircaDpbYHmHPpaMOcgcc2WlE9xjpUBS0-3h54oFXEpJhb6eBh-d8VV8MgtZAwdA-aZ6ECD=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/0sLAOHicBcFbboJAFADQFV1RRB4m_UChIU1NjVpAfhqYmcxFHjNwp0Hcn4twN57zeqIxmraW1eJ6IZWSrfgnMTLVG9GbBVOdJTUBIyAr3Afo9EPG_TnbnOgRPfgt8ep42RQwVXT6--YDiPwYAuWzB5d6cFZpk2PioydodKLZnXRXj6yMdHVNuuSoy8MPk4zZWRsH95v-3Z2XsMaNoz7zWH9h5YodAvfT1D9IU4QTD6Es3HgffUwr2wYMbGigV2_ugUQi"
+        },
+        {
+            "position": 9,
+            "title": "Simpang Kinol",
+            "place_id": "ChIJdZ3lo1q51C8RnWFAkYVGFRc",
+            "data_cid": "1663313176864776605",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b95aa3e59d75%3A0x171546859140619d&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9576260999999999,
+                "longitude": 100.3615501
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdZ3lo1q51C8RnWFAkYVGFRc",
+            "provider_id": "/g/1hm39xpk_",
+            "rating": 4.5,
+            "reviews": 602,
+            "unclaimed_listing": true,
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction",
+                "Scenic spot"
+            ],
+            "type_id": "tourist_attraction",
+            "type_ids": [
+                "tourist_attraction",
+                "scenic_spot"
+            ],
+            "address": "Jl. Imam Bonjol No.18, Belakang Pd., Kec. Padang Sel., Kota Padang, Sumatera Barat 25134, Indonesia",
+            "open_state": "Opens soon ⋅ 3 PM",
+            "hours": "Opens soon ⋅ 3 PM",
+            "operating_hours": {
+                "tuesday": "3 PM–2 AM",
+                "wednesday": "3 PM–12 AM",
+                "thursday": "3 PM–2 AM",
+                "friday": "3 PM–2 AM",
+                "saturday": "3 PM–2 AM",
+                "sunday": "3 PM–2 AM",
+                "monday": "3 PM–2 AM"
+            },
+            "phone": "+62 821-6121-1612",
+            "website": "http://www.lbsmedia.id/",
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr9ZksAR14cgaW5YUDIbBiiDrWVcsrFjsfLZdDPeQ5p_i1q0BYK72wj0clmmnfDgguJS_mffYh3YSjFQHg4FqEePNcDUAAGvSo7YD-RyYQn1ZcFkr3QxG15azaQW0XgFfOQokKj=w163-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/Cy--j3icBcFZcoIwAADQE0WIQB060w9oGusyLZGhNPw4GLOwJZhArb1fD-FtfO_-r6ZpdM-e16tgIY2RPZ8dt8zoietpwczgydEB5oDzktdYhdrGVeeSAwyZrMuIFmhzSpsG2fKLOYtbJ_bVGWWcROOxgRc_pbvV8tr6rB8GLZCU8zY_DkJQFdC8xeRdhvjyxrMPhookWf_kZkURONwo0bBiuLMB-V3DqP6rSel_Syw-iel27csVPgVAxUvQAW0e5gtEtA"
+        },
+        {
+            "position": 10,
+            "title": "RM Lamun Ombak Ulak Karang",
+            "place_id": "ChIJ8fbITLW41C8Rt4Lbm2ddmjk",
+            "data_cid": "4150732706153202359",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b8b54cc8f6f1%3A0x399a5d679bdb82b7&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9098324999999999,
+                "longitude": 100.34998309999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8fbITLW41C8Rt4Lbm2ddmjk",
+            "provider_id": "/g/11b6dcvfk_",
+            "rating": 4.5,
+            "reviews": 4224,
+            "price": "Rp 25–50K",
+            "type": "Padang restaurant",
+            "types": [
+                "Padang restaurant",
+                "Diner"
+            ],
+            "type_id": "padang_restaurant",
+            "type_ids": [
+                "padang_restaurant",
+                "diner"
+            ],
+            "address": "Jl. S. Parman No.232A, Ulak Karang Utara, Kec. Padang Utara, Kota Padang, Sumatera Barat 25173, Indonesia",
+            "open_state": "Open ⋅ Closes 10 PM",
+            "hours": "Open ⋅ Closes 10 PM",
+            "operating_hours": {
+                "tuesday": "8 AM–10 PM",
+                "wednesday": "8 AM–10 PM",
+                "thursday": "8 AM–10 PM",
+                "friday": "8 AM–10 PM",
+                "saturday": "8 AM–10 PM",
+                "sunday": "8 AM–10 PM",
+                "monday": "8 AM–10 PM"
+            },
+            "phone": "+62 751 7052922",
+            "extensions": [
+                {
+                    "service_options": [
+                        "No-contact delivery",
+                        "Delivery",
+                        "Takeout",
+                        "Dine-in"
+                    ]
+                },
+                {
+                    "highlights": [
+                        "Great coffee",
+                        "Great dessert",
+                        "Great tea selection"
+                    ]
+                },
+                {
+                    "popular_for": [
+                        "Breakfast",
+                        "Lunch",
+                        "Dinner",
+                        "Solo dining"
+                    ]
+                },
+                {
+                    "offerings": [
+                        "Coffee",
+                        "Halal food",
+                        "Late-night food",
+                        "Private dining room",
+                        "Quick bite"
+                    ]
+                },
+                {
+                    "dining_options": [
+                        "Breakfast",
+                        "Brunch",
+                        "Lunch",
+                        "Dinner",
+                        "Catering",
+                        "Dessert",
+                        "Table service"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                },
+                {
+                    "atmosphere": [
+                        "Casual",
+                        "Cozy",
+                        "Trendy"
+                    ]
+                },
+                {
+                    "crowd": [
+                        "College students",
+                        "Groups",
+                        "Tourists"
+                    ]
+                },
+                {
+                    "planning": [
+                        "Accepts reservations",
+                        "Usually a wait"
+                    ]
+                },
+                {
+                    "payments": [
+                        "Credit cards",
+                        "Debit cards",
+                        "NFC mobile payments"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids",
+                        "Kids' menu"
+                    ]
+                },
+                {
+                    "parking": [
+                        "Free parking lot",
+                        "Paid parking lot",
+                        "Paid street parking",
+                        "Usually plenty of parking"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible parking lot",
+                        "Wheelchair accessible seating"
+                    ]
+                }
+            ],
+            "service_options": {
+                "dine_in": true,
+                "takeout": true,
+                "no_contact_delivery": true
+            },
+            "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11b6dcvfk_&g2lbs=AO8LyOKtzjsfS_671JCTQ3xDhOR4w9jI0Vxj3UiN4ve8NRhfwE7wX7nZ_50nX6dMMatdRFG256odDCa2qj4KTx6-DdV-MaIoeCCSEOBxCRW9PjTnRnuVZFs%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=l4rbaKeUJtPbkPIPqrremAs&ei=l4rbaKeUJtPbkPIPqrremAs&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np9Y1jTfgeN32WCrzUXP7vOWII2UFU6vMu3nxOzknmQmoUwR-IhbVk7qzP96Kg2FAaIsvHfrDch5SapupoHdwq1YflTtyitVDc_RmGRuJETI3RMiAjXqNHyJEHOO6q1_cGq6Hio=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/Rk22_HicBcFJDoIwAADAF1VCUQwmHohbq1EUQeVEtEKLQBdaQPmfj_A3zvy-zBipZ5ZVMWdEhaBV1uqsIYKbjJsREbVFpQZEA235C4-NufQS-xXlNDs48Lpohvh2nHbBFWMYr2O327cOfwdDyetTLeI-BJg9LuVUDUfP3VG49u9YdyhvloRNznfZSoGevbKTvIrMpzCXJUnDehO221WEnXBf-K-bOqDPdoWCwFV2SjbKRYWY9zaEgHkQlICLPxVLRXs"
+        },
+        {
+            "position": 11,
+            "title": "Sate Danguang Danguang Simpang Kinol Pondok",
+            "place_id": "ChIJX1v2oVq51C8R2u7Ag5ZJ_Gc",
+            "data_cid": "7492944790842044122",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b95aa1f65b5f%3A0x67fc499683c0eeda&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9580219999999999,
+                "longitude": 100.3611813
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJX1v2oVq51C8R2u7Ag5ZJ_Gc",
+            "provider_id": "/g/11b7q4wwfr",
+            "rating": 4.3,
+            "reviews": 455,
+            "price": "Rp 25–50K",
+            "type": "Satay restaurant",
+            "types": [
+                "Satay restaurant",
+                "Meat dish restaurant",
+                "Padang restaurant"
+            ],
+            "type_id": "satay_restaurant",
+            "type_ids": [
+                "satay_restaurant",
+                "meat_restaurant",
+                "padang_restaurant"
+            ],
+            "address": "Jl. Tepi Pasang No.67 Kel, Kp. Pd., Kec. Padang Bar., Kota Padang, Sumatera Barat 25134, Indonesia",
+            "open_state": "Open ⋅ Closes 5 PM",
+            "hours": "Open ⋅ Closes 5 PM",
+            "operating_hours": {
+                "tuesday": "9 AM–5 PM",
+                "wednesday": "4:30–11 PM",
+                "thursday": "4:30–11 PM",
+                "friday": "4:30–11 PM",
+                "saturday": "4:30–11 PM",
+                "sunday": "4:30–11 PM",
+                "monday": "9 AM–5 PM"
+            },
+            "phone": "+62 812-7531-0494",
+            "extensions": [
+                {
+                    "service_options": [
+                        "Outdoor seating",
+                        "Takeout",
+                        "Dine-in"
+                    ]
+                },
+                {
+                    "highlights": [
+                        "Great coffee",
+                        "Great tea selection"
+                    ]
+                },
+                {
+                    "popular_for": [
+                        "Dinner",
+                        "Solo dining"
+                    ]
+                },
+                {
+                    "offerings": [
+                        "Coffee",
+                        "Halal food",
+                        "Late-night food",
+                        "Quick bite"
+                    ]
+                },
+                {
+                    "dining_options": [
+                        "Dinner",
+                        "Seating",
+                        "Table service"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                },
+                {
+                    "atmosphere": [
+                        "Casual",
+                        "Cozy",
+                        "Trendy"
+                    ]
+                },
+                {
+                    "crowd": [
+                        "College students",
+                        "Groups",
+                        "Tourists"
+                    ]
+                },
+                {
+                    "planning": [
+                        "Accepts reservations"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                },
+                {
+                    "parking": [
+                        "Paid street parking"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot",
+                        "Wheelchair accessible seating"
+                    ]
+                }
+            ],
+            "service_options": {
+                "dine_in": true,
+                "takeout": true
+            },
+            "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11b7q4wwfr&g2lbs=AO8LyOIshALbTu0xr70Ev7BNgsUgdWw1bIxrKkcpMvVYgu_5fKtAEOR6Oz438czi-WXUfsTKX0bZe8c2smAl5j8HvBoYtsO5Sdne-FlkdoxccmiGDHJTGSc%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=l4rbaKeUJtPbkPIPqrremAs&ei=l4rbaKeUJtPbkPIPqrremAs&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noyMd2mcI8W5XZgkFj_W6j7cj3TIVXnf8BFcs36YdUHXF-bIaO9Jci7hTBbLeJRn8g7LCMD8iYPl1C1p07Bv8wBYW-CjjBWct5wfA-zUDdZWTvtspGU2EsGJlBphg98aslhutRjuQ=w163-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/bK7M33icBcFRboIwGADgE1UEJhQTHyiKg2h0BlbwZdGCrbW2zf4imRf0DN5m3_d-CecszD1PiXDCjeGqH6D_ZUa7XrsJM3ePW0AMEHhplogPbf62XXBnBaaz5shvufyhkYyZDKviu9EXTHIGYdR29WeTo3Nx2iUlu8aiIudNXx405vEm2y7xtd0rP_PtNCYPPJKWokxKQpmbjZcUPetld6TVw4Fd18EK1qUiVvAEn0CJwR3k8LUY_ShEIgnQDWnzD-EPRHU"
+        },
+        {
+            "position": 12,
+            "title": "Resto Bebek Sawah 8",
+            "place_id": "ChIJSXS45ja51C8RfWK-NnKQoxM",
+            "data_cid": "1415133528143585917",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b936e6b87449%3A0x13a3907236be627d&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9449004999999999,
+                "longitude": 100.35819169999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSXS45ja51C8RfWK-NnKQoxM",
+            "provider_id": "/g/11f4v85rzb",
+            "rating": 4.5,
+            "reviews": 5084,
+            "price": "Rp 25–50K",
+            "unclaimed_listing": true,
+            "type": "Fast food restaurant",
+            "types": [
+                "Fast food restaurant"
+            ],
+            "type_id": "fast_food_restaurant",
+            "type_ids": [
+                "fast_food_restaurant"
+            ],
+            "address": "Jl. Patimura No.8, Kp. Jao, Kec. Padang Bar., Kota Padang, Sumatera Barat, Indonesia",
+            "open_state": "Open ⋅ Closes 10 PM",
+            "hours": "Open ⋅ Closes 10 PM",
+            "operating_hours": {
+                "tuesday": "10 AM–10 PM",
+                "wednesday": "10 AM–10 PM",
+                "thursday": "10 AM–10 PM",
+                "friday": "10 AM–10 PM",
+                "saturday": "10 AM–10 PM",
+                "sunday": "10 AM–10 PM",
+                "monday": "10 AM–10 PM"
+            },
+            "phone": "+62 751 8952150",
+            "description": "Duck dishes in a buzzing, casual spot. Unpretentious, bustling venue with ​a covered terrace specializing in duck recipes.",
+            "extensions": [
+                {
+                    "service_options": [
+                        "Outdoor seating",
+                        "No-contact delivery",
+                        "Delivery",
+                        "Takeout",
+                        "Dine-in"
+                    ]
+                },
+                {
+                    "highlights": [
+                        "Great coffee"
+                    ]
+                },
+                {
+                    "popular_for": [
+                        "Lunch",
+                        "Dinner",
+                        "Solo dining"
+                    ]
+                },
+                {
+                    "accessibility": [
+                        "Wheelchair accessible restroom"
+                    ]
+                },
+                {
+                    "offerings": [
+                        "Coffee",
+                        "Halal food",
+                        "Quick bite"
+                    ]
+                },
+                {
+                    "dining_options": [
+                        "Lunch",
+                        "Dinner",
+                        "Dessert",
+                        "Seating",
+                        "Table service"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                },
+                {
+                    "atmosphere": [
+                        "Casual"
+                    ]
+                },
+                {
+                    "crowd": [
+                        "Groups"
+                    ]
+                },
+                {
+                    "payments": [
+                        "Credit cards",
+                        "Debit cards",
+                        "NFC mobile payments"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids",
+                        "Good for kids birthday",
+                        "High chairs",
+                        "Kids' menu"
+                    ]
+                },
+                {
+                    "parking": [
+                        "Paid parking lot",
+                        "Paid street parking"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "service_options": {
+                "dine_in": true,
+                "takeout": true,
+                "no_contact_delivery": true
+            },
+            "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11f4v85rzb&g2lbs=AO8LyOIRtFST3pKQGChmxst4sFEGOeUKyjT5Y7mKKhXUDTZidQ7dCsZxzY3PoKufx6LUoHETpoYeIOx2phZoxJbMOogpqn2tWMYMim3-L80TWYHCHMqBGLE%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=l4rbaKeUJtPbkPIPqrremAs&ei=l4rbaKeUJtPbkPIPqrremAs&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqjsbcDzWkBTS8AKAp2xeoGhtYTW53M6BD98kNp4EQqJZgaiXn-PrPZkALE7983X3i-sv1rhiVDrj9FrhG2CTC_4ovm1D6XNVUbHZsH7VAb8zOFvscMJJH5JrFVcuV_FK7UcjTVxA=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/XdakGXicBcHdDoIgGADQJyInakpbF6SZs_9lZN60ZE7UAuMja71gz9DbdM7vK4zpYWJZN-GMaqXqW_WESnMlTSXNiKu7VfeAOCCwaEiEKx8tlDz6nLpZdgjokvb4XamFMOfs5Dnr8SwiQbfp3fn-kRb1tckl2uld0dHV3CeBkzsNgsHWomGRbkmsxQKHWXhx1XC3o3G-YccyKSDxGS2DzzYegK_TNPFSHTP-ZJd46R95m7E3nb5sjJEgGHVIqj_90kP9"
+        },
+        {
+            "position": 13,
+            "title": "RM Pauh Piaman",
+            "place_id": "ChIJvTSeNsm41C8Roef3m_KkH50",
+            "data_cid": "11321949350138472353",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b8c9369e34bd%3A0x9d1fa4f29bf7e7a1&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9142412999999999,
+                "longitude": 100.3577548
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvTSeNsm41C8Roef3m_KkH50",
+            "provider_id": "/g/1hm30xlw7",
+            "rating": 4.4,
+            "reviews": 1764,
+            "price": "Rp 25–50K",
+            "unclaimed_listing": true,
+            "type": "Padang restaurant",
+            "types": [
+                "Padang restaurant",
+                "Diner"
+            ],
+            "type_id": "padang_restaurant",
+            "type_ids": [
+                "padang_restaurant",
+                "diner"
+            ],
+            "address": "Jl. Khatib Sulaiman No.63, Lolong Belanti, Kec. Padang Utara, Kota Padang, Sumatera Barat 25173, Indonesia",
+            "open_state": "Open ⋅ Closes 9 PM",
+            "hours": "Open ⋅ Closes 9 PM",
+            "operating_hours": {
+                "tuesday": "8 AM–9 PM",
+                "wednesday": "8 AM–9 PM",
+                "thursday": "8 AM–9 PM",
+                "friday": "8 AM–9 PM",
+                "saturday": "8 AM–9 PM",
+                "sunday": "8 AM–9 PM",
+                "monday": "8 AM–9 PM"
+            },
+            "phone": "+62 751 40585",
+            "extensions": [
+                {
+                    "service_options": [
+                        "No-contact delivery",
+                        "Delivery",
+                        "Takeout",
+                        "Dine-in"
+                    ]
+                },
+                {
+                    "highlights": [
+                        "Great dessert",
+                        "Great tea selection"
+                    ]
+                },
+                {
+                    "popular_for": [
+                        "Lunch",
+                        "Dinner",
+                        "Solo dining"
+                    ]
+                },
+                {
+                    "accessibility": [
+                        "Wheelchair accessible restroom"
+                    ]
+                },
+                {
+                    "offerings": [
+                        "Coffee",
+                        "Halal food",
+                        "Quick bite"
+                    ]
+                },
+                {
+                    "dining_options": [
+                        "Lunch",
+                        "Dinner",
+                        "Dessert",
+                        "Table service"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                },
+                {
+                    "atmosphere": [
+                        "Casual",
+                        "Cozy",
+                        "Quiet",
+                        "Trendy"
+                    ]
+                },
+                {
+                    "crowd": [
+                        "Groups",
+                        "Tourists"
+                    ]
+                },
+                {
+                    "planning": [
+                        "Lunch reservations recommended",
+                        "Dinner reservations recommended",
+                        "Accepts reservations"
+                    ]
+                },
+                {
+                    "payments": [
+                        "Credit cards",
+                        "Debit cards",
+                        "NFC mobile payments"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                },
+                {
+                    "parking": [
+                        "Free parking lot",
+                        "Paid parking lot",
+                        "Paid street parking",
+                        "Usually plenty of parking"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot",
+                        "Wheelchair accessible seating"
+                    ]
+                }
+            ],
+            "service_options": {
+                "dine_in": true,
+                "takeout": true,
+                "no_contact_delivery": true
+            },
+            "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/1hm30xlw7&g2lbs=AO8LyOKZH95ZYjv8pHFvSWTiSu0FGpWEqyJFS0X24FHyj5MTqy095oVKK-HWAOy85W3nl5a8DPhsgeGozQ2P9EtxwmL0LyJ8omUs9VDJRh8K_ChFKWQvSMc%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=l4rbaKeUJtPbkPIPqrremAs&ei=l4rbaKeUJtPbkPIPqrremAs&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqvAxBlVrkuzSM3tFCp4S7PFY4To8k4LsjJxgh072Hq-W-S40eFX2iWEr3YWnxP4YqFI_Gc4ItjBo_xq-hs20kLu8NYUtGEOMsGwHvWD8n44SEuZvoyjEDuN_k25PYODWi1TGJl=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/e0Pwb3icBcFJDoIwFADQE5WhfAOauFAZ1DiQoNa6YUEIhWILtEX0fh7C2_je78u07tTCtlvmWZWUVVsaVQ6FFLoU2irk0646hQqFlL3azBmIflxN6_Y2cPPJjp6ONx1kfhpTuMiAw0E1-6lijo-3PSIoA6eM77gm0eBRIqYUaB_v8qSAnW7WMp96xBR2-MEEJ3rVSXQ-quS1HUkYCIAsMo9RvpsoNKec41lKzyGp3Uuyb5cvF2PE5hhxJOQflohDtg"
+        },
+        {
+            "position": 14,
+            "title": "Warung Kopi Nan Yo",
+            "place_id": "ChIJaSzwilq51C8RSeEnRLQhViM",
+            "data_cid": "2546259697445888329",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b95a8af02c69%3A0x235621b44427e149&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9590877,
+                "longitude": 100.3623471
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaSzwilq51C8RSeEnRLQhViM",
+            "provider_id": "/g/11bc7tnctb",
+            "rating": 4.7,
+            "reviews": 395,
+            "price": "Rp 25–50K",
+            "type": "Brunch restaurant",
+            "types": [
+                "Brunch restaurant",
+                "Breakfast restaurant",
+                "Coffee shop"
+            ],
+            "type_id": "brunch_restaurant",
+            "type_ids": [
+                "brunch_restaurant",
+                "breakfast_restaurant",
+                "coffee_shop"
+            ],
+            "address": "Jl. Niaga No.205, Kp. Pd., Kec. Padang Bar., Kota Padang, Sumatera Barat 25211, Indonesia",
+            "open_state": "Open ⋅ Closes 5 PM",
+            "hours": "Open ⋅ Closes 5 PM",
+            "operating_hours": {
+                "tuesday": "6 AM–5 PM",
+                "wednesday": "6 AM–5 PM",
+                "thursday": "6 AM–5 PM",
+                "friday": "6 AM–5 PM",
+                "saturday": "6 AM–5 PM",
+                "sunday": "6 AM–5 PM",
+                "monday": "6 AM–5 PM"
+            },
+            "phone": "+62 813-6338-7637",
+            "extensions": [
+                {
+                    "service_options": [
+                        "No-contact delivery",
+                        "Delivery",
+                        "Takeout",
+                        "Dine-in"
+                    ]
+                },
+                {
+                    "highlights": [
+                        "Great coffee",
+                        "Great tea selection"
+                    ]
+                },
+                {
+                    "popular_for": [
+                        "Breakfast"
+                    ]
+                },
+                {
+                    "offerings": [
+                        "Coffee",
+                        "Halal food",
+                        "Quick bite"
+                    ]
+                },
+                {
+                    "dining_options": [
+                        "Breakfast",
+                        "Lunch",
+                        "Dessert",
+                        "Table service"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                },
+                {
+                    "atmosphere": [
+                        "Casual",
+                        "Cozy"
+                    ]
+                },
+                {
+                    "crowd": [
+                        "College students",
+                        "Groups",
+                        "Tourists"
+                    ]
+                },
+                {
+                    "planning": [
+                        "Accepts reservations",
+                        "Usually a wait"
+                    ]
+                },
+                {
+                    "payments": [
+                        "Cash-only",
+                        "Checks"
+                    ]
+                },
+                {
+                    "parking": [
+                        "Paid parking lot",
+                        "Paid street parking",
+                        "Usually plenty of parking"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot",
+                        "Wheelchair accessible seating"
+                    ]
+                }
+            ],
+            "service_options": {
+                "dine_in": true,
+                "takeout": true,
+                "no_contact_delivery": true
+            },
+            "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11bc7tnctb&g2lbs=AO8LyOKQDhkWPu8EmABotdvY1b8W7BAsDKlBJo8sIXMCZtGCg0uB-iB8KGjmV1APao5Jxpyy1o5ono9xnzNr2ld4iLtQjkoNMeFhd79EhqzPiZjx6jElbeY%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=l4rbaKeUJtPbkPIPqrremAs&ei=l4rbaKeUJtPbkPIPqrremAs&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npaLmId4f1ZJLglhvmpPvgYDny0gHEiocueI3TStSgHDPA9oWC6HbCMpuKlAyNYV47CnQRN440-b0MDSxrEAPC3Di_YAORqLgv2lvVpR0TdQxRWPZJJoofzfVHhaqTdaGOkBk1v=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/ntOLhXicBcHbboIwGADgJ6qcmi2YeNEVM2SoCASDNwY5tIbSv9rS6d5vD-Hb-H2vf26M0kvHETxYMAAm-ln39xak6aVZtDA5TGnUaqQdQkOOpWrSadPhwTslKRPcTiqzrI7k02Xx-grt3G-CsjAFi6OMhHCkH_GFbtX8I8hzV1f4k8pDvsPYRRd3GxWP-5pkNIiu55rs81vKrC9spXK37A6P_JidkgRg-BuqmDe3smu-9-PX6NnVr-f7iIc-GpGEN9mbRKo"
+        },
+        {
+            "position": 15,
+            "title": "KINOL Bistro",
+            "place_id": "ChIJW6vvo1q51C8RXqnyE0TlPMs",
+            "data_cid": "14644832168857217374",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b95aa3efab5b%3A0xcb3ce54413f2a95e&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9575129,
+                "longitude": 100.3616562
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJW6vvo1q51C8RXqnyE0TlPMs",
+            "provider_id": "/g/11b6d6lmlg",
+            "rating": 4.4,
+            "reviews": 1578,
+            "price": "$$",
+            "type": "Bistro",
+            "types": [
+                "Bistro",
+                "Western restaurant"
+            ],
+            "type_id": "bistro",
+            "type_ids": [
+                "bistro",
+                "western_restaurant"
+            ],
+            "address": "Jl. Imam Bonjol No.28, Kampung Pondok, Padang Barat, Padang City, West Sumatra 25119, Indonesia",
+            "open_state": "Open ⋅ Closes 11:50 PM",
+            "hours": "Open ⋅ Closes 11:50 PM",
+            "operating_hours": {
+                "tuesday": "7 AM–11:50 PM",
+                "wednesday": "7 AM–11:50 PM",
+                "thursday": "7 AM–11:50 PM",
+                "friday": "7 AM–12:30 AM",
+                "saturday": "7 AM–12:30 AM",
+                "sunday": "7 AM–11:50 PM",
+                "monday": "7 AM–11:50 PM"
+            },
+            "extensions": [
+                {
+                    "service_options": [
+                        "No-contact delivery",
+                        "Delivery",
+                        "Takeout",
+                        "Dine-in"
+                    ]
+                },
+                {
+                    "highlights": [
+                        "Great beer selection",
+                        "Great cocktails",
+                        "Great coffee",
+                        "Great dessert",
+                        "Great tea selection",
+                        "Great wine list",
+                        "Live music"
+                    ]
+                },
+                {
+                    "popular_for": [
+                        "Lunch",
+                        "Dinner",
+                        "Solo dining"
+                    ]
+                },
+                {
+                    "offerings": [
+                        "Alcohol",
+                        "Beer",
+                        "Cocktails",
+                        "Coffee",
+                        "Halal food",
+                        "Happy hour drinks",
+                        "Hard liquor",
+                        "Late-night food",
+                        "Quick bite",
+                        "Wine"
+                    ]
+                },
+                {
+                    "dining_options": [
+                        "Brunch",
+                        "Lunch",
+                        "Dinner",
+                        "Dessert",
+                        "Seating",
+                        "Table service"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Bar onsite",
+                        "Restroom"
+                    ]
+                },
+                {
+                    "atmosphere": [
+                        "Casual",
+                        "Cozy",
+                        "Romantic",
+                        "Trendy",
+                        "Upscale"
+                    ]
+                },
+                {
+                    "crowd": [
+                        "College students",
+                        "Groups",
+                        "Tourists"
+                    ]
+                },
+                {
+                    "planning": [
+                        "Lunch reservations recommended",
+                        "Accepts reservations",
+                        "Usually a wait"
+                    ]
+                },
+                {
+                    "payments": [
+                        "Credit cards",
+                        "Debit cards",
+                        "NFC mobile payments"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids birthday",
+                        "High chairs"
+                    ]
+                },
+                {
+                    "parking": [
+                        "Paid parking lot",
+                        "Paid street parking",
+                        "Usually somewhat difficult to find a space"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "service_options": {
+                "dine_in": true,
+                "takeout": true,
+                "no_contact_delivery": true
+            },
+            "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11b6d6lmlg&g2lbs=AO8LyOKsgr0NrnzZzluICRLTxMIIiCxbNqctha0Rsp9x2CJgadMzQXeAzI7TwL51Iv4lvdk0oglT32f8kQfS9aR-1C5Rx57rHIuCcR8XbMmyy1-C4pjDLCI%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=l4rbaKeUJtPbkPIPqrremAs&ei=l4rbaKeUJtPbkPIPqrremAs&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noc6Vt3WCVvyU5hRnyfmleKazF48dB_dBm3Sa45_PWMOx7WJcTj5wvXENQtuzEkaPVYEQtol7kVr0Sd3mTmo_7aON6HN6PEiPHTdOUIZZT7XHpoJXR0Ye78Goi-T9Rod_e11anzespW3WzV=w80-h106-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/M_uPwHicBcFRboIwGADgE1UgBYpL9jANk7kMECtFX0jTVnDQ_sRWndxxB9ht9n1_v71zk33xvLHHiw6gG9XNqqsA45RxCwHa6yaLhEXWe1sv-9CAiGuH2bq-Pw9RX5nnWY_qk8_vYSJXrVxpvOdh1Jbsq_ghbCvod_S4N2m-c7c5HXhZH9Odg5EM9dXfS6yphpbwIo-zPC7TS5lRWRw-TidKmmyCbVP5R0WSDVwQXVYgWxUE3MzKTgyzuX59JD7qAz9GAzLwDzKbR2o"
+        },
+        {
+            "position": 16,
+            "title": "Rumah Makan Fuja",
+            "place_id": "ChIJ_cLubDO51C8Rxg25gXfTu_k",
+            "data_cid": "17995209246319906246",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b9336ceec2fd%3A0xf9bbd37781b90dc6&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9414528999999999,
+                "longitude": 100.35170339999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_cLubDO51C8Rxg25gXfTu_k",
+            "provider_id": "/g/1pzs296b6",
+            "rating": 4.4,
+            "reviews": 3253,
+            "price": "$$",
+            "type": "Seafood restaurant",
+            "types": [
+                "Seafood restaurant",
+                "Diner",
+                "Ikan bakar restaurant"
+            ],
+            "type_id": "seafood_restaurant",
+            "type_ids": [
+                "seafood_restaurant",
+                "diner",
+                "ikan_bakar_restaurant"
+            ],
+            "address": "Jl. Samudera No.24, Purus, Kec. Padang Bar., Kota Padang, Sumatera Barat 25115, Indonesia",
+            "open_state": "Open ⋅ Closes 10 PM",
+            "hours": "Open ⋅ Closes 10 PM",
+            "operating_hours": {
+                "tuesday": "10 AM–10 PM",
+                "wednesday": "10 AM–10 PM",
+                "thursday": "10 AM–10 PM",
+                "friday": "10 AM–10 PM",
+                "saturday": "10 AM–10 PM",
+                "sunday": "10 AM–10 PM",
+                "monday": "10 AM–10 PM"
+            },
+            "phone": "+62 811-664-443",
+            "extensions": [
+                {
+                    "service_options": [
+                        "Outdoor seating",
+                        "Takeout",
+                        "Dine-in"
+                    ]
+                },
+                {
+                    "highlights": [
+                        "Great tea selection"
+                    ]
+                },
+                {
+                    "popular_for": [
+                        "Lunch",
+                        "Dinner",
+                        "Solo dining"
+                    ]
+                },
+                {
+                    "accessibility": [
+                        "Wheelchair accessible restroom"
+                    ]
+                },
+                {
+                    "offerings": [
+                        "Coffee",
+                        "Halal food",
+                        "Late-night food",
+                        "Quick bite"
+                    ]
+                },
+                {
+                    "dining_options": [
+                        "Breakfast",
+                        "Brunch",
+                        "Lunch",
+                        "Dinner",
+                        "Seating",
+                        "Table service"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                },
+                {
+                    "atmosphere": [
+                        "Casual",
+                        "Cozy",
+                        "Quiet",
+                        "Trendy"
+                    ]
+                },
+                {
+                    "crowd": [
+                        "College students",
+                        "Groups",
+                        "Tourists"
+                    ]
+                },
+                {
+                    "planning": [
+                        "Lunch reservations recommended",
+                        "Dinner reservations recommended",
+                        "Accepts reservations",
+                        "Usually a wait"
+                    ]
+                },
+                {
+                    "payments": [
+                        "Debit cards"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids",
+                        "Kids' menu"
+                    ]
+                },
+                {
+                    "parking": [
+                        "Free street parking",
+                        "Paid parking lot",
+                        "Paid street parking",
+                        "Usually plenty of parking"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot",
+                        "Wheelchair accessible seating"
+                    ]
+                }
+            ],
+            "service_options": {
+                "dine_in": true,
+                "takeout": true
+            },
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqviv8e7qzFMN5SA32roEJZpHf92H7Os5NAJwn6gZXq_LXKZOR1_1EmruM80ljL8d5rPbH-qPypfFIT-pP-70EKgDflpJ6QQxV2ZDANnJfm3dCjmjF06eHAfuki9agn6k4VgC3z=w130-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/3by7enicBcFJDoIwAADAF1WWspp4aBCCCAhqjOFiFNsiS1soiPo_H-FvnPl9q3EUcqkobQUXlHPa4knioeRsxGxclLxTqJCglEAqyHMrg_XPx9PBdv8JktQ8IKgP3I8KERJXD-2dNFMUzcyixbm_xOdtsdtrF83vhilx1LaOnbs5ZLcQ9NlbkGBzBCIDtupv6Zq0IrLy_HXSizVKWUQ6ePfqrg5UC4eITM3DvVJmNcaJevCzmjWogsrVQQMY_wNZqEMe"
+        },
+        {
+            "position": 17,
+            "title": "Sate Manang Kabau",
+            "place_id": "ChIJe4DHIWK51C8RxUpIr9BDTJU",
+            "data_cid": "10758048173454281413",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b96221c7807b%3A0x954c43d0af484ac5&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9225960999999999,
+                "longitude": 100.3610739
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJe4DHIWK51C8RxUpIr9BDTJU",
+            "provider_id": "/g/11h2mdn1gv",
+            "rating": 4.3,
+            "reviews": 2888,
+            "price": "Rp 25–75K",
+            "type": "Satay restaurant",
+            "types": [
+                "Satay restaurant"
+            ],
+            "type_id": "satay_restaurant",
+            "type_ids": [
+                "satay_restaurant"
+            ],
+            "address": "Jl. Khatib Sulaiman No.15, Lolong Belanti, Padang Utara, Padang City, West Sumatra 25132, Indonesia",
+            "open_state": "Open ⋅ Closes 11 PM",
+            "hours": "Open ⋅ Closes 11 PM",
+            "operating_hours": {
+                "tuesday": "7 AM–11 PM",
+                "wednesday": "7 AM–11 PM",
+                "thursday": "7 AM–11 PM",
+                "friday": "7 AM–11 PM",
+                "saturday": "7 AM–11 PM",
+                "sunday": "7 AM–11 PM",
+                "monday": "7 AM–11 PM"
+            },
+            "phone": "+62 823-6374-0001",
+            "website": "https://manang.co.id/",
+            "description": "Meat satay served in an unfussy eatery. Informal, roomy mainstay with a terrace & take-out service, focusing on grilled meat specialties.",
+            "extensions": [
+                {
+                    "service_options": [
+                        "Outdoor seating",
+                        "No-contact delivery",
+                        "Takeout",
+                        "Dine-in"
+                    ]
+                },
+                {
+                    "highlights": [
+                        "Great coffee",
+                        "Great dessert",
+                        "Great tea selection",
+                        "Rooftop seating"
+                    ]
+                },
+                {
+                    "popular_for": [
+                        "Breakfast",
+                        "Lunch",
+                        "Dinner",
+                        "Solo dining"
+                    ]
+                },
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot",
+                        "Wheelchair accessible restroom",
+                        "Wheelchair accessible seating"
+                    ]
+                },
+                {
+                    "offerings": [
+                        "Coffee",
+                        "Halal food",
+                        "Quick bite"
+                    ]
+                },
+                {
+                    "dining_options": [
+                        "Breakfast",
+                        "Brunch",
+                        "Lunch",
+                        "Dinner",
+                        "Catering",
+                        "Counter service",
+                        "Dessert",
+                        "Seating",
+                        "Table service"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restroom",
+                        "Wi-Fi",
+                        "Free Wi-Fi"
+                    ]
+                },
+                {
+                    "atmosphere": [
+                        "Casual",
+                        "Cozy",
+                        "Romantic",
+                        "Trendy"
+                    ]
+                },
+                {
+                    "crowd": [
+                        "College students",
+                        "Family-friendly",
+                        "Groups",
+                        "Tourists"
+                    ]
+                },
+                {
+                    "planning": [
+                        "Dinner reservations recommended",
+                        "Accepts reservations",
+                        "Usually a wait"
+                    ]
+                },
+                {
+                    "payments": [
+                        "Debit cards",
+                        "Meal coupons",
+                        "NFC mobile payments"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids",
+                        "High chairs",
+                        "Kids' menu"
+                    ]
+                },
+                {
+                    "parking": [
+                        "Free parking lot",
+                        "Free street parking",
+                        "On-site parking",
+                        "Paid parking lot",
+                        "Paid street parking",
+                        "Usually plenty of parking"
+                    ]
+                }
+            ],
+            "service_options": {
+                "dine_in": true,
+                "takeout": true,
+                "no_contact_delivery": true
+            },
+            "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11h2mdn1gv&g2lbs=AO8LyOJv44qOpPq05M4_QKkuSLQLjGiqnQv-xeCsPU84pP1aySTVx3tAGTS7OPNQtwqHPcuE-Bgwa5y6yAZ_IcvYCxsaeorEQy-lCAOQ6YHFgdUAlaOitoQ%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=l4rbaKeUJtPbkPIPqrremAs&ei=l4rbaKeUJtPbkPIPqrremAs&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrk9lIKTPEgc7AqORulKGr2rHZRi30MRnId_23shfisjMmaZMBxqMz9FEa8M7BK9wDhEXcprzlGq8AOGPHcsh_ZARX8AEw1VTcpgJ088pLU6fX3sFog_BM1V2U3HXmeQ5SuAsCF=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/Zu2EE3icBcHdboIwGADQJ6pIO2e7ZBfF8eNYo2NqCDfEVGydpS39ICy-3x5ib7Nz_n71OHp4iSKjyUI5p0w3QReks2Nnx4V0faQ8IAkIIr5h-smGOzPb8rBPlVzzYVdNpswDDkVT3chSVHZ7aTEBfb3Bt-jPjUh-BvFgWXqmYp2UbH7TaS19eJh8oHyX7wsJum14VVOezvHpIL16X1LqP47P15pA5lSbiPiEj6So--5z9TVx2GSvc4wx0gyjO7LuH6sHQ48"
+        },
+        {
+            "position": 18,
+            "title": "RAJO CORNER",
+            "place_id": "ChIJDXDT-Zq51C8R4_c6Pwj7pFY",
+            "data_cid": "6243390996281489379",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b99af9d3700d%3A0x56a4fb083f3af7e3&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9266998999999999,
+                "longitude": 100.35929929999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJDXDT-Zq51C8R4_c6Pwj7pFY",
+            "provider_id": "/g/11fk0mh6zc",
+            "rating": 4.4,
+            "reviews": 666,
+            "price": "Rp 25–50K",
+            "type": "Restaurant",
+            "types": [
+                "Restaurant",
+                "Food court"
+            ],
+            "type_id": "restaurant",
+            "type_ids": [
+                "restaurant",
+                "food_court"
+            ],
+            "address": "Jl. Batang Anai Kelurahan No.11, Rimbo Kaluang, Kec. Padang Utara, Kota Padang, Sumatera Barat, Indonesia",
+            "open_state": "Open ⋅ Closes 11 PM",
+            "hours": "Open ⋅ Closes 11 PM",
+            "operating_hours": {
+                "tuesday": "8:09 AM–11 PM",
+                "wednesday": "8 AM–11 PM",
+                "thursday": "8 AM–11 PM",
+                "friday": "8 AM–11 PM",
+                "saturday": "8 AM–11 PM",
+                "sunday": "6 AM–11 PM",
+                "monday": "8 AM–11 PM"
+            },
+            "phone": "+62 811-6617-088",
+            "extensions": [
+                {
+                    "from_the_business": [
+                        "Identifies as women-owned"
+                    ]
+                },
+                {
+                    "service_options": [
+                        "No-contact delivery",
+                        "Delivery",
+                        "Drive-through",
+                        "Takeout",
+                        "Dine-in"
+                    ]
+                },
+                {
+                    "popular_for": [
+                        "Solo dining"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                },
+                {
+                    "atmosphere": [
+                        "Casual",
+                        "Cozy",
+                        "Trendy"
+                    ]
+                },
+                {
+                    "crowd": [
+                        "Groups"
+                    ]
+                },
+                {
+                    "payments": [
+                        "Debit cards"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                },
+                {
+                    "parking": [
+                        "Usually plenty of parking"
+                    ]
+                }
+            ],
+            "service_options": {
+                "dine_in": true,
+                "drive_through": true,
+                "no_contact_delivery": true
+            },
+            "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11fk0mh6zc&g2lbs=AO8LyOIjG6LURFMrLqB0MNABql4UecCzZQAX0TfR9ohXjvkUNnDaX3sZDVrdFmb_qjySClxJFqlI3BC_c5ZxS-hqAHOUtgkbZlvtA0svMAQ2TNJENeZ62rg%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=l4rbaKeUJtPbkPIPqrremAs&ei=l4rbaKeUJtPbkPIPqrremAs&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np3TzqVzai1DJoXnLnHcpS4zD2Rny3fOKcrB_AGJ9-44qmFNkufnH5sHTy2KOVwzDq-lOMNei7yd0oQEvaitMoNIZMgFyqGSEkiFFY41n-akgoYbd3g4QRLzal4ysmpuymFkpBw=w213-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/_h-1K3icBcFbjoIwFADQFVUGWjPBZD5UrPgA4iNG52eCFQsp3FtsGdLubxYxu_Gc_7_aWm1mQdDWdCIRZVsNpnoJBFuBnQjsAqkNEYaYYL6Mawaann1_8WUTJlu8wh5SoU_MJ9ERHH0WO_Fa_MzX25gw1nc8V8MT0qlJzy7aFZfRJz1piyyvmk_3-MDD6rdsbIb55juT3PXr00o1nN9YCKRUEm_3B5XscNz7smXOdHpwHVd6MX6NUUhJHUdEEcA3DmhF4A"
+        },
+        {
+            "position": 19,
+            "title": "Martabak Kubang Hayuda",
+            "place_id": "ChIJq2piVLW41C8R_Nc1rD1SmSI",
+            "data_cid": "2493114293561972732",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b8b554626aab%3A0x2299523dac35d7fc&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9097238,
+                "longitude": 100.3499878
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq2piVLW41C8R_Nc1rD1SmSI",
+            "provider_id": "/g/11cnwf7581",
+            "rating": 4.4,
+            "reviews": 366,
+            "price": "Rp 25–50K",
+            "unclaimed_listing": true,
+            "type": "Murtabak restaurant",
+            "types": [
+                "Murtabak restaurant"
+            ],
+            "type_id": "murtabak_restaurant",
+            "type_ids": [
+                "murtabak_restaurant"
+            ],
+            "address": "Jl. S. Parman No.252A, South Ulak Karang, Padang Utara, Padang City, West Sumatra, Indonesia",
+            "open_state": "Open ⋅ Closes 12 AM",
+            "hours": "Open ⋅ Closes 12 AM",
+            "operating_hours": {
+                "tuesday": "7 AM–12 AM",
+                "wednesday": "7 AM–12 AM",
+                "thursday": "7 AM–12 AM",
+                "friday": "7 AM–12 AM",
+                "saturday": "7 AM–12 AM",
+                "sunday": "7 AM–12 AM",
+                "monday": "7 AM–12 AM"
+            },
+            "phone": "+62 853-6337-2254",
+            "extensions": [
+                {
+                    "service_options": [
+                        "Outdoor seating",
+                        "Takeout",
+                        "Dine-in"
+                    ]
+                },
+                {
+                    "highlights": [
+                        "Great dessert",
+                        "Great tea selection"
+                    ]
+                },
+                {
+                    "popular_for": [
+                        "Dinner",
+                        "Solo dining"
+                    ]
+                },
+                {
+                    "offerings": [
+                        "Coffee",
+                        "Halal food",
+                        "Late-night food",
+                        "Quick bite"
+                    ]
+                },
+                {
+                    "dining_options": [
+                        "Breakfast",
+                        "Dinner",
+                        "Dessert",
+                        "Seating",
+                        "Table service"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                },
+                {
+                    "atmosphere": [
+                        "Casual",
+                        "Cozy",
+                        "Trendy"
+                    ]
+                },
+                {
+                    "crowd": [
+                        "College students",
+                        "Groups",
+                        "Tourists"
+                    ]
+                },
+                {
+                    "planning": [
+                        "Accepts reservations",
+                        "Usually a wait"
+                    ]
+                },
+                {
+                    "payments": [
+                        "NFC mobile payments"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids",
+                        "Kids' menu"
+                    ]
+                },
+                {
+                    "parking": [
+                        "Paid parking lot",
+                        "Paid street parking"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible parking lot",
+                        "Wheelchair accessible seating"
+                    ]
+                }
+            ],
+            "service_options": {
+                "dine_in": true,
+                "takeout": true
+            },
+            "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11cnwf7581&g2lbs=AO8LyOJ5sco2_VRKI6FKGDwzCKrnuIDUq2sXISWIFlN45UOG0-RcnW4shEMGSn93824wQt_m1EiS3yWFI9RSC5mRQyIFB9YajPDatNKkbv7qQlm9j6akEcQ%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=l4rbaKeUJtPbkPIPqrremAs&ei=l4rbaKeUJtPbkPIPqrremAs&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrY5Y8KfmA_H93tCrE_zB3EjXf4dG2UNQa2I0Pqlh9evCE6lcAqeNpO8wXxJFKSQyNjoG5PdW4LOtFEuhQ0MsNA7KYPydtWXsX4LKguiQ9Wv-9xsb0kG2nvu5kp3E4Ik_4kFZMk=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/VO_Us3icBcFtDoIgAADQE5GGWNHWD3NoZZmuNbU_rhSlMDBB-7hfh-g2vff7Mq1bNTeMhlmjWsq6ob2iXSGFpkKPCnk36laBQgFlOC5mSHSZnc2C6u7kK2xptyP5Z2mRW1qh0ofHMD7DtRk9Gobp4JJJUzgPGrb72TN9bbzgEL_Dm_TtqEzQdq890rPY3KnQmQZZ9C51kqoUbYO6v8Y4GQB-qYvJfSiG3uatRdCa54h7px1fPMcQAoYh4EDIP3F4Q7o"
+        },
+        {
+            "position": 20,
+            "title": "Kuali Nyonya",
+            "place_id": "ChIJ5XKf-zC51C8RaXafl6qjuQQ",
+            "data_cid": "340483199926761065",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b930fb9f72e5%3A0x4b9a3aa979f7669&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9430137999999999,
+                "longitude": 100.3522383
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5XKf-zC51C8RaXafl6qjuQQ",
+            "provider_id": "/g/11g0gpjq6s",
+            "rating": 4.4,
+            "reviews": 3380,
+            "price": "Rp 50–75K",
+            "type": "Family restaurant",
+            "types": [
+                "Family restaurant",
+                "Cafe"
+            ],
+            "type_id": "family_restaurant",
+            "type_ids": [
+                "family_restaurant",
+                "cafe"
+            ],
+            "address": "Jl. Olo Ladang, Olo, Kec. Padang Bar., Kota Padang, Sumatera Barat 25117, Indonesia",
+            "open_state": "Open ⋅ Closes 10 PM",
+            "hours": "Open ⋅ Closes 10 PM",
+            "operating_hours": {
+                "tuesday": "11 AM–10 PM",
+                "wednesday": "11 AM–10 PM",
+                "thursday": "11 AM–10 PM",
+                "friday": "11 AM–10 PM",
+                "saturday": "Open 24 hours",
+                "sunday": "11 AM–10 PM",
+                "monday": "11 AM–10 PM"
+            },
+            "phone": "+62 751 8955351",
+            "description": "Casual eatery with regional fare. Airy, relaxed restaurant with a terrace furnishing regional fare & unfussy international dishes.",
+            "extensions": [
+                {
+                    "service_options": [
+                        "Outdoor seating",
+                        "No-contact delivery",
+                        "Delivery",
+                        "Takeout",
+                        "Dine-in"
+                    ]
+                },
+                {
+                    "highlights": [
+                        "Great coffee",
+                        "Great dessert",
+                        "Great tea selection",
+                        "Live music",
+                        "Rooftop seating"
+                    ]
+                },
+                {
+                    "popular_for": [
+                        "Lunch",
+                        "Dinner",
+                        "Solo dining"
+                    ]
+                },
+                {
+                    "accessibility": [
+                        "Wheelchair accessible seating"
+                    ]
+                },
+                {
+                    "offerings": [
+                        "Coffee",
+                        "Halal food",
+                        "Organic dishes",
+                        "Quick bite",
+                        "Salad bar",
+                        "Vegan options",
+                        "Vegetarian options"
+                    ]
+                },
+                {
+                    "dining_options": [
+                        "Breakfast",
+                        "Brunch",
+                        "Lunch",
+                        "Dinner",
+                        "Dessert",
+                        "Seating",
+                        "Table service"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restroom",
+                        "Wi-Fi",
+                        "Free Wi-Fi"
+                    ]
+                },
+                {
+                    "atmosphere": [
+                        "Casual",
+                        "Cozy",
+                        "Quiet",
+                        "Romantic",
+                        "Trendy"
+                    ]
+                },
+                {
+                    "crowd": [
+                        "College students",
+                        "Family-friendly",
+                        "Groups",
+                        "Tourists"
+                    ]
+                },
+                {
+                    "planning": [
+                        "Brunch reservations recommended",
+                        "Lunch reservations recommended",
+                        "Dinner reservations recommended",
+                        "Accepts reservations",
+                        "Usually a wait"
+                    ]
+                },
+                {
+                    "payments": [
+                        "Credit cards",
+                        "Debit cards",
+                        "Meal coupons",
+                        "NFC mobile payments"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids",
+                        "Good for kids birthday",
+                        "High chairs",
+                        "Kids' menu"
+                    ]
+                },
+                {
+                    "parking": [
+                        "Paid parking lot",
+                        "Paid street parking",
+                        "Usually plenty of parking"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "service_options": {
+                "dine_in": true,
+                "takeout": true,
+                "no_contact_delivery": true
+            },
+            "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11g0gpjq6s&g2lbs=AO8LyOKQMcmC-tmnzjMjJf34VHm22j8Ft4KGoIBfxGU_eocTpKUM35dwQ2elsTXxVNlecpqhRS-w10erZ5s8jTLotdRjiQyjf_RjzQNNQMcYfbT8dSL52aU%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=l4rbaKeUJtPbkPIPqrremAs&ei=l4rbaKeUJtPbkPIPqrremAs&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqJoaYn_JNfOxvnKTZf4FPne_VC_2g2kocBlDqCJpE3_Leb86ZQUmnstlYfrSZc5pNBJu7nJPd0Zz4AvT5PPoi1SNfBiV-nN3snMASlysl1S5lgKiMPhjeBmgfxPpEIlQ_1SBt3=w163-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/5LsmenicBcHdTsIwGADQJypj6wZi4sU6MLHALCmQsJtGa38m3ddCC6Lv50PwNpxz_7cphficZc7ikfHeOHWJ6iw9JAVpJP2QmRCRjChmdTOzJZyo_ziAoK1-v11hue10-cpAiX0jClMcvSRufmpoWGCxUp9Pk26zGyAmd9Bn3skqtIRepkDZ17j7K-vrtmLM9zlvNen3CFocYV1z9xtdzitnlv2a2W9FBqNvLCze3EbknCT88pNPMLKzAh0R-AcoFkVi"
+        }
+    ]
+}

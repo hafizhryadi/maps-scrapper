@@ -1,0 +1,611 @@
+{
+    "search_metadata": {
+        "id": "68db898fe9639bcdd7013fe1",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/c7d6aba57fc9486e/68db898fe9639bcdd7013fe1.json",
+        "created_at": "2025-09-30 07:41:03 UTC",
+        "processed_at": "2025-09-30 07:41:03 UTC",
+        "google_maps_url": "https://www.google.com/maps/search/Wisata+edukasi+Kota+Padang?hl=en",
+        "raw_html_file": "https://serpapi.com/searches/c7d6aba57fc9486e/68db898fe9639bcdd7013fe1.html",
+        "total_time_taken": 0.61
+    },
+    "search_parameters": {
+        "engine": "google_maps",
+        "type": "search",
+        "q": "Wisata edukasi Kota Padang",
+        "google_domain": "google.com",
+        "hl": "en"
+    },
+    "search_information": {
+        "local_results_state": "Results for exact spelling",
+        "query_displayed": "Wisata edukasi Kota Padang"
+    },
+    "local_results": [
+        {
+            "position": 1,
+            "title": "Taman Edukasi Bencana",
+            "place_id": "ChIJ8fBIlnO51C8Rl9y318nKwd0",
+            "data_cid": "15979275921143618711",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b9739648f0f1%3A0xddc1cac9d7b7dc97&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9315886999999999,
+                "longitude": 100.35095439999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8fBIlnO51C8Rl9y318nKwd0",
+            "provider_id": "/g/11f5t42gz6",
+            "rating": 4.8,
+            "reviews": 4,
+            "unclaimed_listing": true,
+            "type": "Garden",
+            "types": [
+                "Garden"
+            ],
+            "type_id": "garden",
+            "type_ids": [
+                "garden"
+            ],
+            "address": "3992+998, Jl. Samudera, Purus, Kec. Padang Bar., Kota Padang, Sumatera Barat 25115, Indonesia",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours"
+            },
+            "extensions": [
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrfNwiwzbIVx5AOYzb4aEG2EEMNRCxGbgQiP55YaCtED1en9egIJk14bDiKdhRhEY-q9_k9C1QlvOoAkeeBzZpUnjkgpwrJiR9ARfxNqczKjg-CM09-uF1gFHNABZbZ8VWdJ7mp3Q=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/JOifmHicBcHdroIgAADgJyLDdEXbuSCiH1uWbqemNy2MwDAgoXS-4HmG3uZ83_dPem_dPAgaORkJY0TD3463ldGeaz-qzDMQ1oHKARdggmSk23va1d3Atqc-xodiYNGVrkNK92lO-jUTWX2M4-JKPF1CrhEX20TBiC3r3U3mkhbghS4KEZg1n4PBivPFUNpf_VDCdm1S5wjn9z59VcPuIQDZjxF4r6BYbVK8KFk5O51vyfRpJ9lPB8MQSBQCBbT5B1whRNk"
+        },
+        {
+            "position": 2,
+            "title": "Nobita Hill",
+            "place_id": "ChIJIVla7SK61C8RiVcKISmpdKU",
+            "data_cid": "11922340107669624713",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4ba22ed5a5921%3A0xa574a929210a5789&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9735541,
+                "longitude": 100.4157254
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJIVla7SK61C8RiVcKISmpdKU",
+            "provider_id": "/g/11c20bx6gh",
+            "rating": 4.4,
+            "reviews": 170,
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction"
+            ],
+            "type_id": "tourist_attraction",
+            "type_ids": [
+                "tourist_attraction"
+            ],
+            "address": "Kampung Jua Nan XX, Lubuk Begalung, Padang City, West Sumatra 25153, Indonesia",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours"
+            },
+            "extensions": [
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npdZ2k9SahZhFcbwagAe28f4SnnAWFkm8KZansrfzNW2YDWySIfEIjXk6tyy5_1bEsB5YE6SFIjkcBJ1YT_25b-whjLzoVenEUpb14WL_wi0JwFb6TFIzmCBCGEaMo24_eUG_9dVw=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/aehtdnicBcFRboMgAADQE1EnU6NN-qEOjF3XH9s6_SGCKJMKptAQvWDP0NvsvfdLWLuYvefdxedu1Hq886fhD6aV5crumJ69cTGAGWC8NE9EoJa-hTKpOtEKzKjrxpTDeAgqpdIayzn-bjtlHsN2rmHzVa9VOaBy-pWRXdeQ-BSZLGxQVOFykiw7-s2FwJACJ6bTpm9coetC_aA-Eff3cXSYRhdcbnOe5QXqfjQMCL8WJOlv7uB8CIFIIJBA6X907EUB"
+        },
+        {
+            "position": 3,
+            "title": "Ekowisata Padang Janiah",
+            "place_id": "ChIJXRyb-TzJ1C8Rz4da6ugPsO0",
+            "data_cid": "17127206875928627151",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4c93cf99b1c5d%3A0xedb00fe8ea5a87cf&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9036504,
+                "longitude": 100.4565781
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXRyb-TzJ1C8Rz4da6ugPsO0",
+            "provider_id": "/g/11kjg1sl5r",
+            "rating": 5,
+            "reviews": 20,
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction"
+            ],
+            "type_id": "tourist_attraction",
+            "type_ids": [
+                "tourist_attraction"
+            ],
+            "address": "Lambung Bukit, Kec. Pauh, Kota Padang, Sumatera Barat, Indonesia",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours"
+            },
+            "phone": "+62 852-1186-5339",
+            "website": "https://www.ekowisatapadangjaniah.com/",
+            "extensions": [
+                {
+                    "service_options": [
+                        "Onsite services"
+                    ]
+                },
+                {
+                    "accessibility": [
+                        "Assistive hearing loop",
+                        "Auracast broadcast audio",
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot",
+                        "Wheelchair accessible restroom",
+                        "Wheelchair accessible seating"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Gender-neutral restroom",
+                        "Restroom"
+                    ]
+                },
+                {
+                    "planning": [
+                        "Appointment required"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                },
+                {
+                    "parking": [
+                        "Free parking garage",
+                        "Free parking lot",
+                        "Free street parking",
+                        "On-site parking"
+                    ]
+                }
+            ],
+            "service_options": {
+                "onsite_services": true
+            },
+            "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPwiz0ZqO-bz3jTiy5pEshSAfBokMWrJ8j0a04d=w138-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/yDhounicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFkQUJ5ZZRBV6K-bVGWcFZJZaVrgWpwR7JjmlJ_tG17kZZFlkGhgkmJbbmhsoZthaaSbrZuXDwC6nyGE"
+        },
+        {
+            "position": 4,
+            "title": "Wisata Edukasi Taman Kelinci",
+            "place_id": "ChIJXyHaQqHH1C8Rnem7h5JjUMM",
+            "data_cid": "14073858316526414237",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4c7a142da215f%3A0xc350639287bbe99d&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.8343246,
+                "longitude": 100.37462339999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXyHaQqHH1C8Rnem7h5JjUMM",
+            "provider_id": "/g/11sbn925x2",
+            "unclaimed_listing": true,
+            "type": "Dude ranch",
+            "types": [
+                "Dude ranch"
+            ],
+            "type_id": "dude_ranch",
+            "type_ids": [
+                "dude_ranch"
+            ],
+            "address": "598F+7V2, Balai Gadang, Kec. Koto Tangah, Kota Padang, Sumatera Barat 25586, Indonesia",
+            "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iVEHLwCq500GS5FTwUzWHw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=240.9074&pitch=0&thumbfov=100",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/4tV-fHicHc1LDsIgFADA27ATXps2WhPiwqhduPO3NJRSeAktWLCol_Fc3kbjBWY-bxOjD0vGQhyVihOq5PGhbJh5QbVz2irhMVDpejZlLJp73wwC7cqLwWHL8byp92l9KwF2h3J7TKfXpU5ENldpUQ2RByVGaahOP3F0LdU-kMQXQAyvcvIUiecF0ArmBfEYpeFA_knnJp4BfAEeqzju"
+        },
+        {
+            "position": 5,
+            "title": "Museum Adityawarman",
+            "place_id": "ChIJcRVmd0651C8Re8cvlAEemYE",
+            "data_cid": "9338528294459393915",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b94e77661571%3A0x81991e01942fc77b&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9556749,
+                "longitude": 100.355865
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJcRVmd0651C8Re8cvlAEemYE",
+            "provider_id": "/g/120wl3xb",
+            "rating": 4.5,
+            "reviews": 3499,
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction",
+                "Museum"
+            ],
+            "type_id": "tourist_attraction",
+            "type_ids": [
+                "tourist_attraction",
+                "museum"
+            ],
+            "address": "Jl. Diponegoro No.10, Belakang Tangsi, Kec. Padang Bar., Kota Padang, Sumatera Barat 25114, Indonesia",
+            "open_state": "Open ⋅ Closes 4 PM",
+            "hours": "Open ⋅ Closes 4 PM",
+            "operating_hours": {
+                "tuesday": "8:30 AM–4 PM",
+                "wednesday": "8:30 AM–4 PM",
+                "thursday": "8:30 AM–4 PM",
+                "friday": "8:30–11:30 AM, 1:30–4:30 PM",
+                "saturday": "8 AM–5 PM",
+                "sunday": "8 AM–5 PM",
+                "monday": "Closed"
+            },
+            "phone": "+62 821-7100-3088",
+            "website": "https://museumadityawarman.sumbarprov.go.id/",
+            "description": "State museum of history & culture. State-run museum exploring regional history & culture in a traditional spire-roofed building.",
+            "extensions": [
+                {
+                    "highlights": [
+                        "Live performances"
+                    ]
+                },
+                {
+                    "accessibility": [
+                        "Wheelchair accessible restroom"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                },
+                {
+                    "crowd": [
+                        "Family-friendly"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                },
+                {
+                    "parking": [
+                        "Paid parking lot"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Assistive hearing loop",
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot",
+                        "Wheelchair accessible seating"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restaurant"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrkUYlRP5J7-VvrjDAE8D7Zo2d18kqOkFsSmIj3p4a6wF0QAFTGd3pznhV_S3OeX76Lnl2KdObCInTOpyW4qFPLhpntNXbMPgsc_fNAStmW3IbPIwfhPEF2lW4AEbMb2KwEVGDa=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/j3B7pXicBcFtDoIgAADQE5EFltXWD6bS7EvK0upPCzVZIpBQru7XIbpN7_2-3Fptpo4jOOpVSlWifJqyzZW0pbS9XDVOpQ3IDTAO9ifclW19OIkdHS48kL7ae4DDceCdFSwG4_oR18QkTXRH2r2OOtLfYrKfF0h_JE8vCYrLozdaSQGXRcz8SO5j_c7cB6ErrqXdHNmaVia_3DY4sU2GIkaj7sZpSKDIXByyNYPLLkznwXXWDSAEfAJBDaT6A3rrQ60"
+        },
+        {
+            "position": 6,
+            "title": "Danau Cimpago",
+            "place_id": "ChIJM03qlyy51C8R4-g6vxspOrY",
+            "data_cid": "13130852862701267171",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b92c97ea4d33%3A0xb63a291bbf3ae8e3&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9338367999999999,
+                "longitude": 100.3512528
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJM03qlyy51C8R4-g6vxspOrY",
+            "provider_id": "/g/11bzvb6b95",
+            "rating": 4.3,
+            "reviews": 727,
+            "unclaimed_listing": true,
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction"
+            ],
+            "type_id": "tourist_attraction",
+            "type_ids": [
+                "tourist_attraction"
+            ],
+            "address": "3982+FG6, Kelurahan Purus, Kecamatan Padang Barat, Purus, Padang, Kota Padang, Sumatera Barat 25115, Indonesia",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours"
+            },
+            "phone": "+62 751 93210",
+            "extensions": [
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                },
+                {
+                    "payments": [
+                        "Cash-only"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noG4GwnxiL2iw5iQomeHH77d06xTnetj_3IS623PS0gCN0UJSQdwYhDD1rJ4OyNUSFH_wcByKsnHadw0U42hOekzo4cvDjSX4AhJLgXje4lSBn2Oa9bIqr86tD8m_-hBvqMWhfPDg=w163-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/LuBr5XicBcFRboIwGADgE1WwVBATH8RGkDnRdGT6RLTU_iC0SjurXnBn2G32fX-_YO3NzDyvg2AktZad-DFi4FpZoeyI696TN4O4QcZbLGMgSqckderZbHDjJs1e9yLLoqj2w-eXEratgjULcbBjvlxu_TJn-9odgdLxkJPitS3ZKqscT14fRmWn2vklwVCI61sT_qAtO5AF5Bt5aAXpWKJwcYrP6_swDS2d9hWC5HH__IbLjsq5G4cBghijK1L6Hx-CRLA"
+        },
+        {
+            "position": 7,
+            "title": "Lubuk Paraku",
+            "place_id": "ChIJ3YdqAMC21C8R-6D3iiRDxQI",
+            "data_cid": "199639582717223163",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b6c0006a87dd%3A0x2c543248af7a0fb&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9468913,
+                "longitude": 100.5070291
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3YdqAMC21C8R-6D3iiRDxQI",
+            "provider_id": "/g/11dxhy2np_",
+            "rating": 4.3,
+            "reviews": 225,
+            "unclaimed_listing": true,
+            "type": "National reserve",
+            "types": [
+                "National reserve",
+                "Tourist attraction"
+            ],
+            "type_id": "national_reserve",
+            "type_ids": [
+                "national_reserve",
+                "tourist_attraction"
+            ],
+            "address": "3G34+6RR, Indarung, Kec. Lubuk Kilangan, Kota Padang, Sumatera Barat 25168, Indonesia",
+            "open_state": "Open ⋅ Closes 9 PM",
+            "hours": "Open ⋅ Closes 9 PM",
+            "operating_hours": {
+                "tuesday": "6 AM–9 PM",
+                "wednesday": "6 AM–9 PM",
+                "thursday": "6 AM–9 PM",
+                "friday": "6 AM–9 PM",
+                "saturday": "6 AM–9 PM",
+                "sunday": "6 AM–9 PM",
+                "monday": "6 AM–9 PM"
+            },
+            "extensions": [
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np1mfLx8b2kKEeKHVKcXH7ECIeJYhFC6qYfq9CHoH8IHJiOm3-BgS3HPG9H9zheb-zuaKkfV9pNWnH9c9lpeyAk3RHroYZyBPI0bD529pohedawZQkG0HYeYTOGNh_xCPq-_-s=w163-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/ZXv1h3icBcFbcoIwFADQFUWUtOrtTD80VS7SUWo7avxxJF6IE0iCwfGxvm6iu-k5f7-663x4i6Ja817lXFXTNdBFOduR7XrKNVHlA1OBhWgiQL9YP2jKz_u4iE02oww3mdrhaCZSWkg9F8NWli0IdDhOcXFeNZxNq2-OeQIIT00Fe16PmSk34Jdbi6Cg9vSYGL7Gi5P7xzRP-8XHawzeaTodb_svk_RRkvxZJUt9uIu8ZQcW3m-DIWcaYmaYdf8HqkMP"
+        },
+        {
+            "position": 8,
+            "title": "Museum Rumah Kelahiran Bagindo Aziz Chan",
+            "place_id": "ChIJzbFJ2kS51C8RDfk1PrBAD44",
+            "data_cid": "10236471603738573069",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b944da49b1cd%3A0x8e0f40b03e35f90d&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9559352,
+                "longitude": 100.3643353
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzbFJ2kS51C8RDfk1PrBAD44",
+            "provider_id": "/g/11dx8_t0cd",
+            "rating": 4.5,
+            "reviews": 44,
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction",
+                "Museum"
+            ],
+            "type_id": "tourist_attraction",
+            "type_ids": [
+                "tourist_attraction",
+                "museum"
+            ],
+            "address": "Alang Laweh, Padang Selatan, Padang City, West Sumatra 25133, Indonesia",
+            "open_state": "Open ⋅ Closes 4 PM",
+            "hours": "Open ⋅ Closes 4 PM",
+            "operating_hours": {
+                "tuesday": "8 AM–4 PM",
+                "wednesday": "8 AM–4 PM",
+                "thursday": "8 AM–4 PM",
+                "friday": "8 AM–4 PM",
+                "saturday": "8 AM–4 PM",
+                "sunday": "8 AM–4 PM",
+                "monday": "Closed"
+            },
+            "extensions": [
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible parking lot"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restaurant"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npXDjLwkCUC7kjcrc7HMeBkza4vOyVPuTP_3s4Srp-Q5O0A45kYiywauPzqvZcQ1Wj-NIXQpQ8s6XRIuD1EzN-53d9nT2qAQ2kpu0-Q00VpdANcEp9TyrNUFsikup47IBrC-vxY=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/YiM4ZnicBcHRboIwFADQL7oCpQxZ4gOiy0gm0gkO97KYSkDq2mtLYfB_-wj_xnMe_23fo3l1nFvrLxqlmlttTa25kn0t-wVXv06DBrgB48RJ1FKJ1ab7GEVSJqHouObh-65ei_lMh_10zG2R__iGHjQCC_ZuTANxuk7j2ebzffjmzPvqIEsrhmxpXqrP1G687ZxB4F8iWZB7zIhA6wJz3SNe4oxvMSomnZVv5ios0jBd6wSGv9Nq9AiBNiIgQKonxvVECg"
+        },
+        {
+            "position": 9,
+            "title": "Guo Kalaluang",
+            "place_id": "ChIJteLJ-_m31C8R991Kg3RwJBw",
+            "data_cid": "2027869377944804855",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b7f9fbc9e2b5%3A0x1c247074834addf7&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9442832,
+                "longitude": 100.4992108
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJteLJ-_m31C8R991Kg3RwJBw",
+            "provider_id": "/g/11fm4yqp_w",
+            "rating": 4.7,
+            "reviews": 89,
+            "unclaimed_listing": true,
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction"
+            ],
+            "type_id": "tourist_attraction",
+            "type_ids": [
+                "tourist_attraction"
+            ],
+            "address": "3F4X+7MP, Indarung, Kec. Lubuk Kilangan, Kota Padang, Sumatera Barat 25168, Indonesia",
+            "open_state": "Open ⋅ Closes 6 PM",
+            "hours": "Open ⋅ Closes 6 PM",
+            "operating_hours": {
+                "tuesday": "6 AM–6 PM",
+                "wednesday": "6 AM–6 PM",
+                "thursday": "6 AM–6 PM",
+                "friday": "6 AM–6 PM",
+                "saturday": "6 AM–6 PM",
+                "sunday": "6 AM–6 PM",
+                "monday": "6 AM–6 PM"
+            },
+            "extensions": [
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np0rEuWc-kotamD0n8Fe8MqpeWLgBD9co3NEVHkUhGBVd78QdxAhA6-FWqf7CjiODn80fNBhB2DZwK7Y_cX9-7uJrIlZu0rIBfY8a1fdT6fkoH3NQiyy4u6mRs1SfXa-Zxt0hrX1g=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/5O7uMXicBcFbcoIwFADQFV0J4EDoTD-IaH20dKxWkJ8OE_KwQIJ5jLrCrqG78Zz_P-ncZF-CYJDxTGgtBuYtM1Qrx5SbUT0GYrJALdggX2RyriZklr6i0GvXjgVSeMXwx3Vi1bsgRUZ1XC5P6_5bvpFTl-J9d89lnsCquvJ08Xv5LBRGvCSSREVz26XnH1pnkPqt2QyNR2ZD-Bm3Ie-OCe_1Oi73l8dj7pPxy4YHXrfQ3B2Spg7F6y2MIpBZBD0o_QT4L0Qs"
+        },
+        {
+            "position": 10,
+            "title": "Jambak Sea Turtle Camp",
+            "place_id": "ChIJ01a-tITB1C8RFGjk3lgYvcI",
+            "data_cid": "14032398783932033044",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4c184b4be56d3%3A0xc2bd1858dee46814&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.8278298,
+                "longitude": 100.3023362
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ01a-tITB1C8RFGjk3lgYvcI",
+            "provider_id": "/g/11c385v4gp",
+            "rating": 4.6,
+            "reviews": 170,
+            "price": "$",
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction"
+            ],
+            "type_id": "tourist_attraction",
+            "type_ids": [
+                "tourist_attraction"
+            ],
+            "address": "Jl. Pasir Jambak, Pasie Nan Tigo, Koto Tangah, Padang City, West Sumatra 25173, Indonesia",
+            "open_state": "Open ⋅ Closes 6 PM",
+            "hours": "Open ⋅ Closes 6 PM",
+            "operating_hours": {
+                "tuesday": "8 AM–6 PM",
+                "wednesday": "8 AM–6 PM",
+                "thursday": "8 AM–6 PM",
+                "friday": "8 AM–6 PM",
+                "saturday": "8 AM–6 PM",
+                "sunday": "8 AM–6 PM",
+                "monday": "8 AM–6 PM"
+            },
+            "extensions": [
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                },
+                {
+                    "payments": [
+                        "Cash-only"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqq6Y0vYsUJTqhROw6wQv5gaS015ZFvo3M_2ZFdfVv4PoY0nAxDTmvfKOpreQHtf-JDGrJ6CkGhrGRmic4DGW0Vdwo6NwjgTqaMTBJj0VxOrC6rwwZCGddF2uHJ8b4aQGYjURJJyQ=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/0Wx3z3icBcFdboIwAADgE1VqhWYu2YNCqOniGIgs8LIgP60oLbS11RN6Bm_j972e3JhJf3rela8WTEp27W66U40UphNm0cjRY5MGjQba24Rr7ot5xiW0pT7SfOZZ4rBLbcDqA1wGVWzlav-PqrjtC-v_yhKKzT3KR9t_J5Pq0p3pAY2Ioji8EK5INp4bPyJ_sGidxD9uYPlc7_MtHWBxT1SIlXNVSNo2Rrcd_Tj5dUrK4ZhR-ki_3BIhwNcIXICQb3YGRV0"
+        }
+    ]
+}

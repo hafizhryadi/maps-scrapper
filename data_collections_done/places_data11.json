@@ -1,0 +1,974 @@
+{
+    "search_metadata": {
+        "id": "68db8af2634a63bc6a1f5a9d",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/521f30aeee6c8a23/68db8af2634a63bc6a1f5a9d.json",
+        "created_at": "2025-09-30 07:46:58 UTC",
+        "processed_at": "2025-09-30 07:46:58 UTC",
+        "google_maps_url": "https://www.google.com/maps/search/Wisata+religi+Kota+Padang?hl=en",
+        "raw_html_file": "https://serpapi.com/searches/521f30aeee6c8a23/68db8af2634a63bc6a1f5a9d.html",
+        "total_time_taken": 0.64
+    },
+    "search_parameters": {
+        "engine": "google_maps",
+        "type": "search",
+        "q": "Wisata religi Kota Padang",
+        "google_domain": "google.com",
+        "hl": "en"
+    },
+    "search_information": {
+        "local_results_state": "Results for exact spelling",
+        "query_displayed": "Wisata religi Kota Padang"
+    },
+    "local_results": [
+        {
+            "position": 1,
+            "title": "Masjid Nurzikrillah",
+            "place_id": "ChIJe5GP66rH1C8Ruql1EfYk6sA",
+            "data_cid": "13900963839105935802",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4c7aaeb8f917b%3A0xc0ea24f61175a9ba&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.8543227,
+                "longitude": 100.3965731
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJe5GP66rH1C8Ruql1EfYk6sA",
+            "provider_id": "/g/11clmcrrh5",
+            "rating": 4.7,
+            "reviews": 258,
+            "unclaimed_listing": true,
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction",
+                "Mosque"
+            ],
+            "type_id": "tourist_attraction",
+            "type_ids": [
+                "tourist_attraction",
+                "mosque"
+            ],
+            "address": "49WW+7JG, Lubuk Minturun, Koto Tangah, Padang City, West Sumatra 25586, Indonesia",
+            "open_state": "Open ⋅ Closes 6 PM",
+            "hours": "Open ⋅ Closes 6 PM",
+            "operating_hours": {
+                "tuesday": "8 AM–6 PM",
+                "wednesday": "8 AM–6 PM",
+                "thursday": "8 AM–6 PM",
+                "friday": "8 AM–6 PM",
+                "saturday": "8 AM–6 PM",
+                "sunday": "8 AM–6 PM",
+                "monday": "8 AM–6 PM"
+            },
+            "phone": "+62 878-8872-1313",
+            "extensions": [
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqVVJVtJdPhZpCQHZNT0I4vW4nXpkC0GP7x5r-aDcK18Q-KG7giXToUVwFGyWn9MFHcDb9YeS94cAFEOhLgos1VbioflpZ_qB_L2iMS49bY2BxMTxuektXoQNYNdc6mzeSWmyDZ5A=w163-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/mKAzz3icBcFbcoIwFADQFUUEozad6QdCwapQGWh4_DglpgkD5EYTK3aDXUN303P-fqW12jw7ziAXMwEgBn4z_MpAWa7sjMHoCG0QM8g4fkAkVhdKd9TuzkfZ6CDbNmkxf8PfJVaV7oN5fFxPyyv6DNnefcrQPl6Lrirgg96j-FEqkkRbFrak5jnBzI9e3-VBgHFp28HXoJvTZXM6eF2SY9LW3mZKiunGe1tBltbpma3GH56X4yNslv7L3V0tkCQe6pGCf_1VRLs"
+        },
+        {
+            "position": 2,
+            "title": "Menara Masjid Raya Syekh Ahmad Khatib Al Minangkabawi Sumatra Barat",
+            "place_id": "ChIJ9eBxo9m41C8Redp03koO-UU",
+            "data_cid": "5042076972540549753",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b8d9a371e0f5%3A0x45f90e4ade74da79&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9252994,
+                "longitude": 100.36282179999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9eBxo9m41C8Redp03koO-UU",
+            "provider_id": "/g/11fylqpdmf",
+            "rating": 4.8,
+            "reviews": 44,
+            "unclaimed_listing": true,
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction"
+            ],
+            "type_id": "tourist_attraction",
+            "type_ids": [
+                "tourist_attraction"
+            ],
+            "address": "39F7+V4P, Alai Parak Kopi, Kec. Padang Utara, Kota Padang, Sumatera Barat 25173, Indonesia",
+            "extensions": [
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np1xsvGMNbCRppYyqZ6pirUg4PBXmWTVql2BEnj2Gj2G6K7qJ9UVEbWhHgVkiyC2bxX6zGeGiB21WJS8aGoRJudNjIfrwieJJPH7Kw1GPVm0PrppiZLvoPdp9GchAEuSxskXUkooQ=w163-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/dSYjgXicDcJbcoIwFADQFUVKdLB0ph_CMLGxdVItj_pXME0ikHshINgNdg3upj1z7r96GNA9eV6jlwsFoBo5OtlXYAdph0UFrafQkcoR523iUK8s-rO7srd9GR8QP2_dKUDTp2oloqLNP7KuoVFiL5T9D3brjodplpS53qqsNreYlnMR_DDJTET9nB8fvxgc-HjeX16--8lIzsV2vZt8JrL2QfSI5vR6BXHGkFV6k4zH2dVFWgO8P09-sCQ6pKQmFv4AkvpGPw"
+        },
+        {
+            "position": 3,
+            "title": "Masjid Muhammadan",
+            "place_id": "ChIJzRoc11u51C8R6ZxMAgDu-nQ",
+            "data_cid": "8429311336383290601",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b95bd71c1acd%3A0x74faee00024c9ce9&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9615332,
+                "longitude": 100.3641928
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzRoc11u51C8R6ZxMAgDu-nQ",
+            "provider_id": "/g/11dyl1hlw",
+            "rating": 4.8,
+            "reviews": 321,
+            "unclaimed_listing": true,
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction",
+                "Mosque"
+            ],
+            "type_id": "tourist_attraction",
+            "type_ids": [
+                "tourist_attraction",
+                "mosque"
+            ],
+            "address": "29Q7+9MP, Jl. Ps. Batipuh, Pasa Gadang, Padang Selatan, Padang City, West Sumatra 25134, Indonesia",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours"
+            },
+            "extensions": [
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrqaljQ_W-aeNTGX7ewZtzZn-YSccixL7m-PxVJaCSen5R6gjT15F7TVVYyMmVgkFogJOZ7H-6jQkr8yThIA17bNHtHkhQFhDfpHuhUnkgmyVAsCUfMaYwYZpIqV-7GVDlFkt_i=w163-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/Dh7SGnicBcHdDoIgGADQJ_pyZkm1deFsZq4_yyi9acYIFAUVmtn79RC9Tef8vtyYRi8sq-LOiCnFKvrStCNKGirNiKjaYo0GokFbnj_nE9m1eVXG9yvkdJ-sb4j2mflkEtIzIcV7i2o4vnGU-2cqpyeXlYk9DVCCcTrsasxEoFh0yFAIbhmLbjYkfOPZ6LEPTSh4HPDVswlf_CIFqwfsaf_y3OVpn2bNpsWA1nhVBcLci2Vvuw7w-RgESPUHGGJFhA"
+        },
+        {
+            "position": 4,
+            "title": "Great Mosque Nurul Iman Padang",
+            "place_id": "ChIJwZEBc0W51C8R8vU6gPbYkF0",
+            "data_cid": "6742127195398534642",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b945730191c1%3A0x5d90d8f6803af5f2&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9546954999999999,
+                "longitude": 100.3623068
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJwZEBc0W51C8R8vU6gPbYkF0",
+            "provider_id": "/g/15dpbvhy",
+            "rating": 4.7,
+            "reviews": 3565,
+            "unclaimed_listing": true,
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction",
+                "Mosque"
+            ],
+            "type_id": "tourist_attraction",
+            "type_ids": [
+                "tourist_attraction",
+                "mosque"
+            ],
+            "address": "29W6+4WF, Belakang Pondok, Padang Selatan, Padang City, West Sumatra 25133, Indonesia",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours"
+            },
+            "phone": "+62 751 841687",
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible restroom"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npQOnpbRuczFBgNttxnowRf9e_QOgh3X0qYPvVNRo3dSS5z8wkgE4qR4Htq-TPkoLlo_30BOC-2snSHm_vWiV5SJzC2j3IUZAcnS0f0TyTV6QaZarx3nb1igkculARgN26h2I4B=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/43uXN3icBcHRboIwFADQL6pgi0aW7AGIRpcFpEXceCHaYevAe8EWUf7Pj_BvPOf11Na25sNxGs0mClE1VW-qq0SwFdiJxIujWkOkIcYJIl970KYJtEfey3EVqtjaO-DAT35VponS7Mftfre3PObI_oSYjYuhVkuv497adiTb1vjdYMncMIkINSDWl_K2P-cz8TVG9J9tdkUgQbgnN3tk-Tw9FIfrncFxela17JuAq5jONd144ecwpZRon5KaAL4BP9dE3w"
+        },
+        {
+            "position": 5,
+            "title": "Masjid Al-Qahhar",
+            "place_id": "ChIJEUIhmqm71C8RoEV9L4yR2ck",
+            "data_cid": "14544816502847915424",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4bba99a214211%3A0xc9d9918c2f7d45a0&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -1.0017497,
+                "longitude": 100.38806009999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEUIhmqm71C8RoEV9L4yR2ck",
+            "provider_id": "/g/11clyzxyjn",
+            "rating": 4.7,
+            "reviews": 190,
+            "type": "Mosque",
+            "types": [
+                "Mosque"
+            ],
+            "type_id": "mosque",
+            "type_ids": [
+                "mosque"
+            ],
+            "address": "jl lintas sumatera Teluk nibung, Gates, Nan XX, Lubuk Begalung, Padang City, West Sumatra 25227, Indonesia",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours"
+            },
+            "phone": "+62 823-8136-0230",
+            "extensions": [
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np_tGOCrt7RdODOAv5f_zSoLsYQcjDx6I1g7RcUTD7VcaShqUoQD-GTf6zzha1aHy4UAI7qRZmnkOFQ9h15k_bRgteZBqlx_dpZks4DDaLHWWBS9IzM5TcorPdffu_V25AeX3SbhA=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/38lcCXicBcFtDoIgAADQExHTNGdbPyhWudXMryz_MEOEpYEKlXnBztBteu_3FcZ0eglhK-YzrhRv2VOzgSppmDQzqh6QdxpQDTREG184siNmF24G48VViEP0cmsyJeqgrxG943ERWNyLaZZi70zLRPSZijDYpfVimkRplfuPk6HA6-PiIZtwG_nCchtyi7lhxbpvR1J1RaMdjMvDPs_XiR9MRzelajhVdf0kZ9tF7DJPbgKt3pZtA-HboAFS_QGC80WK"
+        },
+        {
+            "position": 6,
+            "title": "Masjid Raya Syekh Ahmad Khatib Al-Minangkabawi Sumatera Barat",
+            "place_id": "ChIJ8xkjjdm41C8R03CQNCOI-us",
+            "data_cid": "17004053027877843155",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b8d98d2319f3%3A0xebfa8823349070d3&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.924576,
+                "longitude": 100.3630106
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8xkjjdm41C8R03CQNCOI-us",
+            "provider_id": "/g/1hc0g5b90",
+            "rating": 4.8,
+            "reviews": 22227,
+            "unclaimed_listing": true,
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction",
+                "Mosque"
+            ],
+            "type_id": "tourist_attraction",
+            "type_ids": [
+                "tourist_attraction",
+                "mosque"
+            ],
+            "address": "Alai Parak Kopi, Padang Utara, Padang City, West Sumatra, Indonesia",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours"
+            },
+            "description": "Modern prayer hall with a striking roof. Grand Islamic prayer & study center with a 4-pointed roof modeled on traditional tribal houses.",
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npso0rkhCcnsuULpyRm04ccw3J85OsEt8lsNAHN-31WeV2-rv57qeoXjUtfMRwBwKe7KIcJznLcTe8cukEgOSkxZ3FawGW3smK2X--fkAkEm2KIXOldTTZ68XyJnjVAe-K5UfL3Kw=w163-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/J2CBw3icBcFbjoIwFADQFV1RKoqTzAcafFCUxAEl_plrobHQIrdYnQ3OGmY3nvP_J63t6MvzGslGtTF1IwYSPRpthbYjNK1XdwRIQF60Wsip7siMeyVXqGko0u59bMdTRMeSMMgotmFDh2h7ADY5i5MP_TOYP4Qp74Wt9ke3dFzM-Q6TX51iLkIcVFxnP-p1Yeur25wZtdwvASoVqbj1-a7MmlueX2Zh-U70_RQJ4EFRpYy7bzeZMZALHxRo8wGHI0UT"
+        },
+        {
+            "position": 7,
+            "title": "Mesjid Raya Muhammadiyah Tanjung Sabar",
+            "place_id": "ChIJc1OnqZq51C8R6y3QQuDeRjk",
+            "data_cid": "4127231163306618347",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b99aa9a75373%3A0x3946dee042d02deb&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9559622,
+                "longitude": 100.40602679999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJc1OnqZq51C8R6y3QQuDeRjk",
+            "provider_id": "/g/11c0r5m26h",
+            "rating": 4.7,
+            "reviews": 194,
+            "unclaimed_listing": true,
+            "type": "Mosque",
+            "types": [
+                "Mosque"
+            ],
+            "type_id": "mosque",
+            "type_ids": [
+                "mosque"
+            ],
+            "address": "Jl. Tj. Sabar No.17, Tanjung Saba Pitameh Nan XX, Lubuk Begalung, Padang City, West Sumatra 25155, Indonesia",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours"
+            },
+            "extensions": [
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npXexJ3PeKhQOsc4ARe13d8_K6_WtB1MHlZFRdsFBWajwetSMz_5sme7NlwiCtyzXQyMwaStbhjGLeqpw3NzQr7pd1_Fmild1fdds9zAcyTWBJrni1l3gglLMfqURxdP9Ah6xZ5Iw=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/M2-_RnicBcHdboIwGADQJ6qk1J-xZBdgwjYVJ7gF4w1x7WeLK23l61LgBfcMexvP-f9T3jt8jiKt2ExaKzX8IvTcGg_Gz7jtIumQcCQYpetEzY07wbBhB9iq8gP5PK2AMvHUbJdN7TNavOlzXgnMs_pyC-CPxdQssIPVXod27cfpVI5FuBz9t7q97uDuAttPZb9ygjZ512pBr0JgMqV8_KyzTW9aqpmUeldc71_VIA5JqpbDefEeXgKNY6KSmPwQYx_kWEdC"
+        },
+        {
+            "position": 8,
+            "title": "Masjid Raya Kebenaran",
+            "place_id": "ChIJqwxGSQa51C8Rb0EpE-8_CZA",
+            "data_cid": "10378897112303223151",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b90649460cab%3A0x90093fef1329416f&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9357291999999999,
+                "longitude": 100.39179709999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqwxGSQa51C8Rb0EpE-8_CZA",
+            "provider_id": "/g/1hm3qf22z",
+            "rating": 4.7,
+            "reviews": 1213,
+            "unclaimed_listing": true,
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction",
+                "Mosque"
+            ],
+            "type_id": "tourist_attraction",
+            "type_ids": [
+                "tourist_attraction",
+                "mosque"
+            ],
+            "address": "Jl. Dr. Moh. Hatta, Anduring, Kec. Kuranji, Kota Padang, Sumatera Barat 25151, Indonesia",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours"
+            },
+            "extensions": [
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np4_cDvqGT35D6u6xNjsuu_IlmXEu5KsPdaRB8VQl-v7jJpGglL9sE8dTj82qkzQdI88Yn8FTj2OHVLszFZV4IQIdnGtOdSCIEkwt2niKS2_RBbcDLrYOxlkZt46wxJbTd-4P79=w163-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/zhztZHicBcFRboIwGADgE1ViqViW7GECYpUMUUImL2S0BAa1Rf9WiPfbIbyN3_f674wZ4cNxZOcuWq1b2Vho7lwr0yiz4PrqtCMgDgicr8DviBpJxcPHLc7dVehZb_7uwdqKyetPZFcHOIrf04YWmUSPdb8f41YmPkRU5D3Ft-GZCUbpRdFt3uN0VyTw3JYFYRkTKjapOAcsGiaD1d_hjKvTpuZhcr-ksxxKQ7xp3te5QOS49j-npeeizsdoQEq_AclMRDo"
+        },
+        {
+            "position": 9,
+            "title": "Cahaya Hati Wisata Religi Travel",
+            "place_id": "ChIJsSsAusi51C8RKJSNL-TfbGI",
+            "data_cid": "7092289684345033768",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b9c8ba002bb1%3A0x626cdfe42f8d9428&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9222807,
+                "longitude": 100.3681154
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJsSsAusi51C8RKJSNL-TfbGI",
+            "provider_id": "/g/11r_tx8mjt",
+            "rating": 4.9,
+            "reviews": 9,
+            "type": "Medical office",
+            "types": [
+                "Medical office",
+                "Travel agency"
+            ],
+            "type_id": "medical_office",
+            "type_ids": [
+                "medical_office",
+                "travel_agency"
+            ],
+            "address": "Komplek, Jl. Pesona Inanta No.9 Blok D, Alai Parak Kopi, Kec. Padang Utara, Kota Padang, Sumatera Barat 25139, Indonesia",
+            "open_state": "Open ⋅ Closes 6 PM",
+            "hours": "Open ⋅ Closes 6 PM",
+            "operating_hours": {
+                "tuesday": "8 AM–6 PM",
+                "wednesday": "8 AM–6 PM",
+                "thursday": "8 AM–6 PM",
+                "friday": "8 AM–6 PM",
+                "saturday": "8 AM–6 PM",
+                "sunday": "Closed",
+                "monday": "8 AM–6 PM"
+            },
+            "phone": "+62 813-7811-2001",
+            "website": "https://www.instagram.com/cahayahatipadang.real?igsh=bnU3MTdpMGdxaHcw",
+            "extensions": [
+                {
+                    "from_the_business": [
+                        "Identifies as women-owned"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Gender-neutral restroom"
+                    ]
+                },
+                {
+                    "payments": [
+                        "Credit cards",
+                        "Debit cards"
+                    ]
+                },
+                {
+                    "parking": [
+                        "Free parking garage",
+                        "Free parking lot",
+                        "Free street parking",
+                        "On-site parking"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible restroom",
+                        "Wheelchair accessible seating"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noP_1DiEjCe7q2KXA28XTY2h4sPXEXiqTyC0Qe4q3wCztN87AZlo15ZHmZLbcGNviuKSeXRM9EeCsNoFh4tMzQIxYMLNpbKZoXy_pfoHZBElar93cXe3eo_wGPfovKphdQO-MiLUe_o_tZk=w80-h139-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/Y3NlxXicBcFbcoIwFADQFUWE4AjO9ANT1A6PQqszMT-Zml4JitxgolT32AV0Nz3n71c7Z-zC8zpNJw1i08HNwlVh76B3E4UXrzGWKEusl7BYhz1W0n9t0xOD-RBkPAkivt0HOrQVT3k7bB9sWkM40JE9XRnNE9GhPxObi8gPal3e21v2CfyjiFNgtsSVDl3xrN9-9kVemkMmkD-kOeJGLNPu6xpTxYECynFdHfGeGf1dv5OizXcgUTpxfhmjKdE-jcmZ9PgP2udH4g"
+        },
+        {
+            "position": 10,
+            "title": "Gantiang Grand Mosque",
+            "place_id": "ChIJpVGZznG51C8RAwR8yFvZFu0",
+            "data_cid": "17084081224705377283",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b971ce9951a5%3A0xed16d95bc87c0403&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.954324,
+                "longitude": 100.3696892
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJpVGZznG51C8RAwR8yFvZFu0",
+            "provider_id": "/m/0j9k3w3",
+            "rating": 4.7,
+            "reviews": 243,
+            "unclaimed_listing": true,
+            "type": "Mosque",
+            "types": [
+                "Mosque"
+            ],
+            "type_id": "mosque",
+            "type_ids": [
+                "mosque"
+            ],
+            "address": "Jl. Ganting No.1, Ganting Parak Gadang, Padang Timur, Padang City, West Sumatra 25133, Indonesia",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours"
+            },
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible restroom"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq5YH-A0KhOjzWphFfQ5eeKR-hn5tjpZ7zMgrzCj7xn7j5qigl-CytMeNdEiHzJqL4yyER-Axn5r8LqmmvMOI_Xatuu3_a7hlStOREROF6KzlLl4VmncbdntvAXjcKoUavdyqCj6A=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/I8AznHicBcHRToMwFADQL7pjMjqciQ8NYZkCEjHq9GXB0rWrpaX0gqM_6Df4N57z9ysRB38XRVpuVsJaofnk-cisQW5wxWwficED8-Ajmu1kYhz5OABdF7JW4X2Q-_Mz4bxoQBqCavhMQyXGkKn0alJF3EVoyBas-FOXXw7h0ZXJsuQN0Ksh423p-n6u6ofTscVp2pzaVOoXrJu8qffbIuhSJ2-9YV-dwZkeFSvsazt3i8vUlt7_3MQxyF0M32DsP9FmRzg"
+        },
+        {
+            "position": 11,
+            "title": "Masjid An-nuur",
+            "place_id": "ChIJiRxtkWvB1C8RTItNaoAiEWk",
+            "data_cid": "7570870383521139532",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4c16b916d1c89%3A0x691122806a4d8b4c&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.8316180999999999,
+                "longitude": 100.3227058
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJiRxtkWvB1C8RTItNaoAiEWk",
+            "provider_id": "/g/11c38kmskw",
+            "rating": 4.7,
+            "reviews": 14,
+            "unclaimed_listing": true,
+            "type": "Mosque",
+            "types": [
+                "Mosque"
+            ],
+            "type_id": "mosque",
+            "type_ids": [
+                "mosque"
+            ],
+            "address": "589F+934, Perumahan pondok pinang, Lubuk Buaya, Kec. Koto Tangah, Kota Padang, Sumatera Barat 25173, Indonesia",
+            "extensions": [
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqkMCYWPZCj9sKmln0h6L5PYKw9i0asO-Yo-lMS6Q-fBlnSo0_4KCCOEvU5jyNJCCkr_VGCGHGrGJdWjn_hmG8fdXv38evViej2-lpa0MCzjoTuYcIplVWha0mAn_ikLDTpESfy=w189-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/dNtlOnicBcFbjoIwFADQFV3p-AqdZD70ajoj4iM4IP4QgoVSStuhiNH9uQh3M-e8X6Lvrfv0PCUmo8qYSvGb411hdM91PypM61XWQeHAeQukYqr_mhDT5HBBSV3QKk3EfDs7pMGd1iR3e0gNqDCaH6FcKh0Zkk0DxP16-J3Jx26D2HRZzJB9s45tronUmWiZX17Pw8TnQ1xzOQZlcxLiU5rTLS1-rIoTkZN2obO62a5Odh2Vj6_7h09B0DE0oM0_moxEvA"
+        },
+        {
+            "position": 12,
+            "title": "Baiturrahmah Mosque",
+            "place_id": "ChIJj2V5gRozKy4RKngUw1QzuLs",
+            "data_cid": "13526617919950452778",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2e2b331a8179658f%3A0xbbb83354c314782a&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.8703061,
+                "longitude": 100.3826397
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJj2V5gRozKy4RKngUw1QzuLs",
+            "provider_id": "/g/11n1nt81h3",
+            "rating": 4.8,
+            "reviews": 1008,
+            "unclaimed_listing": true,
+            "type": "Mosque",
+            "types": [
+                "Mosque"
+            ],
+            "type_id": "mosque",
+            "type_ids": [
+                "mosque"
+            ],
+            "address": "Jl. By Pass, Aie Pacah, Koto Tangah, Padang City, West Sumatra 25586, Indonesia",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours"
+            },
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot",
+                        "Wheelchair accessible restroom"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrBV7O4ZgsIA4kWjbOGmKYcvM5qdT4HXdyMm_wYYKrOBqnLi0J6jGVFpTfofbWt7Ou3WpoCdzhn3dQjWKqQVUjgrCCl-TrljrqgnEruSBWVOVl7NMwIeFSNkYokiAX7JzzkYMNk=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/RjlUXnicBcFdboMgAADgE1E7tTNdsgc1_XVKmjqQvjSpWiggKOBMvV8P0dvs-94v5lxvvzxPsmBBtaayHW1raq1cq9yi1p1HewtqC6wXp2sWKpOgCIYXag9xKDC_wV2XkfovXw1NGe6r5pl314mQzMBkUD-P5fGT79C2L-_6fsMugmOAe502M1NBc-I4G07ol1OTphKURnIzULUx4znBCCIZFfl0aLfnQhAtHnEVHedZkLwQ39OH7wO29oEASv8DOxlGWw"
+        },
+        {
+            "position": 13,
+            "title": "Al-Hakim Mosque",
+            "place_id": "ChIJnYIZd6W41C8RwPc6g3SlFmc",
+            "data_cid": "7428306555230681024",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b8a57719829d%3A0x6716a574833af7c0&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.960487,
+                "longitude": 100.353338
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJnYIZd6W41C8RwPc6g3SlFmc",
+            "provider_id": "/g/11ckvglknm",
+            "rating": 4.9,
+            "reviews": 3185,
+            "type": "Mosque",
+            "types": [
+                "Mosque"
+            ],
+            "type_id": "mosque",
+            "type_ids": [
+                "mosque"
+            ],
+            "address": "Jl. Samudera, Berok Nipah, Padang Barat, Padang City, West Sumatra, Indonesia",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours"
+            },
+            "phone": "+62 751 442603",
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible restroom"
+                    ]
+                },
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqjL5DptBdjg64YN-32UQltWd915qxWJgJoy5_Fm2hC5sEeh5NxxnheDwlJfcJdn-OxaDfLsF6AS4uRit805LXI9FS9o3hk4JDx8n_1onIuBXIZHQclr03JthdSVAekwFBm2L6y=w163-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/fSu4I3icBcFRboIwGADgExWEUmJNfAAZGQ1xUbKhvhhTSv9JadGWUA_oIXabfd_fG5yb7CYMFeBAGiOVmK14cqOd0C7gZgzlZBG3yIbZjkKiH_eaFJPLu7tMk_Me4fj7oFzb0Yg8fMskMy9yLccYdsR-CCB77zWIYlGs56zT6Mvfir62ZZo1yXz8desVqU8VLRtqMAwJK_xaXyOjqzk_VZfPA1fPFWYOuuYnE8NS5mNcp6_tEqUYAY3RgLT5B5fXQ9o"
+        },
+        {
+            "position": 14,
+            "title": "Danau Cimpago",
+            "place_id": "ChIJM03qlyy51C8R4-g6vxspOrY",
+            "data_cid": "13130852862701267171",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b92c97ea4d33%3A0xb63a291bbf3ae8e3&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9338367999999999,
+                "longitude": 100.3512528
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJM03qlyy51C8R4-g6vxspOrY",
+            "provider_id": "/g/11bzvb6b95",
+            "rating": 4.3,
+            "reviews": 727,
+            "unclaimed_listing": true,
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction"
+            ],
+            "type_id": "tourist_attraction",
+            "type_ids": [
+                "tourist_attraction"
+            ],
+            "address": "3982+FG6, Kelurahan Purus, Kecamatan Padang Barat, Purus, Padang, Kota Padang, Sumatera Barat 25115, Indonesia",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours"
+            },
+            "phone": "+62 751 93210",
+            "extensions": [
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                },
+                {
+                    "payments": [
+                        "Cash-only"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq8haI7nG9yqtsdpvPYbKXUkwCGoy1uhZi0KNM9R9-dJTkC5nA8-N4iwM1CiBoj2xx9l5_E_5Gao-VVXYfLsK-o4ZxzoktEQPGPNdWhLxfL9HtrWpakiaYNmEXiKLdOMxGeGTkPTg=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/tW0GBXicBcFbcoIwFADQFV0pFEbjjB-WYaLyKHZQwB-HApI0mIsmSnSDrsHd9Jz3i2k9qLll9exz0iF2fXtT7bVGqVupJzWerW5QUCtQ1tInzJWXGavWU0nJ46JVM9zT8jcsdmL0KT7sGzvwjzCJyQ-BZpMJ35PLGSQuH2Pb51_45xhDeu8YHD1aIez3RXmKVAjoHswThQ62KU2TJmeROUVkpa_5UAlelck5KHgYNd-xoS3NRJp1i9F2HGDEAQES_wF35EXJ"
+        },
+        {
+            "position": 15,
+            "title": "Kota Tua Padang",
+            "place_id": "ChIJYV_lt1e51C8RrA3kEe5zqig",
+            "data_cid": "2930281973897498028",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b957b7e55f61%3A0x28aa73ee11e40dac&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.9635311,
+                "longitude": 100.3618192
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYV_lt1e51C8RrA3kEe5zqig",
+            "provider_id": "/g/11c2pn0rgs",
+            "rating": 4.5,
+            "reviews": 160,
+            "unclaimed_listing": true,
+            "type": "Townhouse complex",
+            "types": [
+                "Townhouse complex"
+            ],
+            "type_id": "townhouse_complex",
+            "type_ids": [
+                "townhouse_complex"
+            ],
+            "address": "29P6+HPP, Kampung Pondok, Padang Barat, Padang City, West Sumatra, Indonesia",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours"
+            },
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr4jMLd4c13MCU-Su1EfAe7QAb2QtxTGsqewe_qYmmYtnjVvxEOxMMkgd9FqtRj_rcSTvbELhcD17g-49LbLThZcis5tzECxlQWviSVKD6Q4ec047_jwQyP4faLKluSaG0Qw89ArQ=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/UolUMnicBcFLEoIgAADQE5GfKKOZFo5Zi3CKtBrbOIkEmUIKfuqCnaHb9N7vK4x56aVlVWI64UrxinWatVRJw6SZUFVb_KUB1UBbfoAElC0sI1xA6kyj4ATizgnvPvOIn7vEjMlWN2xgWZPWdWpkee7HcD9G0ZMXaNOYY5m1NE76PMSCrh2PA4hwjhNxpQ89M58wGCty6R_xebeeE8ioDb2sHMj7AO83vKu6-La1ybBAfktWg-O6QCAXPIFUf4N_RZQ"
+        },
+        {
+            "position": 16,
+            "title": "Masjid Al Hakim",
+            "place_id": "ChIJza7a2h251C8RrczReinNpK8",
+            "data_cid": "12656466430855859373",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b91ddadaaecd%3A0xafa4cd297ad1ccad&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.8981709999999999,
+                "longitude": 100.3619877
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJza7a2h251C8RrczReinNpK8",
+            "provider_id": "/g/11kk8g5k1_",
+            "rating": 4.9,
+            "reviews": 215,
+            "type": "Mosque",
+            "types": [
+                "Mosque"
+            ],
+            "type_id": "mosque",
+            "type_ids": [
+                "mosque"
+            ],
+            "address": "Jl. Al-Hakim, Kampung Olo, Nanggalo, Padang City, West Sumatra 25173, Indonesia",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours"
+            },
+            "extensions": [
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npUk22ImLq_8hcCs2ttCHoBHuh07KsQ-Se7w4I70eOoW0BqOSvSpNtnfxykbJL_NrKrFTNxvYTPU306wZl-Tl_6FD4lblug_n5agTbP9JWono7K6EqCi7ZVLGssfUcDdqs5uOkt=w80-h106-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/-yo-JnicBcFbcoIwFADQFUUiItHO9KPiGwboAHX0h5EYE4eYC9wAdoEuorvpOX9vZW2DH46j1WwiAaQWPYqOg7HC2AmHpyMbJBwJOl_BUnmmKWrXPTyjtlwoHqBrbbCH1b5XlIX4TTLBRu_AqEjgRFdtkg1ZE1tzf_3W1TEq4y7stnn8Gs55WsyoP140yXXpb9eernQvSzO_yrxKl8cTGGChv2mDB7v8RDvEe8HXtxbnfVLbz3FBiZpSn9TEwD_RtkUK"
+        },
+        {
+            "position": 17,
+            "title": "Asrama Haji Padang",
+            "place_id": "ChIJb6PulDLB1C8R1dUwsAJQv2Q",
+            "data_cid": "7259609096820676053",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4c13294eea36f%3A0x64bf5002b030d5d5&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.8795558,
+                "longitude": 100.34652899999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJb6PulDLB1C8R1dUwsAJQv2Q",
+            "provider_id": "/g/11j33fncn7",
+            "rating": 4.5,
+            "reviews": 489,
+            "unclaimed_listing": true,
+            "type": "Religious lodging",
+            "types": [
+                "Religious lodging"
+            ],
+            "type_id": "religious_lodging",
+            "type_ids": [
+                "religious_lodging"
+            ],
+            "address": "Jl. Bakti No.509, Parupuk Tabing, Kec. Koto Tangah, Kota Padang, Sumatera Barat 25586, Indonesia",
+            "phone": "+62 812-7611-4868",
+            "website": "http://www.uptasramahajipadang.com/",
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npBt05ZyTwW07u2HzA_w3VrVyTBcjIsaUFbs_3EHdn4UUCEH0w-KpZMWrZSLAhr5_P6PF_drn9NxYNMLB_Pe1BS9aWYW60qyp4WeNzzbIB8M3conSK04Y4w27rmjtgSlkDFIOdMFA=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/giUFW3icDc5dboIwAADgE1VqqT8s2QNVCURhJIgNvDQKDY1i27U1HVxwZ9ht5neC7-9XOKftRxCMIlwMSg0jf1luOiUdl27RqWcwaAs6C2wQ7yKBpSYOrtrp7CncvFA6x8yHF3OZzqS7Z_ZaJzfLwkPaS1zXu0MKPTjqNqemrU6xMCtWrsuE9UZGxU9T5CfCSr4kVXSlDV3D70ljyot5vmVkm4fvRnWEuMEebczz7oZqfOyT7KvPk_jTLxECIkLgAaT6ByHSRFI"
+        },
+        {
+            "position": 18,
+            "title": "Tempat pijit",
+            "place_id": "ChIJPQI7AVm51C8ROhAT7AlFx6E",
+            "data_cid": "11657362069389512762",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b959013b023d%3A0xa1c74509ec13103a&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.8921485,
+                "longitude": 100.35671289999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJPQI7AVm51C8ROhAT7AlFx6E",
+            "provider_id": "/g/11smryzyht",
+            "rating": 5,
+            "reviews": 2,
+            "unclaimed_listing": true,
+            "type": "Housing complex",
+            "types": [
+                "Housing complex"
+            ],
+            "type_id": "housing_complex",
+            "type_ids": [
+                "housing_complex"
+            ],
+            "address": "Jl. Seranti No.20, Air Tawar Tim., Kec. Padang Utara, Kota Padang, Sumatera Barat 25173, Indonesia",
+            "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=W_VR5fatJvsOcN3Xm41Lyg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=237.54414&pitch=0&thumbfov=100",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/Y11Z1HicHc1LDsIgFADA27CTT0vjJyHdG6OJC3XXUEqBhBZSnmBv47W8jcYLzHzeFiCmAyEJFq0hO12ie2mfNlFiE4LxWkaXsAoTyYyAfU79LJ1vo5yDG8S9u12bUcIxp4s614-Js9NqkOo75Z2eQSQtF2WxKT9xCQM2MaEidhRZsa_QKouo6i1uOGccRQfKCor-yxiyYJR-AX2fOZA"
+        },
+        {
+            "position": 19,
+            "title": "Kampung Adat Rimbo Tarok",
+            "place_id": "ChIJL2LINrq51C8Rg-ZwzAPqHYE",
+            "data_cid": "9303849707253065347",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4b9ba36c8622f%3A0x811dea03cc70e683&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.8952538,
+                "longitude": 100.4076103
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJL2LINrq51C8Rg-ZwzAPqHYE",
+            "provider_id": "/g/11snvs20x_",
+            "rating": 5,
+            "reviews": 8,
+            "unclaimed_listing": true,
+            "type": "Tourist attraction",
+            "types": [
+                "Tourist attraction"
+            ],
+            "type_id": "tourist_attraction",
+            "type_ids": [
+                "tourist_attraction"
+            ],
+            "address": "4C35+V5R, Gunung Sarik, Kuranji, Padang City, West Sumatra 25173, Indonesia",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours"
+            },
+            "phone": "+62 821-5844-0307",
+            "extensions": [
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                },
+                {
+                    "children": [
+                        "Good for kids"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrmKMMfwrTql_2Yg3tZBZbrnvO_z4bV4JbuaqCBPvkO-QM1OEprEoqP1qT7pqGjpfl_XeCFMGM4iXQNFHQ7cVulbf3pLCvgsKsMXn5CwlxD7UktBDgrOH17XhduBDHkiig3JbrU=w122-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/2qKyK3icBcHbCoIwAADQL5riJaSgh5yVZMuECutFmulmrt3V6P_6iP6mc35faq00C9dlNHCIEIQ1g2l0LbhtuHVq8XKJNKA2wLgrOKch168MoXbSJ8Uq_0oCe4tvWPMxrz4hvoQ7PNwVjI9jn4MCefla6rVQR0-dIqm2T9myqmzgBm1R2JXFYZMWUX0ZGG4DuYcjMZlBJZ_Bib2T6NzbOCE6T72opI8hTtK-60iww_q8nDzfB3Tugx5w8QdRIkXI"
+        },
+        {
+            "position": 20,
+            "title": "Masjid Darul Amal",
+            "place_id": "ChIJr0fkbzzH1C8R0jfcZ5jWcSU",
+            "data_cid": "2698173601837496274",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x2fd4c73c6fe447af%3A0x2571d69867dc37d2&engine=google_maps_reviews&hl=en",
+            "gps_coordinates": {
+                "latitude": -0.8657676999999999,
+                "longitude": 100.36734229999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJr0fkbzzH1C8R0jfcZ5jWcSU",
+            "provider_id": "/g/11b76lthhr",
+            "rating": 4.6,
+            "reviews": 55,
+            "unclaimed_listing": true,
+            "type": "Mosque",
+            "types": [
+                "Mosque"
+            ],
+            "type_id": "mosque",
+            "type_ids": [
+                "mosque"
+            ],
+            "address": "perumahan bunga mas, tahap 3, Koto Panjang Ikua Koto, Kec. Koto Tangah, Kota Padang, Sumatera Barat 25586, Indonesia",
+            "extensions": [
+                {
+                    "amenities": [
+                        "Restroom"
+                    ]
+                }
+            ],
+            "unsupported_extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqs67kWtBoMBWE6DSN4ucXobVRffs71vv4leskJSz7sV2az81KHOA2uRnBjAXrlgtpElqthony8uY7y9tOozRrgGGDf8DwQVwYF8nZcJtOAt0vxx31kvZUiTUXaJ7oRgWFrZjpVyA=w189-h92-k-no",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/7MW2hnicBcFbcoIwFADQFUUKMiZ0xo9QfAydlhEVkD-bgaQSc5FcQNiga-hues7fSyG29t1xtFouJIDUVW-rToDByuBCwN2RrSXCEuvwj0D55mFXtMkxhK8w36yi47ffiwJ-srSuLXWHwdeVbeLjTG3mXWfmfu4T7vWpCW-86LTEdqMfqMBMrL_QKcAE5rSTu11Us2g8ZONly0wpYkw4vg3P59JthvL8ezoX15hCKvNtV97abOLr0WUBUYFHGmLgH9L3Rx0"
+        }
+    ]
+}
